@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{#if title}}{{title}} - {{/if}}Icyizol</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/style.css" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico">
+    {{#if watchMode}}<script src="http://localhost:35729/livereload.js"></script>{{/if}}
+  </head>
+  <body{{#is "/" path.href}} class="homepage"{{/is}}>
+    <header>
+      <div>
+        {{#isnt "/" path.href}}<a href="/">{{/isnt}}
+          <img src="/assets/origis/2016-katemihalikova/logo.png">
+        {{#isnt "/" path.href}}</a>{{/isnt}}
+        <nav>
+          <a href="/onas/"{{#startsWith "onas" path.dir}} class="active"{{/startsWith}}>O nás</a>
+          <a href="/nase-domy/"{{#startsWith "nase-domy" path.dir}} class="active"{{/startsWith}}>Naše domy</a>
+          <a href="/origami/"{{#startsWith "origami" path.dir}} class="active"{{/startsWith}}>Poskládejte si svůj dům</a>
+          <a href="/cesta-k-domu/"{{#startsWith "cesta-k-domu" path.dir}} class="active"{{/startsWith}}>Cesta k domu</a>
+          <a href="/technologie/"{{^startsWith "technologie/caste-dotazy" path.dir}}{{#startsWith "technologie" path.dir}} class="active"{{/startsWith}}{{/startsWith}}>Technologie</a>
+          <a href="/technologie/caste-dotazy/"{{#startsWith "technologie/caste-dotazy" path.dir}} class="active"{{/startsWith}}>Časté dotazy</a>
+          <a href="/kontakt/"{{#startsWith "kontakt" path.dir}} class="active"{{/startsWith}}>Kontakt</a>
+        </nav>
+      </div>
+    </header>
+
+    {{#if (get path.href submenus)}}
+      <div class="subheader submenu">
+        <div>
+          {{#each (get path.href submenus)}}
+            <a href="{{href}}"{{#is href ../path.href}} class="active"{{/is}}>{{label}}</a>
+          {{/each}}
+        </div>
+      </div>
+    {{/if}}
+
+    <a href="" class="rychly-dotaz bg-red white rohy">Rychlý dotaz</a>
+
+    <main>
