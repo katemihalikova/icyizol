@@ -8,16 +8,95 @@ body {
 
 header {
   background-color: map-get($colors, "white");
+  height: 30em;
+  position: relative;
+}
 
+.navcontainer {
+  margin: 0 0 2em 2em;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  bottom: 0;
+}
 
+.menubutton {
+  width: 60px;
+  height: 45px;
+  margin: auto 0 0;
+  position: relative;
+  cursor: pointer;
+
+  > span {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 9px;
+    width: 100%;
+    background: map-get($colors, "blue");
+    border-radius: 3px 0;
+    left: 0;
+  }
+}
+
+.menubutton span:nth-child(1) {
+  top: 0;
+}
+
+.menubutton span:nth-child(2) {
+  top: 18px;
+}
+
+.menubutton span:nth-child(3) {
+  top: 36px;
+}
+
+.navlist {
+  display: none;
+  list-style: none;
+  padding-left: 0;
+  margin: 0 auto 0 1em;
+  border-radius: 15px 0;
+  background: map-get($colors, "blue");
+
+  > li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: map-get($colors, "white");
+    padding: 0.5em 2em;
+  }
+
+  > li:hover,
+  li:active {
+    background: map-get($colors, "green");
+  }
+}
+
+.navlist li:first-child {
+  border-top-left-radius: 15px;
+}
+
+.navlist li:last-child {
+  border-bottom-right-radius: 15px;
+}
+
+.navlist li:not(:last-child) {
+  border-bottom: 1px solid map-get($colors, "white");
+}
+
+.navlist.is-open {
+  display: inline-block;
 }
 
 main {
   background-color: map-get($colors, "white");
-  > section, > a {
+
+   > section,
+  > a {
     display: block;
     padding: 20px;
     text-decoration: none;
+
     > div {
       margin: 0 auto;
       max-width: $max-width;
@@ -37,58 +116,81 @@ main {
   text-decoration: none;
 }
 
-
 .grid {
   display: flex;
-  > .col {
-    display: block;
-    flex: 1 1 0;
-  }
-  > .autocol {
-    display: block;
-    flex: 1 1 auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+@media all and (min-width: 30em) {
+  flex-direction: row;
+}
+  > a.blue {
+    padding: 1em 2em;
+    text-decoration: none;
   }
 }
+
+.boxes {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em 2em;
+}
+
 
 .large {
   font-size: 1.2em;
 }
+
 .larger {
   font-size: 1.5em;
 }
+
 .bold {
   font-weight: bold;
 }
+
 .center {
   text-align: center;
 }
+
 .pv {
   padding: 20px 0;
 }
 
 footer {
-  // position: absolute;
-  // bottom: 0;
-  // left: 0;
-  // right: 0;
   font-size: .8em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  .grid {
+    align-items: baseline;
+    padding-left: 2.5em;
 
+    .boxes:nth-child(n+2) {
+      align-items: baseline;
+    }
+  }
   a {
-    // text-decoration: none;
+    text-decoration: none;
   }
 
   dt {
-    font-weight: bold;
     text-transform: uppercase;
     padding-bottom: 1em;
   }
 
   ul {
     margin: 0;
-    padding: 0 0 0 .5em;
+    padding: 0;
     list-style: none;
+
     li {
       position: relative;
+
       &:before {
         position: absolute;
         content: "●";
@@ -97,16 +199,28 @@ footer {
       }
     }
   }
-
-  > div {
-    max-width: $max-width;
-    margin: 0 auto;
-    padding: 20px 40px;
-    > div {
-      padding: 20px 10px;
-    }
-  }
-
+  // ul {
+  //   margin: 0;
+  //   padding: 0 0 0 .5em;
+  //   list-style: none;
+  //   li {
+  //     position: relative;
+  //     &:before {
+  //       position: absolute;
+  //       content: "●";
+  //       left: -.9em;
+  //       color: map-get($colors, "blue");
+  //     }
+  //   }
+  // }
+  // > div {
+  //   max-width: $max-width;
+  //   margin: 0 auto;
+  //   padding: 20px 40px;
+  //   > div {
+  //     padding: 20px 10px;
+  //   }
+  // }
   // .social a {
   //   img {
   //     width: $footer-social-icon-width;
@@ -114,23 +228,11 @@ footer {
   //     transition: transform $footer-social-icon-scale-duration;
   //     margin: 0 5px 0 0;
   //   }
-
   //   &:hover img {
   //     transform: scale($footer-social-icon-scale);
   //   }
   // }
-}
-
-.boxes {
-  > .col {
-    padding: 0 30px;
-    @media all and (max-width: 1024px) {
-      padding: 0 3vw;
-    }
-  }
-  p {
-    font-size: .8em;
-  }
+  // </footer>
 }
 
 .nadpis {
@@ -138,12 +240,8 @@ footer {
   text-transform: uppercase;
   font-weight: bold;
   text-align: center;
-  padding: 20px;
+  padding: 20px 0;
 }
-
-
-
-
 
 .rohy {
   border-radius: 15px 0;
@@ -151,28 +249,26 @@ footer {
 
 .button {
   display: inline-block;
-  padding: .5em 2em;
+  padding: 0.5em 2em;
   text-decoration: none;
   font-weight: bold;
 }
 
-
-
-
 img {
   max-width: 100%;
 }
-
 @each $name, $color in $colors {
   .#{$name} {
     color: $color;
   }
+
   .bg-#{$name} {
     background-color: $color;
   }
 }
 
-html, body {
+body,
+html {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -181,6 +277,8 @@ html, body {
   font-family: $font;
 }
 
-*, *:before, *:after {
+*,
+*:after,
+*:before {
   box-sizing: border-box;
 }
