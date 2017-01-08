@@ -26,6 +26,9 @@ header {
   margin: auto 0 0;
   position: relative;
   cursor: pointer;
+  @media all and (min-width: 30em) {
+    display: none;
+  }
 
   > span {
     content: "";
@@ -58,6 +61,9 @@ header {
   margin: 0 auto 0 1em;
   border-radius: 15px 0;
   background: map-get($colors, "blue");
+  @media all and (min-width: 30em) {
+    display: block;
+  }
 
   > li a {
     text-decoration: none;
@@ -100,6 +106,9 @@ main {
     > div {
       margin: 0 auto;
       max-width: $max-width;
+      @media all and (min-width: 30em) {
+        max-width: 1200px;
+      }
     }
   }
 }
@@ -118,26 +127,32 @@ main {
 
 .grid {
   display: flex;
+  flex: 1;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-@media all and (min-width: 30em) {
-  flex-direction: row;
-}
   > a.blue {
     padding: 1em 2em;
     text-decoration: none;
   }
+  .boxes {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 2em;
+  }
+  @media all and (min-width: 30em) {
+    flex-direction: row;
+    align-self: stretch;
+    .boxes {
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+  }
 }
 
-.boxes {
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1em 2em;
-}
 
 
 .large {
@@ -159,17 +174,27 @@ main {
 .pv {
   padding: 20px 0;
 }
-
 footer {
-  font-size: .8em;
+  @media all and (min-width: 30em) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.footer-container {
+  max-width: $max-width;
   display: flex;
+  flex: 1;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  font-size: .8em;
   .grid {
     align-items: baseline;
-    padding-left: 2.5em;
-
+    padding: 0 0 2em 2.5em;
+    .boxes:nth-child(2) .informace > div:last-child {
+      padding-top: 1em;
+    }
     .boxes:nth-child(n+2) {
       align-items: baseline;
     }
@@ -199,28 +224,45 @@ footer {
       }
     }
   }
-  // ul {
-  //   margin: 0;
-  //   padding: 0 0 0 .5em;
-  //   list-style: none;
-  //   li {
-  //     position: relative;
-  //     &:before {
-  //       position: absolute;
-  //       content: "●";
-  //       left: -.9em;
-  //       color: map-get($colors, "blue");
-  //     }
-  //   }
-  // }
-  // > div {
-  //   max-width: $max-width;
-  //   margin: 0 auto;
-  //   padding: 20px 40px;
-  //   > div {
-  //     padding: 20px 10px;
-  //   }
-  // }
+  @media all and (min-width: 30em) {
+    max-width: 1200px;
+    flex-direction: row;
+    justify-content: space-between;
+    .loga {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex: 1;
+    }
+    .grid {
+      flex: 3;
+      flex-direction: row;
+      justify-content: center;
+      padding: 2em 0;
+      .boxes {
+        padding: auto;
+      }
+      .boxes:first-child, .boxes:last-child {
+        flex: 0.75;
+        align-items: center;
+      }
+      .boxes:nth-child(2) {
+        flex: 1.5;
+        flex-direction: column;
+        justify-content: space-around;
+        .label {
+          flex: 1 100%;
+        }
+        .informace {
+          align-self: stretch;
+          display: flex;
+          flex-direction: row;
+          align-items: flex-start;
+          justify-content: space-between;
+        }
+      }
+    }
+  }
   // .social a {
   //   img {
   //     width: $footer-social-icon-width;
