@@ -1,6 +1,6 @@
 $max-width: 1024px;
 $font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-$colors: ("yellow": gold, "green": yellowgreen, "red": red, "white": white, "gray": #8a8a8a, "blue": #00679c);
+$colors: ("yellow": gold, "green": #96c11e, "red": red, "white": white, "gray": #8a8a8a, "blue": #005ca7);
 
 body {
   background-color: map-get($colors, "gray");
@@ -8,25 +8,32 @@ body {
 
 header {
   background-color: map-get($colors, "white");
-  height: 30em;
-  position: relative;
+  > div {
+    position: relative;
+    max-width: $max-width;
+    margin: 0 auto;
+  }
+}
+
+.bottom-img {
+  display: block;
+  @media all and (min-width: 600px) {
+    margin: 10px auto -222px;
+  }
 }
 
 .navcontainer {
-  margin: 0 0 2em 2em;
   display: flex;
   flex-direction: row;
-  position: absolute;
-  bottom: 0;
 }
 
 .menubutton {
   width: 60px;
   height: 45px;
-  margin: auto 0 0;
+  margin: 10px;
   position: relative;
   cursor: pointer;
-  @media all and (min-width: 30em) {
+  @media all and (min-width: 600px) {
     display: none;
   }
 
@@ -37,7 +44,7 @@ header {
     height: 9px;
     width: 100%;
     background: map-get($colors, "blue");
-    border-radius: 3px 0;
+    border-radius: 5px 0;
     left: 0;
   }
 }
@@ -58,40 +65,51 @@ header {
   display: none;
   list-style: none;
   padding-left: 0;
-  margin: 0 auto 0 1em;
   border-radius: 15px 0;
-  background: map-get($colors, "blue");
-  @media all and (min-width: 30em) {
+  background-color: map-get($colors, "blue");
+  z-index: 99;
+  @extend .rohy;
+  @media all and (max-width: 599px) {
+    position: absolute;
+    left: 80px;
+    right: 0;
+    top: 20px;
+    max-width: 14.5em;
+    margin: 0;
+  }
+  @media all and (min-width: 600px) {
     display: block;
+    margin: 0 0 -120px 5px;
   }
 
-  > li a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: map-get($colors, "white");
-    padding: 0.5em 2em;
+  > li {
+     a {
+      display: block;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: map-get($colors, "white");
+      padding: 1em 2.5em;
+    }
+
+    &:hover, &.active {
+      background-color: map-get($colors, "green");
+    }
+
+    & + li {
+      border-top: 1px solid map-get($colors, "white");
+    }
+
+    &:first-child {
+      border-top-left-radius: 15px;
+    }
+    &:last-child {
+      border-bottom-right-radius: 15px;
+    }
   }
 
-  > li:hover,
-  li:active {
-    background: map-get($colors, "green");
+  &.is-open {
+    display: inline-block;
   }
-}
-
-.navlist li:first-child {
-  border-top-left-radius: 15px;
-}
-
-.navlist li:last-child {
-  border-bottom-right-radius: 15px;
-}
-
-.navlist li:not(:last-child) {
-  border-bottom: 1px solid map-get($colors, "white");
-}
-
-.navlist.is-open {
-  display: inline-block;
 }
 
 main {
@@ -106,9 +124,6 @@ main {
     > div {
       margin: 0 auto;
       max-width: $max-width;
-      @media all and (min-width: 30em) {
-        max-width: 1200px;
-      }
     }
   }
 }
@@ -123,36 +138,76 @@ main {
   font-size: 1.2em;
   text-transform: uppercase;
   text-decoration: none;
+  @media all and (max-width: 599px) {
+    font-size: .8em;
+    top: 130px;
+  }
 }
 
+// .grid {
+//   display: flex;
+//   flex: 1;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+//   > a.blue {
+//     padding: 1em 2em;
+//     text-decoration: none;
+//   }
+//   .boxes {
+//     display: flex;
+//     flex: 1;
+//     flex-direction: column;
+//     align-items: center;
+//     justify-content: space-between;
+//     padding: 1em 2em;
+//   }
+//   @media all and (min-width: 600px) {
+//     flex-direction: row;
+//     align-self: stretch;
+//     .boxes {
+//       align-items: flex-start;
+//       justify-content: space-between;
+//     }
+//   }
+// }
+
 .grid {
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  > a.blue {
-    padding: 1em 2em;
-    text-decoration: none;
-  }
-  .boxes {
+  display: block;
+  @media all and (min-width: 600px) {
     display: flex;
-    flex: 1;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1em 2em;
   }
-  @media all and (min-width: 30em) {
-    flex-direction: row;
-    align-self: stretch;
-    .boxes {
-      align-items: flex-start;
-      justify-content: space-between;
+  > .col {
+    flex: 1 1 0;
+  }
+  > .autocol {
+    flex: 1 1 auto;
+  }
+  > .minicol {
+    flex: 0 1 auto;
+  }
+  > .col, > .autocol, > .minicol {
+    display: block;
+    @media all and (min-width: 600px) {
+      &:not(:first-child) {
+        padding-left: 15px;
+      }
+      &:not(:last-child) {
+        padding-right: 15px;
+      }
     }
   }
 }
 
+
+.boxes {
+   display: flex;
+   flex: 1;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+   padding: 1em 2em;
+ }
 
 
 .large {
@@ -175,7 +230,7 @@ main {
   padding: 20px 0;
 }
 footer {
-  @media all and (min-width: 30em) {
+  @media all and (min-width: 600px) {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -191,12 +246,8 @@ footer {
   font-size: .8em;
   .grid {
     align-items: baseline;
-    padding: 0 0 2em 2.5em;
-    .boxes:nth-child(2) .informace > div:last-child {
-      padding-top: 1em;
-    }
-    .boxes:nth-child(n+2) {
-      align-items: baseline;
+    @media all and (min-width: 600px) {
+      padding: 0 0 2em 2.5em;
     }
   }
   a {
@@ -224,18 +275,19 @@ footer {
       }
     }
   }
+  .loga {
+    padding: 10px 5px 0;
+  }
   @media all and (min-width: 30em) {
     max-width: 1200px;
     flex-direction: row;
     justify-content: space-between;
     .loga {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex: 1;
+      padding: 10px 5px 0;
+      flex: 1 1 20%;
     }
     .grid {
-      flex: 3;
+      flex: 1 1 80%;
       flex-direction: row;
       justify-content: center;
       padding: 2em 0;
@@ -243,15 +295,15 @@ footer {
         padding: auto;
       }
       .boxes:first-child, .boxes:last-child {
-        flex: 0.75;
+        flex: 1 1 25%;
         align-items: center;
       }
       .boxes:nth-child(2) {
-        flex: 1.5;
+        flex: 1 1 50%;
         flex-direction: column;
         justify-content: space-around;
         .label {
-          flex: 1 100%;
+          flex: 1 1 100%;
         }
         .informace {
           align-self: stretch;
@@ -277,12 +329,64 @@ footer {
   // </footer>
 }
 
+.under-menu > div {
+  @media all and (min-width: 600px) {
+    padding: 0 15px 0 240px;
+  }
+}
+
 .nadpis {
   font-size: 2em;
   text-transform: uppercase;
   font-weight: bold;
   text-align: center;
   padding: 20px 0;
+  margin: 0;
+}
+
+hr {
+  border: none;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+  @extend .nadpis;
+  color: map-get($colors, "blue");
+  .white & {
+    color: white;
+  }
+}
+
+h1, .h1, h2, .h2, hr {
+  border-bottom: 1px solid map-get($colors, "blue");
+}
+
+h3, .h3, h4, .h4 {
+  text-transform: none;
+  font-variant: small-caps;
+  padding: 10px 0;
+}
+
+h1, .h1 {
+  font-size: 40px;
+}
+h2, .h2 {
+  font-size: 35px;
+}
+h3, .h3 {
+  font-size: 30px;
+}
+h4, .h4 {
+  font-size: 25px;
+  &.flexy {
+    @media all and (max-width: 599px) {
+      font-size: 18px;
+      padding: 5px 0 20px;
+    }
+    @media all and (min-width: 600px) {
+      font-size: 25px;
+      font-size: 2vmin;
+    }
+  }
 }
 
 .rohy {
@@ -296,9 +400,99 @@ footer {
   font-weight: bold;
 }
 
+.no-under, .no-under * {
+  text-decoration: none;
+}
+.no-border, .no-border * {
+  border: none;
+}
+
 img {
   max-width: 100%;
+
+  section & {
+    @extend .rohy;
+    border-width: 5px;
+    border-style: solid;
+    border-color: map-get($colors, "blue");
+  }
+  section a & {
+    @extend .rohy;
+    border-width: 5px;
+    border-style: solid;
+    border-color: lighten(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) lighten(map-get($colors, "blue"), 10%);
+  }
 }
+
+section iframe {
+  @media all and (min-width: 600px) {
+    width: 669px;
+    width: 50vmin;
+    height: 376px;
+    height: 28vmin;
+  }
+  width: 100%;
+  height: 200px;
+  height: 28vh;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  @extend .rohy;
+  border-width: 5px;
+  border-style: solid;
+  border-color: darken(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) darken(map-get($colors, "red"), 10%);
+}
+
+section table {
+  width: 100%;
+  border-collapse: collapse;
+  th {
+    font-size: 1.2em;
+    color: map-get($colors, "white");
+    background-color: map-get($colors, "green");
+  }
+  th, td {
+    padding: .5em .7em;
+    @media all and (max-width: 599px) {
+      font-size: .8em;
+    }
+  }
+  td {
+    border-bottom: 1px dotted map-get($colors, "gray");
+  }
+}
+
+
+.o-nas {
+  h3 {
+    text-align: left;
+  }
+  img {
+    border: 0;
+  }
+}
+
+.aktuality {
+  @media all and (max-width: 599px) {
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  @media all and (min-width: 600px) {
+    h3, h4 {
+      text-align: left;
+    }
+  }
+  h3 {
+    padding-bottom: 0;
+  }
+  h4 {
+    padding-top: 0;
+  }
+}
+
+
 @each $name, $color in $colors {
   .#{$name} {
     color: $color;

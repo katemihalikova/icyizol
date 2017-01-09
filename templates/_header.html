@@ -6,15 +6,16 @@
   <title>{{#if title}}{{title}} - {{/if}}Icyizol</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/assets/style.css" type="text/css">
-  <link rel="shortcut icon" href="/favicon.ico"> {{#if watchMode}}
-  <script src="http://localhost:35729/livereload.js"></script>{{/if}}
+  <link rel="stylesheet" href="/assets/vendor/swipebox.min.css" type="text/css">
+  <link rel="shortcut icon" href="/favicon.ico">
+  {{#if watchMode}}<script src="http://localhost:35729/livereload.js"></script>{{/if}}
 </head>
 <body{{#is "/" path.href}} class="homepage" {{/is}}>
   <header>
     <div>
-      {{#isnt "/" path.href}}<a href="/">{{/isnt}}
-      <img src="/assets/origis/2016-katemihalikova/logo.png">
-    {{#isnt "/" path.href}}</a>{{/isnt}}
+      <a href="/"><img src="/assets/top.png"></a>
+      <a href="/"><img src="/assets/mapa.png"style="width:30vw;position:absolute;right:2vw;margin-top:5vw;"></a>
+      <img src="/assets/title_bg.png" class="bottom-img">
       <nav class="navcontainer">
         <div class="menubutton">
           <span></span>
@@ -22,27 +23,26 @@
           <span></span>
         </div>
         <ul class="navlist">
-          <li class="bold pv">
-            <a href="/onas/" {{#startsWith "onas" path.dir}} class="active" {{/startsWith}}>O nás</a>
+          <li class="bold{{#startsWith "/o-nas" path.href}} active{{/startsWith}}">
+            <a href="/o-nas.html">O nás</a>
           </li>
-          <li class="bold pv">
-            <a href="/produckty/" {{#startsWith "produckty" path.dir}} class="active" {{/startsWith}}>Produkty</a>
+          <li class="bold{{#startsWith "/co-je-to" path.href}} active{{/startsWith}}">
+            <a href="/co-je-to-chytra-izolace.html">Chytrá izolace<span style="vertical-align:super;line-height:.8;">®</span></a>
           </li>
-          <li class="bold pv">
-            <a href="/referencec/" {{#startsWith "referencec" path.dir}} class="active" {{/startsWith}}>Reference</a>
+          <li class="bold{{#startsWith "/produkty" path.href}} active{{/startsWith}}">
+            <a href="/produkty.html">Produkty</a>
           </li>
-          <li class="bold pv">
-            <a href="/aktuality/" {{#startsWith "aktuality" path.dir}} class="active" {{/startsWith}}>Aktuality</a>
+          <li class="bold{{#startsWith "/reference" path.href}} active{{/startsWith}}">
+            <a href="/reference.html">Reference</a>
           </li>
-          <li class="bold pv">
-            <!-- TODO: FIX THIS LINK -->
-            <a href="/knihovna/" {{^startsWith "technologie/caste-dotazy" path.dir}}{{#startsWith "technologie" path.dir}} class="active" {{/startsWith}}{{/startsWith}}>Knihovna</a>
+          <li class="bold{{#startsWith "/aktuality" path.href}} active{{/startsWith}}">
+            <a href="/aktuality.html">Aktuality</a>
           </li>
-          <!-- <li class="bold pv">
-              <a href="/technologie/caste-dotazy/"{{#startsWith "technologie/caste-dotazy" path.dir}} class="active"{{/startsWith}}>Časté dotazy</a>
-            </li> -->
-          <li class="bold pv">
-            <a href="/kontakt/" {{#startsWith "kontakt" path.dir}} class="active" {{/startsWith}}>Kontakt</a>
+          <li class="bold">
+            <a href="http://chytraizolace.cz/knihovna-architekti/" target="_blank">Knihovna</a>
+          </li>
+          <li class="bold{{#startsWith "/kontakt" path.href}} active{{/startsWith}}">
+            <a href="/kontakt.html">Kontakt</a>
           </li>
         </ul>
       </nav>
@@ -57,6 +57,9 @@
     </div>
   </div>
   {{/if}}
-  <a href="" class="rychly-dotaz bg-red white rohy">Rychlý dotaz</a>
+  <a href="/kontakt.html" class="rychly-dotaz bg-red white rohy">Rychlý dotaz</a>
 
   <main>
+    <a href="/kontakt.html" class="kalkulace nadpis white bg-yellow under-menu">
+      <div>Připravíme Vám cenovou kalkulaci <span class="red">zdarma</span></div>
+    </a>

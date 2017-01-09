@@ -1,15 +1,16 @@
-function init() {
-  navController();
-}
+~function() {
+  'use strict';
 
-function navController() {
-  const mBtn = document.querySelector('.menubutton');
-  const navList = document.querySelector('.navlist');
+  var mBtn = document.querySelector('.menubutton');
+  var navList = document.querySelector('.navlist');
   mBtn.addEventListener('click', function() {
     navList.classList.toggle('is-open');
   });
-}
 
-document.addEventListener('DOMContentLoaded', function() {
-  init();
-});
+  $('[gallery]').each(function(i) {
+    $('a', this).attr('rel', 'i' + i);
+  });
+  $('[gallery] a:has(img)').swipebox({
+    hideBarsDelay: 0,
+  });
+}();
