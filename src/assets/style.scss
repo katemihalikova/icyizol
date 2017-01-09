@@ -197,6 +197,22 @@ main {
       }
     }
   }
+  &.half {
+    @media all and (min-width: 600px) {
+      .col:first-child {
+        flex: 0 1 30%;
+      }
+    }
+    @media all and (min-width: 880px) {
+      &:last-of-type .col:first-child {
+        flex: 0 1 60%;
+      }
+      width: 50%;
+      padding: 0 20px;
+      // margin: 0 -20px;
+      float: left;
+    }
+  }
 }
 
 
