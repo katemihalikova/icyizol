@@ -19,14 +19,13 @@ layout: subpage.html
 
 <!--</div><div class="col" gallery>-->
 
-#### Zateplení podkroví Liberec
+#### Zateplení muzea lyžování v Harrachově
 
-<a href="/assets/reference/podkrovi1.jpg"><img src="/assets/reference/podkrovi.jpg"></a>
-<a href="/assets/reference/podkrovi2.jpg" style="display:none;"><img></a>
-<a href="/assets/reference/podkrovi3.jpg" style="display:none;"><img></a>
-<a href="/assets/reference/podkrovi4.jpg" style="display:none;"><img></a>
-<a href="/assets/reference/podkrovi5.jpg" style="display:none;"><img></a>
-<a href="/assets/reference/podkrovi6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/muzeum1.jpg"><img src="/assets/reference/muzeum.jpg"></a>
+<a href="/assets/reference/muzeum2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/muzeum3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/muzeum4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/muzeum5.jpg" style="display:none;"><img></a>
 
 <!--</div></div>-->
 <!--<div class="grid"><div class="col" gallery>-->
@@ -119,4 +118,14 @@ layout: subpage.html
 <a href="/assets/reference/korenov2.jpg" style="display:none;"><img></a>
 
 <!--</div><div class="col" gallery>-->
+
+#### Zateplení podkroví Liberec
+
+<a href="/assets/reference/podkrovi1.jpg"><img src="/assets/reference/podkrovi.jpg"></a>
+<a href="/assets/reference/podkrovi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/podkrovi3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/podkrovi4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/podkrovi5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference/podkrovi6.jpg" style="display:none;"><img></a>
+
 <!--</div></div>-->
