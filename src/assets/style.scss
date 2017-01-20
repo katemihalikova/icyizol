@@ -61,26 +61,11 @@ header {
   top: 36px;
 }
 
-.navlist {
-  display: none;
+.navlist, .navlist-right {
   list-style: none;
   padding-left: 0;
-  border-radius: 15px 0;
-  background-color: map-get($colors, "blue");
   z-index: 99;
   @extend .rohy;
-  @media all and (max-width: 599px) {
-    position: absolute;
-    left: 80px;
-    right: 0;
-    top: 20px;
-    max-width: 14.5em;
-    margin: 0;
-  }
-  @media all and (min-width: 600px) {
-    display: block;
-    margin: 0 0 -120px 5px;
-  }
 
   > li {
      a {
@@ -106,9 +91,41 @@ header {
       border-bottom-right-radius: 15px;
     }
   }
+}
+.navlist {
+  display: none;
+  background-color: map-get($colors, "blue");
+
+  @media all and (max-width: 599px) {
+    position: absolute;
+    left: 80px;
+    right: 0;
+    top: 20px;
+    max-width: 14.5em;
+    margin: 0;
+  }
+  @media all and (min-width: 600px) {
+    display: block;
+    margin: 0 0 -120px 5px;
+  }
 
   &.is-open {
     display: inline-block;
+  }
+}
+.navlist-right {
+  background-color: map-get($colors, "red");
+  width: auto;
+
+  @media all and (max-width: 599px) {
+    float: right;
+    margin: 5px 10px;
+  }
+  @media all and (min-width: 600px) {
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    margin: 0;
   }
 }
 
@@ -132,15 +149,34 @@ main {
   position: fixed;
   top: 50%;
   right: 0;
+  z-index: 100;
+  box-shadow: 0px 0px 10px 5px map-get($colors, "white");
   transform: rotateZ(90deg) translateX(50%);
   transform-origin: right top;
   padding: 10px 15px;
-  font-size: 1.2em;
+  font-size: 1.6em;
   text-transform: uppercase;
   text-decoration: none;
+  opacity: .7;
+  &:hover {
+    opacity: 1;
+  }
   @media all and (max-width: 599px) {
     font-size: .8em;
-    top: 130px;
+    top: auto;
+    bottom: 130px;
+    opacity: 1;
+  }
+}
+
+.mapa {
+  width: 38vw;
+  position: absolute;
+  right: 2vw;
+  margin-top: 65px;
+  max-width: 380px;
+  @media all and (max-width: 599px) {
+    margin-top: 5vw;
   }
 }
 
@@ -177,6 +213,17 @@ main {
   @media all and (min-width: 600px) {
     display: flex;
   }
+  .partneri & {
+    @media all and (max-width: 767px) {
+      display: block;
+      & > .col {
+        &, &:not(:first-child), &:not(:last-child) {
+          padding-left: 0;
+          padding-right: 0;
+        }
+      }
+    }
+  }
   > .col {
     flex: 1 1 0;
   }
@@ -191,9 +238,15 @@ main {
     @media all and (min-width: 600px) {
       &:not(:first-child) {
         padding-left: 15px;
+        &.no-padding {
+          padding-left: 0;
+        }
       }
       &:not(:last-child) {
         padding-right: 15px;
+        &.no-padding {
+          padding-right: 0;
+        }
       }
     }
   }
@@ -215,6 +268,22 @@ main {
   }
 }
 
+.partneri {
+  @media all and (max-width: 767px) {
+    hr {
+      display: none;
+    }
+    p:first-child, hr + p {
+      margin-bottom: 0;
+      &:before {
+        display: block;
+        content: "";
+        border-bottom: 1px solid map-get($colors, "blue");
+        margin: 10px 0;
+      }
+    }
+  }
+}
 
 .boxes {
    display: flex;
@@ -352,7 +421,7 @@ footer {
 }
 
 .nadpis {
-  font-size: 2em;
+  font-size: 1.9em;
   text-transform: uppercase;
   font-weight: bold;
   text-align: center;
@@ -372,7 +441,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   }
 }
 
-h1, .h1, h2, .h2, hr {
+h1, .h1, h2, .h2, hr, .no-border hr {
   border-bottom: 1px solid map-get($colors, "blue");
 }
 

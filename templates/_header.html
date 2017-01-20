@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>{{#if title}}{{title}} - {{/if}}Icyizol</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/style.css" type="text/css">
+  <link rel="stylesheet" href="/assets/style.css?v=2017-01-20" type="text/css">
   <link rel="stylesheet" href="/assets/vendor/swipebox.min.css" type="text/css">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
@@ -21,8 +21,15 @@
   <header>
     <div>
       <a href="/"><img src="/assets/top.png"></a>
-      <a href="/"><img src="/assets/mapa.png"style="width:38vw;position:absolute;right:2vw;margin-top:5vw;max-width:380px;"></a>
+      <a href="/"><img src="/assets/mapa.png" class="mapa"></a>
       <a href="/"><img src="/assets/title_bg.png" class="bottom-img"></a>
+      <nav class="navcontainer-right">
+        <ul class="navlist-right">
+          <li class="bold{{#startsWith "/partneri" path.href}} active{{/startsWith}}">
+            <a href="/partneri.html">Partneři</a>
+          </li>
+        </ul>
+      </nav>
       <nav class="navcontainer">
         <div class="menubutton">
           <span></span>
