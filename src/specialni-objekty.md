@@ -10,13 +10,13 @@ layout: subpage.html
 
 <!--<section class="bg-green white no-under no-border"><div>
 <div class="grid"><a class="col center" href="#bazeny">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/bazeny-300x188.png">
+<img src="/assets/original/bazeny-300x188.png">
 <p class="h4 flexy">Bazény</p>
 </a><a class="col center" href="#zasobniky">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/zasobniky-300x188.png">
+<img src="/assets/original/zasobniky-300x188.png">
 <p class="h4 flexy">Zásobníky</p>
 </a><a class="col center" href="#ostatni">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/sklepy-300x188.png">
+<img src="/assets/original/sklepy-300x188.png">
 <p class="h4 flexy">Ostatní</p>
 </a></div>
 </div></section>-->
@@ -35,7 +35,7 @@ Zateplení bazénu polyuretanovou pěnou má kromě výborných tepelně-izolač
 
 <!--</div><div class="minicol">-->
 
-![Bazén](http://chytraizolace.cz/xobsah/uploads/2015/06/shutterstock_143036107-300x200.jpg "Bazén")
+![Bazén](/assets/original/shutterstock_143036107-300x200.jpg "Bazén")
 
 <!--</div></div>-->
 
@@ -43,8 +43,8 @@ Zateplení bazénu polyuretanovou pěnou má kromě výborných tepelně-izolač
 
 <p class="center" gallery>
 
-[![ukázka aplikace bazénu](http://chytraizolace.cz/xobsah/uploads/2015/06/1376576997-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1376576997.jpg "ukázka aplikace bazénu")
-[![zateplení bazénu](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577001-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577001.jpg "zateplení bazénu")
+[![ukázka aplikace bazénu](/assets/original/1376576997-150x150.jpg)](/assets/original/1376576997.jpg "ukázka aplikace bazénu")
+[![zateplení bazénu](/assets/original/1376577001-150x150.jpg)](/assets/original/1376577001.jpg "zateplení bazénu")
 
 </p>
 
@@ -86,7 +86,7 @@ Za extrémně krátkou dobu jsme schopni zajistit dokonalé izolační řešení
 
 <!--</div><div class="minicol">-->
 
-![Zásobník](http://chytraizolace.cz/xobsah/uploads/2015/06/shutterstock_265668683-300x200.jpg "Zásobník")
+![Zásobník](/assets/original/shutterstock_265668683-300x200.jpg "Zásobník")
 
 <!--</div></div>-->
 
@@ -94,9 +94,9 @@ Za extrémně krátkou dobu jsme schopni zajistit dokonalé izolační řešení
 
 <p class="center" gallery>
 
-[![Zateplení střechy sklepa, Ravas Žarošice](http://chytraizolace.cz/xobsah/uploads/2015/06/1416471190-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1416471190.jpg "Zateplení střechy sklepa, Ravas Žarošice")
-[![zateplení zásobníku](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577013-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577013-1024x768.jpg "zateplení zásobníku")
-[![zateplení zásobníku](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577006-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1376577006-1024x768.jpg "zateplení zásobníku")
+[![Zateplení střechy sklepa, Ravas Žarošice](/assets/original/1416471190-150x150.jpg)](/assets/original/1416471190.jpg "Zateplení střechy sklepa, Ravas Žarošice")
+[![zateplení zásobníku](/assets/original/1376577013-150x150.jpg)](/assets/original/1376577013-1024x768.jpg "zateplení zásobníku")
+[![zateplení zásobníku](/assets/original/1376577006-150x150.jpg)](/assets/original/1376577006-1024x768.jpg "zateplení zásobníku")
 
 </p>
 
@@ -134,7 +134,7 @@ Neustále nalézáme stále nové a nové uplatnění pro naše stříkané pěn
 
 <!--</div><div class="minicol">-->
 
-![Kontejner](http://chytraizolace.cz/xobsah/uploads/2015/06/shutterstock_62445592-300x112.jpg "Kontejner")
+![Kontejner](/assets/original/shutterstock_62445592-300x112.jpg "Kontejner")
 
 <!--</div><div class="col">-->
 
@@ -163,16 +163,16 @@ Pokud Vás tento způsob řešení zateplení mobilheimu zaujal, neváhejte a po
 
 <p class="center" gallery>
 
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/1-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/1-1024x768.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/3-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/3-1024x765.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/5-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/5-1024x765.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/7-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/7-1024x765.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/9-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/9-1024x765.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/06/13-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/13-1024x765.jpg)
-[![fasáda mobilheimu, Stašek Obora](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_3171-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_3171.jpg "fasáda mobilheimu, Stašek Obora")
-[![zateplení kontejneru, DAKO Brno](http://chytraizolace.cz/xobsah/uploads/2015/06/Dako-Brno-Prace-1-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Dako-Brno-Prace-1-1024x768.jpg "zateplení kontejneru, DAKO Brno")
-[![bobová dráha Insbruck](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_4490-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_4490-1024x768.jpg "bobová dráha Insbruck")
-[![11](http://chytraizolace.cz/xobsah/uploads/2015/06/11-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/11-1024x765.jpg "11")
+[![](/assets/original/0-150x150.jpg)](/assets/original/0-1024x768.jpg)
+[![](/assets/original/2-150x150.jpg)](/assets/original/2-1024x765.jpg)
+[![](/assets/original/5-150x150.jpg)](/assets/original/5-1024x765.jpg)
+[![](/assets/original/7-150x150.jpg)](/assets/original/7-1024x765.jpg)
+[![](/assets/original/9-150x150.jpg)](/assets/original/9-1024x765.jpg)
+[![](/assets/original/13-150x150.jpg)](/assets/original/13-1024x765.jpg)
+[![fasáda mobilheimu, Stašek Obora](/assets/original/IMG_3171-150x150.jpg)](/assets/original/IMG_3171.jpg "fasáda mobilheimu, Stašek Obora")
+[![zateplení kontejneru, DAKO Brno](/assets/original/Dako-Brno-Prace-1-150x150.jpg)](/assets/original/Dako-Brno-Prace-1-1024x768.jpg "zateplení kontejneru, DAKO Brno")
+[![bobová dráha Insbruck](/assets/original/IMG_4490-150x150.jpg)](/assets/original/IMG_4490-1024x768.jpg "bobová dráha Insbruck")
+[![](/assets/original/12-150x150.jpg)](/assets/original/12-1024x765.jpg)
 
 </p>
 

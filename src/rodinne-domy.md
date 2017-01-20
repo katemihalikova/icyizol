@@ -10,16 +10,16 @@ layout: subpage.html
 
 <!--<section class="bg-green white no-under no-border"><div>
 <div class="grid"><a class="col center" href="#strechy">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/08/strechy.jpg">
+<img src="/assets/original/strechy.png">
 <p class="h4 flexy">Střechy</p>
 </a><a class="col center" href="#stropy-a-podlahy">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/08/stropy_podlahy.jpg">
+<img src="/assets/original/stropy_podlahy.png">
 <p class="h4 flexy">Stropy a podlahy</p>
 </a><a class="col center" href="#steny-a-fasady">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/08/steny.jpg">
+<img src="/assets/original/steny.png">
 <p class="h4 flexy">Stěny a fasády</p>
 </a><a class="col center" href="#zaklady">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/08/zaklady.jpg">
+<img src="/assets/original/zaklady.png">
 <p class="h4 flexy">Základy</p>
 </a></div>
 </div></section>-->
@@ -39,11 +39,11 @@ Druhou možností, určenou hlavně pro rekonstrukce, je aplikace izolace shora,
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
 
-![Dvouplášťová střecha](http://chytraizolace.cz/xobsah/uploads/2015/05/Dvouplastova-strecha-330x330.jpg "Dvouplášťová střecha")
+![Dvouplášťová střecha](/assets/original/Dvouplastova-strecha-330x330.jpg "Dvouplášťová střecha")
 
 <!--</div><div class="col center">-->
 
-![Dvouplášťová střecha (difuzní)](http://chytraizolace.cz/xobsah/uploads/2015/05/Dvouplastova-strecha-difuzni-330x330.jpg "Dvouplášťová střecha (difuzní)")
+![Dvouplášťová střecha (difuzní)](/assets/original/Dvouplastova-strecha-difuzni-330x330.jpg "Dvouplášťová střecha (difuzní)")
 
 <!--</div></div>-->
 
@@ -53,13 +53,13 @@ Pro ploché střechy nebo difúzně uzavřené konstrukce (například OSB desky
 
 <p class="center" gallery>
 
-[![střecha shora, Dopaz Letovice](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0009-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
-[![vnitřní boční strana, Bouša Kamýk](http://chytraizolace.cz/xobsah/uploads/2015/05/Bouša-Kamýk-5-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/Bouša-Kamýk-5-1024x768.jpg "vnitřní boční strana, Bouša Kamýk")
-[![zateplení střechy z vnitřní strany, Voldřich Čenkovice](http://chytraizolace.cz/xobsah/uploads/2015/05/Voldřich-Čenkovice-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/Voldřich-Čenkovice-2-1024x768.jpg "zateplení střechy z vnitřní strany, Voldřich Čenkovice")
-[![boční stěny se střechou, Caletka](http://chytraizolace.cz/xobsah/uploads/2015/05/1376576919-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/1376576919-1024x768.jpg "boční stěny se střechou, Caletka")
-[![boční strana, Vargová Michal na Ostrově](http://chytraizolace.cz/xobsah/uploads/2015/05/Vargová-Michal-na-Ostrově-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/Vargová-Michal-na-Ostrově-2-1024x768.jpg "boční strana, Vargová Michal na Ostrově")
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/foto1a2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/foto1a2-1024x768.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/foto1AA-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/foto1AA-1024x768.jpg)
+[![střecha shora, Dopaz Letovice](/assets/original/IMG_0009-150x150.jpg)](/assets/original/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
+[![vnitřní boční strana, Bouša Kamýk](/assets/original/Bouša-Kamýk-5-150x150.jpg)](/assets/original/Bouša-Kamýk-5-1024x768.jpg "vnitřní boční strana, Bouša Kamýk")
+[![zateplení střechy z vnitřní strany, Voldřich Čenkovice](/assets/original/Voldřich-Čenkovice-2-150x150.jpg)](/assets/original/Voldřich-Čenkovice-2-1024x768.jpg "zateplení střechy z vnitřní strany, Voldřich Čenkovice")
+[![boční stěny se střechou, Caletka](/assets/original/1376576919-150x150.jpg)](/assets/original/1376576919-1024x768.jpg "boční stěny se střechou, Caletka")
+[![boční strana, Vargová Michal na Ostrově](/assets/original/Vargová-Michal-na-Ostrově-2-150x150.jpg)](/assets/original/Vargová-Michal-na-Ostrově-2-1024x768.jpg "boční strana, Vargová Michal na Ostrově")
+[![](/assets/original/foto1a2-150x150.jpg)](/assets/original/foto1a2-1024x768.jpg)
+[![](/assets/original/foto1AA-150x150.jpg)](/assets/original/foto1AA-1024x768.jpg)
 
 </p>
 
@@ -104,11 +104,11 @@ Další možností aplikace je zateplení podlahy domu, kdy se výrazně zvyšuj
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
 
-![Strop](http://chytraizolace.cz/xobsah/uploads/2015/05/Strop-300x300.jpg "Strop")
+![Strop](/assets/original/Strop-300x300.jpg "Strop")
 
 <!--</div><div class="col center">-->
 
-![Podlaha](http://chytraizolace.cz/xobsah/uploads/2015/05/Podlaha-300x300.jpg "Podlaha")
+![Podlaha](/assets/original/Podlaha-300x300.jpg "Podlaha")
 
 <!--</div></div>-->
 
@@ -118,14 +118,14 @@ Máme velmi dobré zkušenosti se zateplováním stropů v přízemích a suter�
 
 <p class="center" gallery>
 
-[![zateplení podlahy Auš Javorná](http://chytraizolace.cz/xobsah/uploads/2015/05/Javorná-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/Javorná-1024x768.jpg "zateplení podlahy Auš Javorná")
-[![podlaha půdy, Kovotlačitelství Konig Nesvačilka](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_2761-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_2761-1024x768.jpg "podlaha půdy, Kovotlačitelství Konig Nesvačilka")
-[![podlaha půdy, Moravec Říčany](http://chytraizolace.cz/xobsah/uploads/2015/05/P1350179-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/P1350179-1024x730.jpg "podlaha půdy, Moravec Říčany")
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-4-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-4.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-3-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-3.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy-2-1024x768.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy--150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/stropy-a-podlahy--1024x768.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/foto2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/foto2-768x1024.jpg)
+[![zateplení podlahy Auš Javorná](/assets/original/Javorná-150x150.jpg)](/assets/original/Javorná-1024x768.jpg "zateplení podlahy Auš Javorná")
+[![podlaha půdy, Kovotlačitelství Konig Nesvačilka](/assets/original/IMG_2761-150x150.jpg)](/assets/original/IMG_2761-1024x768.jpg "podlaha půdy, Kovotlačitelství Konig Nesvačilka")
+[![podlaha půdy, Moravec Říčany](/assets/original/P1350179-150x150.jpg)](/assets/original/P1350179-1024x730.jpg "podlaha půdy, Moravec Říčany")
+[![](/assets/original/stropy-a-podlahy-4-150x150.jpg)](/assets/original/stropy-a-podlahy-4.jpg)
+[![](/assets/original/stropy-a-podlahy-3-150x150.jpg)](/assets/original/stropy-a-podlahy-3.jpg)
+[![](/assets/original/stropy-a-podlahy-2-150x150.jpg)](/assets/original/stropy-a-podlahy-2-1024x768.jpg)
+[![](/assets/original/stropy-a-podlahy--150x150.jpg)](/assets/original/stropy-a-podlahy--1024x768.jpg)
+[![](/assets/original/foto2-150x150.jpg)](/assets/original/foto2-768x1024.jpg)
 
 </p>
 
@@ -170,15 +170,15 @@ Pro vnější zateplení doporučujeme systém provětrávané fasády, který u
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
 
-![Stěna s předstěnou](http://chytraizolace.cz/xobsah/uploads/2015/05/Stěna-s-předstěnou-300x300.jpg "Stěna s předstěnou")
+![Stěna s předstěnou](/assets/original/Stěna-s-předstěnou-300x300.jpg "Stěna s předstěnou")
 
 <!--</div><div class="col center">-->
 
-![Stěna](http://chytraizolace.cz/xobsah/uploads/2015/05/Stěna-300x300.jpg "Stěna")
+![Stěna](/assets/original/Stěna-300x300.jpg "Stěna")
 
 <!--</div><div class="col center">-->
 
-![Vnější stěna](http://chytraizolace.cz/xobsah/uploads/2015/05/Vnější-stěna-300x300.jpg "Vnější stěna")
+![Vnější stěna](/assets/original/Vnější-stěna-300x300.jpg "Vnější stěna")
 
 <!--</div></div>-->
 
@@ -188,14 +188,14 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 
 <p class="center" gallery>
 
-[![chata Jana, Lopeník](http://chytraizolace.cz/xobsah/uploads/2015/05/chata-Jana-Lopenik--150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/chata-Jana-Lopenik-.jpg "chata Jana, Lopeník")
-[![Fasáda, Trgiňa Ivanka při Dunaji](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_3716-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_3716-1024x768.jpg "Fasáda, Trgiňa Ivanka při Dunaji")
-[![fasáda Novamont – Jankech, Trebatice](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0023-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
-[![obvodové stěny, Pstruša-wellness](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_1095-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša-wellness")
-[![vnější fasáda-boční strana, Chata Jana Mikulčin Vrch](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0053-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_0053-1024x768.jpg "vnější fasáda-boční strana, Chata Jana Mikulčin Vrch")
-[![příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice](http://chytraizolace.cz/xobsah/uploads/2015/05/Fabiánek-Pustá-Kamenice-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/Fabiánek-Pustá-Kamenice-2-1024x768.jpg "příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice")
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/foto12-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/foto12-1024x828.jpg)
-[![](http://chytraizolace.cz/xobsah/uploads/2015/05/foto3b-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/foto3b-1024x768.jpg)
+[![chata Jana, Lopeník](/assets/original/chata-Jana-Lopenik--150x150.jpg)](/assets/original/chata-Jana-Lopenik-.jpg "chata Jana, Lopeník")
+[![Fasáda, Trgiňa Ivanka při Dunaji](/assets/original/IMG_3716-150x150.jpg)](/assets/original/IMG_3716-1024x768.jpg "Fasáda, Trgiňa Ivanka při Dunaji")
+[![fasáda Novamont – Jankech, Trebatice](/assets/original/IMG_0023-150x150.jpg)](/assets/original/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
+[![obvodové stěny, Pstruša-wellness](/assets/original/IMG_1095-150x150.jpg)](/assets/original/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša-wellness")
+[![vnější fasáda-boční strana, Chata Jana Mikulčin Vrch](/assets/original/IMG_0053-150x150.jpg)](/assets/original/IMG_0053-1024x768.jpg "vnější fasáda-boční strana, Chata Jana Mikulčin Vrch")
+[![příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice](/assets/original/Fabiánek-Pustá-Kamenice-2-150x150.jpg)](/assets/original/Fabiánek-Pustá-Kamenice-2-1024x768.jpg "příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice")
+[![](/assets/original/foto12-150x150.jpg)](/assets/original/foto12-1024x828.jpg)
+[![](/assets/original/foto3b-150x150.jpg)](/assets/original/foto3b-1024x768.jpg)
 
 </p>
 
@@ -237,7 +237,7 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 
 <!--</div><div class="minicol">-->
 
-![Základy](http://chytraizolace.cz/xobsah/uploads/2015/05/foto11-300x300.jpg "Základy")
+![Základy](/assets/original/foto11-300x300.jpg "Základy")
 
 <!--</div></div>-->
 
@@ -245,10 +245,10 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 
 <p class="center" gallery>
 
-[![Vývojové centrum LIKO NOE, Slavkov](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_3801-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/IMG_3801-1024x768.jpg "Vývojové centrum LIKO NOE, Slavkov")
-[![Základy bytového domu, Rakousko](http://chytraizolace.cz/xobsah/uploads/2015/05/1427893970-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/1427893970.jpg "Základy bytového domu, Rakousko")
-[![Základy bytového domu, Rakousko](http://chytraizolace.cz/xobsah/uploads/2015/05/1427893974-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/1427893974.jpg "Základy bytového domu, Rakousko")
-[![zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota](http://chytraizolace.cz/xobsah/uploads/2015/05/1416471334-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/05/1416471334.jpg "zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota")
+[![Vývojové centrum LIKO NOE, Slavkov](/assets/original/IMG_3801-150x150.jpg)](/assets/original/IMG_3801-1024x768.jpg "Vývojové centrum LIKO NOE, Slavkov")
+[![Základy bytového domu, Rakousko](/assets/original/1427893970-150x150.jpg)](/assets/original/1427893970.jpg "Základy bytového domu, Rakousko")
+[![Základy bytového domu, Rakousko](/assets/original/1427893974-150x150.jpg)](/assets/original/1427893974.jpg "Základy bytového domu, Rakousko")
+[![zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota](/assets/original/1416471334-150x150.jpg)](/assets/original/1416471334.jpg "zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota")
 
 </p>
 

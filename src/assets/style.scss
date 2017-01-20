@@ -438,6 +438,11 @@ img {
     border-style: solid;
     border-color: lighten(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) lighten(map-get($colors, "blue"), 10%);
   }
+  section.reference a & {
+    max-width: 60%;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 section iframe {
@@ -486,6 +491,11 @@ section table {
   img {
     border: 0;
   }
+}
+
+.partner {
+  font-size: 2em;
+  text-align: left;
 }
 
 .aktuality {

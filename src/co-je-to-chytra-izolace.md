@@ -45,13 +45,11 @@ Od roku 1986 bylo pěnou Icynene zaizolováno více než 400 000 budov po celém
 
 Tato izolace je již přes 25 let majoritní tepelnou izolací na trhu v Kanadě a USA.
 
-Společnost LIKO-S byla založena v roce 1992. Jako první evropská firma jsme před 9-ti lety dovezli na naše trhy revoluční systém stříkané pěnové tepelné izolace z Kanady. Od té doby jsme instalovali Chytrou izolaci na více než 7000 objektech&nbsp;po celé střední Evropě. Na instalaci systému zateplení Vám poskytneme pětiletou záruku.
-
 ## Rychlost zateplení
 
 <!--<div class="grid"><div class="col">-->
 
-[![](http://chytraizolace.cz/xobsah/uploads/2015/07/kalendar.jpeg)](http://chytraizolace.cz/xobsah/uploads/2015/07/kalendar.jpeg)
+[![](/assets/original/kalendar.jpeg)](/assets/original/kalendar.jpeg)
 
 <!--</div><div class="col">-->
 
@@ -70,7 +68,7 @@ Stříkaná tepelná izolace funguje jako aktivní sportovní oblečení – nap
 
 <!--</div><div class="col">-->
 
-[![Porovnání izolací](http://chytraizolace.cz/xobsah/uploads/2015/07/porovnani-izolaci-1024x684.png)](http://chytraizolace.cz/xobsah/uploads/2015/07/porovnani-izolaci.png "Porovnání izolací")
+[![Porovnání izolací](/assets/original/porovnani-izolaci-1024x684.png)](/assets/original/porovnani-izolaci.png "Porovnání izolací")
 
 <!--</div></div>-->
 
@@ -105,7 +103,7 @@ Díky aplikaci stříkáním lze běžný dům **zateplit během jednoho dne** �
 
 <!--<div class="grid"><div class="col">-->
 
-[![](http://www.smartisol.eu/upload/1396219091.jpg)](http://www.smartisol.eu/upload/1396219091.jpg)
+[![](/assets/original/1396219091.jpg)](/assets/original/1396219091.jpg)
 
 <!--</div><div class="col">-->
 

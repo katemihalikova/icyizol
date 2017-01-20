@@ -10,19 +10,19 @@ layout: subpage.html
 
 <!--<section class="bg-green white no-under no-border"><div>
 <div class="grid"><a class="col center" href="#mekka-pena-icynene">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/produkt-mekka1.jpg">
+<img src="/assets/original/produkt-mekka1.png">
 <p class="h4 flexy">Měkká pěna ICYNENE</p>
 </a><a class="col center" href="#polotvrda-pena-smartisol-200">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/10/1_Sprava_webu_10-2015-_uprava_fotografie__LIK_15023_Work_JZ.png">
+<img src="/assets/original/1_Sprava_webu_10-2015-_uprava_fotografie__LIK_15023_Work_JZ.png">
 <p class="h4 flexy">Polotvrdá pěna SMARTISOL 200</p>
 </a><a class="col center" href="#tvrda-pena-smartisol-300">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/tvrda-pena.jpg">
+<img src="/assets/original/tvrda-pena.png">
 <p class="h4 flexy">Tvrdá pěna SMARTISOL 300</p>
 </a><a class="col center" href="#hydroizolace-polyurea">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/polyurea.jpg">
+<img src="/assets/original/polyurea.png">
 <p class="h4 flexy">Hydroizolace POLYUREA</p>
 </a><a class="col center" href="#fasadni-systemy">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/fasadni-systemy.jpg">
+<img src="/assets/original/fasadni-systemy.png">
 <p class="h4 flexy">Fasádní systémy</p>
 </a></div>
 </div></section>-->
@@ -60,13 +60,13 @@ Typ testu                                                              | CE Norm
 
 <p class="center" gallery>
 
-[![Aplikace pěny ICYNENE na difúzní fólii](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_1738-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_1738-1024x693.jpg "Aplikace pěny ICYNENE na difúzní fólii")
-[![střecha a vikýř, Bouša Kamýk](http://chytraizolace.cz/xobsah/uploads/2015/07/Bouša-Kamýk-3-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/Bouša-Kamýk-3-1024x768.jpg "střecha a vikýř, Bouša Kamýk")
-[![střecha, Konečný Černá Hora](http://chytraizolace.cz/xobsah/uploads/2015/07/Černá-hora-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/Černá-hora-1024x768.jpg "střecha, Konečný Černá Hora")
-[![střecha shora, Dopaz Letovice](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0009-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
-[![zateplení střechy, Perman Litvínov](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0011-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0011-1024x768.jpg "zateplení střechy, Perman Litvínov")
-[![střecha zevnitř, Vargová - Michal na Ostrově](http://chytraizolace.cz/xobsah/uploads/2015/07/Vargová-Michal-na-Ostrově-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/Vargová-Michal-na-Ostrově-2-1024x768.jpg "střecha zevnitř, Vargová - Michal na Ostrově")
-[![střecha srub, Voldřich Čenkovice](http://chytraizolace.cz/xobsah/uploads/2015/07/Voldřich-Čenkovice-2-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/Voldřich-Čenkovice-2-1024x768.jpg "střecha srub, Voldřich Čenkovice")
+[![Aplikace pěny ICYNENE na difúzní fólii](/assets/original/IMG_1738-150x150.jpg)](/assets/original/IMG_1738-1024x768.jpg "Aplikace pěny ICYNENE na difúzní fólii")
+[![střecha a vikýř, Bouša Kamýk](/assets/original/Bouša-Kamýk-3-150x150.jpg)](/assets/original/Bouša-Kamýk-3-1024x768.jpg "střecha a vikýř, Bouša Kamýk")
+[![střecha, Konečný Černá Hora](/assets/original/Černá-hora-150x150.jpg)](/assets/original/Černá-hora-1024x768.jpg "střecha, Konečný Černá Hora")
+[![střecha shora, Dopaz Letovice](/assets/original/IMG_0009-150x150.jpg)](/assets/original/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
+[![zateplení střechy, Perman Litvínov](/assets/original/IMG_0011-150x150.jpg)](/assets/original/IMG_0011-1024x768.jpg "zateplení střechy, Perman Litvínov")
+[![střecha zevnitř, Vargová - Michal na Ostrově](/assets/original/Vargová-Michal-na-Ostrově-2-150x150.jpg)](/assets/original/Vargová-Michal-na-Ostrově-2-1024x768.jpg "střecha zevnitř, Vargová - Michal na Ostrově")
+[![střecha srub, Voldřich Čenkovice](/assets/original/Voldřich-Čenkovice-2-150x150.jpg)](/assets/original/Voldřich-Čenkovice-2-1024x768.jpg "střecha srub, Voldřich Čenkovice")
 
 </p>
 
@@ -77,9 +77,9 @@ Typ testu                                                              | CE Norm
 ### Technické informace
 
 <div class="grid">
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/07/prohlaseni_mekka.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2016/06/Certifikát-do-20.11.2018.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/07/prospekt_mekka.pdf" class="col white no-under center">Prospekt »</a>
+  <a href="/assets/original/prohlaseni_mekka.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
+  <a href="/assets/original/Certifikat-do-20.11.2018.pdf" class="col white no-under center">Hygienický certifikát »</a>
+  <a href="/assets/original/Izolace_bez_starosti.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
@@ -106,10 +106,10 @@ Typ testu                        | Metodický test, CE Norma                    
 
 <p class="center" gallery>
 
-[![boční stěny se střechou, Caletka](http://chytraizolace.cz/xobsah/uploads/2015/07/1376576919-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/1376576919-1024x768.jpg "boční stěny se střechou, Caletka")
-[![aplikace pěny na střechu Maglav, Bratislava](http://chytraizolace.cz/xobsah/uploads/2015/07/3-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/3.jpg "aplikace pěny na střechu Maglav, Bratislava")
-[![zateplení podkroví](http://chytraizolace.cz/xobsah/uploads/2015/07/1376576849-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/1376576849-1024x768.jpg "zateplení podkroví")
-[![zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota](http://chytraizolace.cz/xobsah/uploads/2015/07/1416471334-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/1416471334.jpg "zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota")
+[![boční stěny se střechou, Caletka](/assets/original/1376576919-150x150.jpg)](/assets/original/1376576919-1024x768.jpg "boční stěny se střechou, Caletka")
+[![aplikace pěny na střechu Maglav, Bratislava](/assets/original/3-150x150.jpg)](/assets/original/3.jpg "aplikace pěny na střechu Maglav, Bratislava")
+[![zateplení podkroví](/assets/original/1376576849-150x150.jpg)](/assets/original/1376576849-1024x768.jpg "zateplení podkroví")
+[![zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota](/assets/original/1416471334-150x150.jpg)](/assets/original/1416471334.jpg "zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota")
 
 </p>
 
@@ -120,9 +120,9 @@ Typ testu                        | Metodický test, CE Norma                    
 ### Technické informace
 
 <div class="grid">
-  <a href="http://chytraizolace.cz/xobsah/uploads/2016/02/S200.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/07/hygiena_tvrda.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/12/Polotvrda_pěna_prospekt.pdf" class="col white no-under center">Prospekt »</a>
+  <a href="/assets/original/prehlasenie.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
+  <a href="/assets/original/hygiena_tvrda.pdf" class="col white no-under center">Hygienický certifikát »</a>
+  <a href="/assets/original/Polotvrda_pena_prospekt.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
@@ -151,8 +151,8 @@ Typ testu                        | Metodický test, CE Norma                    
 
 <p class="center" gallery>
 
-[![Kucharský, Bratislava](http://chytraizolace.cz/xobsah/uploads/2015/07/likos-realizacia-BA-48-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/likos-realizacia-BA-48-1024x683.jpg "Kucharský, Bratislava")
-[![Základy bytového domu, Rakousko](http://chytraizolace.cz/xobsah/uploads/2015/07/1427893974-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/1427893974.jpg "Základy bytového domu, Rakousko")
+[![Kucharský, Bratislava](/assets/original/likos-realizacia-BA-48-150x150.jpg)](/assets/original/likos-realizacia-BA-48-1024x683.jpg "Kucharský, Bratislava")
+[![Základy bytového domu, Rakousko](/assets/original/1427893974-150x150.jpg)](/assets/original/1427893974.jpg "Základy bytového domu, Rakousko")
 
 </p>
 
@@ -163,9 +163,9 @@ Typ testu                        | Metodický test, CE Norma                    
 ### Technické informace
 
 <div class="grid">
-  <a href="http://chytraizolace.cz/xobsah/uploads/2016/02/S300.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/10/S22C-115102212520.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/12/Tvrda_pěna_prospekt.pdf" class="col white no-under center">Prospekt »</a>
+  <a href="/assets/original/S300.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
+  <a href="/assets/original/S22C-115102212520.pdf" class="col white no-under center">Hygienický certifikát »</a>
+  <a href="/assets/original/Tvrda_pena_prospekt.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
@@ -191,11 +191,11 @@ Typ testu                                  | Hodnoty
 
 <p class="center" gallery>
 
-[![Vývojové centrum](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3664-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3664-1024x768.jpg "Vývojové centrum")
-[![Vývojové centrum](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3665-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3665-1024x768.jpg "Vývojové centrum")
-[![aplikace, Vývojové centrum](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3652-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3652-1024x768.jpg "aplikace, Vývojové centrum")
-[![střecha shora, Kucharský Bratislava](http://chytraizolace.cz/xobsah/uploads/2015/07/4-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/4-1024x765.jpg "střecha shora, Kucharský Bratislava")
-[![střecha shora, Kucharský Bratislava](http://chytraizolace.cz/xobsah/uploads/2015/07/1-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/1-1024x765.jpg "střecha shora, Kucharský Bratislava")
+[![Vývojové centrum](/assets/original/IMG_3664-150x150.jpg)](/assets/original/IMG_3664-1024x768.jpg "Vývojové centrum")
+[![Vývojové centrum](/assets/original/IMG_3665-150x150.jpg)](/assets/original/IMG_3665-1024x768.jpg "Vývojové centrum")
+[![aplikace, Vývojové centrum](/assets/original/IMG_3652-150x150.jpg)](/assets/original/IMG_3652-1024x768.jpg "aplikace, Vývojové centrum")
+[![střecha shora, Kucharský Bratislava](/assets/original/4-150x150.jpg)](/assets/original/4-1024x765.jpg "střecha shora, Kucharský Bratislava")
+[![střecha shora, Kucharský Bratislava](/assets/original/1-150x150.jpg)](/assets/original/1-1024x765.jpg "střecha shora, Kucharský Bratislava")
 
 </p>
 
@@ -206,9 +206,9 @@ Typ testu                                  | Hodnoty
 ### Technické informace
 
 <div class="grid">
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/07/prohlaseni_polyurea.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/07/hygiena_polyurea.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="http://chytraizolace.cz/xobsah/uploads/2015/12/Polyurea_prospekt.pdf" class="col white no-under center">Prospekt »</a>
+  <a href="/assets/original/prohlaseni_polyurea.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
+  <a href="/assets/original/hygiena_polyurea.pdf" class="col white no-under center">Hygienický certifikát »</a>
+  <a href="/assets/original/Polyurea_prospekt.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
@@ -231,7 +231,7 @@ Ty si můžete vybrat v nejrůznějších typech a odstínech. Desky provětráv
 
 <p class="center">
 
-![](http://chytraizolace.cz/xobsah/uploads/2015/06/vyhody-fasad.jpg)
+![](/assets/original/vyhody-fasad.jpg)
 
 </p>
 
@@ -239,13 +239,13 @@ Ty si můžete vybrat v nejrůznějších typech a odstínech. Desky provětráv
 
 <p class="center" gallery>
 
-[![fasáda, Trgiňa Ivanka pri Dunaji](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3722-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_3722-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
-[![fasáda, Vařacha Lopeník](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0052-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0052-1024x768.jpg "fasáda, Vařacha Lopeník")
-[![Zateplení mobilheimu, Žítková Losiná](http://chytraizolace.cz/xobsah/uploads/2015/07/11-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/11.jpg "Zateplení mobilheimu, Žítková Losiná")
-[![fasáda, GTW Teplice](http://chytraizolace.cz/xobsah/uploads/2015/07/GTW-Teplice-1-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/GTW-Teplice-1.jpg "fasáda, GTW Teplice")
-[![fasáda Novamont – Jankech, Trebatice](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0023-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
-[![obvodové stěny, Pstruša](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_1095-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša")
-[![fasáda, Trgiňa Ivanka pri Dunaji](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_4510-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/07/IMG_4510-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
+[![fasáda, Trgiňa Ivanka pri Dunaji](/assets/original/IMG_3722-150x150.jpg)](/assets/original/IMG_3722-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
+[![fasáda, Vařacha Lopeník](/assets/original/IMG_0052-150x150.jpg)](/assets/original/IMG_0052-1024x768.jpg "fasáda, Vařacha Lopeník")
+[![Zateplení mobilheimu, Žítková Losiná](/assets/original/11-150x150.jpg)](/assets/original/11.jpg "Zateplení mobilheimu, Žítková Losiná")
+[![fasáda, GTW Teplice](/assets/original/GTW-Teplice-1-150x150.jpg)](/assets/original/GTW-Teplice-1.jpg "fasáda, GTW Teplice")
+[![fasáda Novamont – Jankech, Trebatice](/assets/original/IMG_0023-150x150.jpg)](/assets/original/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
+[![obvodové stěny, Pstruša](/assets/original/IMG_1095-150x150.jpg)](/assets/original/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša")
+[![fasáda, Trgiňa Ivanka pri Dunaji](/assets/original/IMG_4510-150x150.jpg)](/assets/original/IMG_4510-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
 
 </p>
 

@@ -10,13 +10,13 @@ layout: subpage.html
 
 <!--<section class="bg-green white no-under no-border"><div>
 <div class="grid"><a class="col center" href="#bytove-domy">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/bytove-domy-300x188.png">
+<img src="/assets/original/bytove-domy-300x188.png">
 <p class="h4 flexy flexy">Bytové domy</p>
 </a><a class="col center" href="#haly">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/haly-300x188.png">
+<img src="/assets/original/haly-300x188.png">
 <p class="h4 flexy flexy">Haly</p>
 </a><a class="col center" href="#historicke-budovy">
-<img src="http://chytraizolace.cz/xobsah/uploads/2015/07/historicke-300x188.png">
+<img src="/assets/original/historicke-300x188.png">
 <p class="h4 flexy flexy">Historické budovy</p>
 </a></div>
 </div></section>-->
@@ -40,11 +40,11 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
 
-![Půda bytového domu](http://chytraizolace.cz/xobsah/uploads/2015/06/bytove-domy-2-330x330.jpg "Půda bytového domu")
+![Půda bytového domu](/assets/original/bytove-domy-2-330x330.jpg "Půda bytového domu")
 
 <!--</div><div class="col center">-->
 
-![Bytový dům](http://chytraizolace.cz/xobsah/uploads/2015/06/bytove-domy-330x330.jpg "Bytový dům")
+![Bytový dům](/assets/original/bytove-domy-330x330.jpg "Bytový dům")
 
 <!--</div></div>-->
 
@@ -57,11 +57,11 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 
 <p class="center" gallery>
 
-[![podlaha půdy, Kovotlačitelství Konig Nesvačilka](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_2761-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_2761-1024x768.jpg "podlaha půdy, Kovotlačitelství Konig Nesvačilka")
-[![před realizací, sklepní prostor Pejša Strašice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0005-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0005-1024x765.jpg "před realizací, sklepní prostor Pejša Strašice")
-[![strop sklepního prostoru, Pejša Strašice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0051-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0051-1024x768.jpg "strop sklepního prostoru, Pejša Strašice")
-[![aplikace na strop, Pejša Strašice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0055-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0055-1024x768.jpg "aplikace na strop, Pejša Strašice")
-[![sklepní prostor, Pejša Strašice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0054-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0054-1024x768.jpg "sklepní prostor, Pejša Strašice")
+[![podlaha půdy, Kovotlačitelství Konig Nesvačilka](/assets/original/IMG_2761-150x150.jpg)](/assets/original/IMG_2761-1024x768.jpg "podlaha půdy, Kovotlačitelství Konig Nesvačilka")
+[![před realizací, sklepní prostor Pejša Strašice](/assets/original/IMG_0005-150x150.jpg)](/assets/original/IMG_0005-1024x765.jpg "před realizací, sklepní prostor Pejša Strašice")
+[![strop sklepního prostoru, Pejša Strašice](/assets/original/IMG_0051-150x150.jpg)](/assets/original/IMG_0051-1024x768.jpg "strop sklepního prostoru, Pejša Strašice")
+[![aplikace na strop, Pejša Strašice](/assets/original/IMG_0055-150x150.jpg)](/assets/original/IMG_0055-1024x768.jpg "aplikace na strop, Pejša Strašice")
+[![sklepní prostor, Pejša Strašice](/assets/original/IMG_0054-150x150.jpg)](/assets/original/IMG_0054-1024x768.jpg "sklepní prostor, Pejša Strašice")
 
 </p>
 
@@ -88,9 +88,9 @@ Možnosti využití:
 
 <!--</div><div class="minicol">-->
 
-![Stěna haly](http://chytraizolace.cz/xobsah/uploads/2015/05/Stena-haly-300x300.jpg "Stěna haly")
+![Stěna haly](/assets/original/Stena-haly-300x300.jpg "Stěna haly")
 
-![Strop haly](http://chytraizolace.cz/xobsah/uploads/2015/05/Strop-haly1-300x300.jpg "Strop haly")
+![Strop haly](/assets/original/Strop-haly1-300x300.jpg "Strop haly")
 
 <!--</div></div>-->
 
@@ -98,13 +98,13 @@ Možnosti využití:
 
 <p class="center" gallery>
 
-[![Prospekt---Zateplení-rekonstrukce-4](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-4-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-4.jpg "Prospekt---Zateplení-rekonstrukce-4")
-[![Prospekt---Zateplení-rekonstrukce-5](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-5-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-5.jpg "Prospekt---Zateplení-rekonstrukce-5")
-[![Prospekt---Zateplení-rekonstrukce-6](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-6-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-6.jpg "Prospekt---Zateplení-rekonstrukce-6")
-[![Prospekt---Zateplení-rekonstrukce-7](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-7-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Prospekt-Zateplení-rekonstrukce-7.jpg "Prospekt---Zateplení-rekonstrukce-7")
-[![stěna haly, Kovofiniš Ledeč nad Sázavou](http://chytraizolace.cz/xobsah/uploads/2015/06/Ledeč-nad-Sázavou-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Ledeč-nad-Sázavou-1024x768.jpg "stěna haly, Kovofiniš Ledeč nad Sázavou")
-[![střecha objektu TRASIG, Jiříkovice](http://chytraizolace.cz/xobsah/uploads/2015/06/Trasig-Jiříkovice-3-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/Trasig-Jiříkovice-3-1024x768.jpg "střecha objektu TRASIG, Jiříkovice")
-[![stěna haly, DESTRO Kladno](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0022-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0022-1024x768.jpg "stěna haly, DESTRO Kladno")
+[![Prospekt---Zateplení-rekonstrukce-4](/assets/original/Prospekt-Zateplení-rekonstrukce-4-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-4.jpg "Prospekt---Zateplení-rekonstrukce-4")
+[![Prospekt---Zateplení-rekonstrukce-5](/assets/original/Prospekt-Zateplení-rekonstrukce-5-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-5.jpg "Prospekt---Zateplení-rekonstrukce-5")
+[![Prospekt---Zateplení-rekonstrukce-6](/assets/original/Prospekt-Zateplení-rekonstrukce-6-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-6.jpg "Prospekt---Zateplení-rekonstrukce-6")
+[![Prospekt---Zateplení-rekonstrukce-7](/assets/original/Prospekt-Zateplení-rekonstrukce-7-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-7.jpg "Prospekt---Zateplení-rekonstrukce-7")
+[![stěna haly, Kovofiniš Ledeč nad Sázavou](/assets/original/Ledeč-nad-Sázavou-150x150.jpg)](/assets/original/Ledeč-nad-Sázavou-1024x768.jpg "stěna haly, Kovofiniš Ledeč nad Sázavou")
+[![střecha objektu TRASIG, Jiříkovice](/assets/original/Trasig-Jiříkovice-3-150x150.jpg)](/assets/original/Trasig-Jiříkovice-3-1024x768.jpg "střecha objektu TRASIG, Jiříkovice")
+[![stěna haly, DESTRO Kladno](/assets/original/IMG_0022-150x150.jpg)](/assets/original/IMG_0022-1024x768.jpg "stěna haly, DESTRO Kladno")
 
 </p>
 
@@ -124,7 +124,7 @@ Naše vnitřní zateplení stříkanou pěnovou izolací ICYNENE zachová vzhled
 
 <!--</div><div class="minicol">-->
 
-![Historická budova](http://chytraizolace.cz/xobsah/uploads/2015/06/shutterstock_262422788-300x215.jpg "Historická budova")
+![Historická budova](/assets/original/shutterstock_262422788-300x215.jpg "Historická budova")
 
 <!--</div></div>-->
 
@@ -132,12 +132,12 @@ Naše vnitřní zateplení stříkanou pěnovou izolací ICYNENE zachová vzhled
 
 <p class="center" gallery>
 
-[![kostel, RAPOS Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0019-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0019-1024x768.jpg "kostel, RAPOS Kysolovice")
-[![aplikace klenba kostela, Rapos Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0023-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0023-1024x768.jpg "aplikace klenba kostela, Rapos Kysolovice")
-[![klenba, RAPOS Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0027-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0027-1024x768.jpg "klenba, RAPOS Kysolovice")
-[![kostel, RAPOS Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0030-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0030-1024x768.jpg "kostel, RAPOS Kysolovice")
-[![klenba kostela, RAPOS Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0025-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0025-1024x768.jpg "klenba kostela, RAPOS Kysolovice")
-[![klenba kostela, RAPOS Kysolovice](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0026-150x150.jpg)](http://chytraizolace.cz/xobsah/uploads/2015/06/IMG_0026-1024x768.jpg "klenba kostela, RAPOS Kysolovice")
+[![kostel, RAPOS Kysolovice](/assets/original/IMG_0019-150x150.jpg)](/assets/original/IMG_0019-1024x768.jpg "kostel, RAPOS Kysolovice")
+[![aplikace klenba kostela, Rapos Kysolovice](/assets/original/IMG_0024-150x150.jpg)](/assets/original/IMG_0024-1024x768.jpg "aplikace klenba kostela, Rapos Kysolovice")
+[![klenba, RAPOS Kysolovice](/assets/original/IMG_0027-150x150.jpg)](/assets/original/IMG_0027-1024x768.jpg "klenba, RAPOS Kysolovice")
+[![kostel, RAPOS Kysolovice](/assets/original/IMG_0030-150x150.jpg)](/assets/original/IMG_0030-1024x768.jpg "kostel, RAPOS Kysolovice")
+[![klenba kostela, RAPOS Kysolovice](/assets/original/IMG_0025-150x150.jpg)](/assets/original/IMG_0025-1024x768.jpg "klenba kostela, RAPOS Kysolovice")
+[![klenba kostela, RAPOS Kysolovice](/assets/original/IMG_0026-150x150.jpg)](/assets/original/IMG_0026-1024x768.jpg "klenba kostela, RAPOS Kysolovice")
 
 </p>
 
