@@ -478,7 +478,7 @@ h4, .h4 {
   border-radius: 15px 0;
 }
 
-.button {
+.button, input[type=submit], input[type=button] {
   display: inline-block;
   padding: 0.5em 2em;
   text-decoration: none;
@@ -587,6 +587,20 @@ section table {
   }
 }
 
+.odeslano, .chyba {
+  display: none;
+}
+#odeslano:target {
+  ~ * {
+    display: none;
+  }
+  ~ h1, ~ h3, ~ .odeslano {
+    display: block;
+  }
+}
+#chyba:target ~ .chyba {
+  display: block;
+}
 
 @each $name, $color in $colors {
   .#{$name} {

@@ -1,0 +1,83 @@
+---
+layout: subpage.html
+---
+
+<section><div>
+  <i id="formular"></i>
+  <i id="odeslano"></i>
+  <i id="chyba"></i>
+
+  <h1>Kalkulace zdarma</h1>
+
+  <h4 class="odeslano"><span class="green">Děkujeme, budeme Vás kontaktovat co nejdříve.</span></h4>
+  <h4 class="chyba"><span class="red">Při odesílání bohužel došlo k chybě, zkuste to prosím znovu.</span></h4>
+
+  <br>
+  <form action="/send.php?page=kalkulace" method="post">
+
+    <label class="grid">
+      <div class="col" style="flex:0 1 25%;">Jméno a příjmení *</div>
+      <div class="col"><input type="text" name="jmeno" required style="width:100%;"></div>
+    </label>
+    <label class="grid">
+      <div class="col" style="flex:0 1 25%;">Email *</div>
+      <div class="col"><input type="email" name="email" required style="width:100%;"></div>
+    </label>
+    <label class="grid">
+      <div class="col" style="flex:0 1 25%;">Telefon *</div>
+      <div class="col"><input type="tel" name="telefon" required style="width:100%;"></div>
+    </label>
+    <label class="grid">
+      <div class="col" style="flex:0 1 25%;">PSČ *</div>
+      <div class="col"><input type="text" name="psc" required style="width:100%;"></div>
+    </label>
+    <br>
+    <label class="grid">
+      <div class="col">
+        Co Vás pálí a studí? (kde a co chci izolovat, informace o technologii...) *<br>
+        <textarea name="info" required style="width:100%;" rows="10"></textarea>
+      </div>
+    </label>
+    <style>/*<br>
+    <div class="grid">
+      <div class="col">
+        Pošlete nám svůj nákres a my Vám poradíme nejlepší řešení pro Vaši stavbu.<br>
+        Maximální velikost přílohy 10MB. Povolené typy souborů doc, docx, xls, pdf, jpg, png, gif
+      </div>
+    </div>
+    <div class="grid center" style="padding-top:5px;">
+      <label class="col"><input type="file" name="soubor_1"></label>
+      <label class="col"><input type="file" name="soubor_2"></label>
+      <label class="col"><input type="file" name="soubor_3"></label>
+    </div>*/</style>
+    <br>
+    <label class="grid half">
+      <div class="col">Typ stavby</div>
+      <div class="col"><input type="text" name="typ" style="width:100%;"></div>
+    </label>
+    <label class="grid half">
+      <div class="col">Místo stavby</div>
+      <div class="col"><input type="text" name="misto" style="width:100%;"></div>
+    </label>
+    <label class="grid half">
+      <div class="col">Plocha (m²)</div>
+      <div class="col"><input type="number" name="plocha" step="any" style="width:100%;"></div>
+    </label>
+    <label class="grid half">
+      <div class="col">Tloušťka (cm)</div>
+      <div class="col"><input type="number" name="tloustka" step="any" style="width:100%;"></div>
+    </label>
+    <label class="grid half">
+      <div class="col">Předpokládaný termín realizace</div>
+      <div class="col"><input type="date" name="termin" style="width:100%;"></div>
+    </label>
+    <p class="center" style="clear:both;">
+      <small>* takto označené položky jsou povinné</small>
+      <br>
+      <br>
+      <input type="submit" value="Odeslat" class="bg-red white rohy no-border" style="padding: 15px 30px;">
+    </p>
+
+  </form>
+
+</div></section>

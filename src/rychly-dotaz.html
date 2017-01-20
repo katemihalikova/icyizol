@@ -1,0 +1,43 @@
+---
+layout: subpage.html
+---
+
+<section><div>
+  <i id="dotaz"></i>
+  <i id="odeslano"></i>
+  <i id="chyba"></i>
+
+  <h1>Rychlý dotaz</h1>
+
+  <h4 class="odeslano"><span class="green">Děkujeme, odpovíme Vám co nejdříve.</span></h4>
+  <h4 class="chyba"><span class="red">Při odesílání bohužel došlo k chybě, zkuste to prosím znovu.</span></h4>
+
+  <br>
+  <form action="http://icyizol.cz/send.php?page=dotaz" method="post">
+
+    <label class="grid">
+      <div class="col" style="flex:0 1 auto;">Jméno a příjmení</div>
+      <div class="col" style="min-width:150px;"><input type="text" name="jmeno" required style="width:100%;"></div>
+      <div class="col" style="flex:0 0 10px;"></div>
+      <div class="col" style="flex:0 1 auto;">Email</div>
+      <div class="col" style="min-width:150px;"><input type="email" name="email" required style="width:100%;"></div>
+    </label>
+    <br>
+    <label class="grid">
+      <div class="col">
+        Váš dotaz<br>
+        <textarea name="dotaz" required style="width:100%;" rows="5"></textarea>
+      </div>
+    </label>
+
+    <p class="center">
+      <input type="submit" value="Odeslat" class="bg-red white rohy no-border" style="padding: 15px 30px;">
+    </p>
+
+  </form>
+
+</div></section>
+
+<a href="/kalkulace.html#formular" class="kalkulace nadpis white bg-yellow">
+  <div>Připravíme Vám cenovou kalkulaci <span class="red">zdarma</span></div>
+</a>

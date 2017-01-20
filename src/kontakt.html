@@ -2,76 +2,93 @@
 layout: subpage.html
 ---
 
-<section><div>
+<section class="no-border"><div>
 
-<h1>Kalkulace zdarma</h1>
-
-<br>
-<form action="" method="post">
-
-<label class="grid">
-  <div class="col" style="flex:0 1 25%;">Jméno a příjmení *</div>
-  <div class="col"><input type="text" name="jmeno" required style="width:100%;"></div>
-</label>
-<label class="grid">
-  <div class="col" style="flex:0 1 25%;">Email *</div>
-  <div class="col"><input type="email" name="email" required style="width:100%;"></div>
-</label>
-<label class="grid">
-  <div class="col" style="flex:0 1 25%;">Telefon *</div>
-  <div class="col"><input type="tel" name="telefon" required style="width:100%;"></div>
-</label>
-<label class="grid">
-  <div class="col" style="flex:0 1 25%;">PSČ *</div>
-  <div class="col"><input type="text" name="psc" required style="width:100%;"></div>
-</label>
-<br>
-<label class="grid">
-  <div class="col">
-    Co Vás pálí a studí? (kde a co chci izolovat, informace o technologii...) *<br>
-    <textarea name="info" required style="width:100%;" rows="10"></textarea>
-  </div>
-</label>
-<br>
-<div class="grid">
-  <div class="col">
-    Pošlete nám svůj nákres a my Vám poradíme nejlepší řešení pro Vaši stavbu.<br>
-    Maximální velikost přílohy 10MB. Povolené typy souborů doc, docx, xls, pdf, jpg, png, gif
-  </div>
-</div>
-<div class="grid center" style="padding-top:5px;">
-  <label class="col"><input type="file" name="soubor_1"></label>
-  <label class="col"><input type="file" name="soubor_2"></label>
-  <label class="col"><input type="file" name="soubor_3"></label>
-</div>
-<br>
-<label class="grid half">
-  <div class="col">Typ stavby</div>
-  <div class="col"><input type="text" name="typ" style="width:100%;"></div>
-</label>
-<label class="grid half">
-  <div class="col">Místo stavby</div>
-  <div class="col"><input type="text" name="misto" style="width:100%;"></div>
-</label>
-<label class="grid half">
-  <div class="col">Plocha (m²)</div>
-  <div class="col"><input type="number" name="plocha" style="width:100%;"></div>
-</label>
-<label class="grid half">
-  <div class="col">Tloušťka (cm)</div>
-  <div class="col"><input type="number" name="tloustka" style="width:100%;"></div>
-</label>
-<label class="grid half">
-  <div class="col">Předpokládaný termín realizace</div>
-  <div class="col"><input type="date" name="termin" style="width:100%;"></div>
-</label>
-<p class="center" style="clear:both;">
-  <small>* takto označené položky jsou povinné</small>
-  <br>
-  <br>
-  <input type="submit" value="Odeslat" class="bg-red white rohy no-border" style="padding: 15px 30px;">
-</p>
-
-</form>
+  <h1>Kontakt</h1>
 
 </div></section>
+<section class="white bg-green"><div>
+
+  <br>
+  <div class="grid no-border no-under center">
+    <div class="col">
+      <a href="tel:+420734315071" class="h2">📱 +420 734 315 071</a>
+    </div>
+    <div class="col">
+      <a href="mailto:info@icyizol.cz" class="h2">📧 info@icyizol.cz</a>
+    </div>
+  </div>
+  <br>
+
+</div></section>
+<section><div>
+
+  <div class="grid center no-border">
+    <div class="col" style="flex:1 1 0;"></div>
+    <p class="col" style="flex:0 0 auto;">
+      <img src="/assets/original/icyizol_logo.png">
+    </p>
+    <p class="col" style="flex:0 1 auto;">
+      <strong>Icyizol s.r.o.</strong><br>
+      Smetanova 955, 468 51 Smržovka<br>
+      IČ: 04421990, DIČ: CZ04421990<br>
+      Spisová značka C 36281 vedená u Krajského soudu v Ústí nad Labem
+    </p>
+    <div class="col" style="flex:1 1 0;"></div>
+  </div>
+
+</div></section>
+<section class="white bg-blue"><div>
+  <i id="odeslano"></i>
+  <i id="chyba"></i>
+
+  <h3>Zanechte nám svůj kontakt, ozveme se Vám!</h3>
+
+  <h4 class="odeslano"><span class="green">Děkujeme, budeme Vás kontaktovat co nejdříve.</span></h4>
+  <h4 class="chyba"><span class="red">Při odesílání bohužel došlo k chybě, zkuste to prosím znovu.</span></h4>
+
+  <form action="http://icyizol.cz/send.php?page=kontakt" method="post">
+
+    <label class="grid">
+      <div class="col" style="flex:0 1 auto;">Jméno a příjmení</div>
+      <div class="col" style="min-width:150px;"><input type="text" name="jmeno" required style="width:100%;"></div>
+      <div class="col" style="flex:0 0 10px;"></div>
+      <div class="col" style="flex:0 1 auto;">Email nebo telefon</div>
+      <div class="col" style="min-width:150px;"><input type="text" name="email_telefon" required style="width:100%;"></div>
+    </label>
+
+    <p class="center">
+      <input type="submit" value="Odeslat" class="bg-red white rohy no-border" style="padding: 15px 30px;">
+    </p>
+
+  </form>
+
+</div></section>
+<section><div>
+
+  <h3>Nebo nás kontaktujte přímo</h3>
+
+  <div class="grid center">
+    <div class="col">
+      <h4>Martin Líbal</h4>
+      <p><strong>Liberec, Česká Lípa, Děčín</strong></p>
+      <p>
+        <a href="tel:+420734315071">+420 734 315 071</a><br>
+        <a href="mailto:martin.libal@icyizol.cz">martin.libal@icyizol.cz</a>
+      </p>
+    </div>
+    <div class="col">
+      <h4>Jan Móler</h4>
+      <p><strong>Jablonec nad Nisou, Semily, Mladá Boleslav, Nymburk</strong></p>
+      <p>
+        <a href="tel:+420734315072">+420 734 315 072</a><br>
+        <a href="mailto:jan.moler@icyizol.cz">jan.moler@icyizol.cz</a>
+      </p>
+    </div>
+  </div>
+
+</div></section>
+
+<a href="/kalkulace.html#formular" class="kalkulace nadpis white bg-yellow">
+  <div>Připravíme Vám cenovou kalkulaci <span class="red">zdarma</span></div>
+</a>

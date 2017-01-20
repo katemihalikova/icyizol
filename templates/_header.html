@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{#if title}}{{title}} - {{/if}}Icyizol</title>
+  <title>{{#if title}}{{title}} - {{/if}}Icyizol - Dokonalé zateplení</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/assets/style.css?v=2017-01-20" type="text/css">
   <link rel="stylesheet" href="/assets/vendor/swipebox.min.css" type="text/css">
@@ -20,7 +20,7 @@
 <body{{#is "/" path.href}} class="homepage" {{/is}}>
   <header>
     <div>
-      <a href="/"><img src="/assets/top.png"></a>
+      <a href="/"><img src="/assets/top.png" alt="Dokonalé zateplení - penovezatepleni.cz"></a>
       <a href="/"><img src="/assets/mapa.png" class="mapa"></a>
       <a href="/"><img src="/assets/title_bg.png" class="bottom-img"></a>
       <nav class="navcontainer-right">
@@ -71,9 +71,11 @@
     </div>
   </div>
   {{/if}}
-  <a href="/kontakt.html" class="rychly-dotaz bg-red white rohy">Rychlý dotaz</a>
+  {{^startsWith "/rychly-dotaz" path.href}}
+    <a href="/rychly-dotaz.html#dotaz" class="rychly-dotaz bg-red white rohy">Rychlý dotaz</a>
+  {{/startsWith}}
 
   <main>
-    <a href="/kontakt.html" class="kalkulace nadpis white bg-yellow under-menu">
+    <a href="/kalkulace.html#formular" class="kalkulace nadpis white bg-yellow under-menu">
       <div>Připravíme Vám cenovou kalkulaci <span class="red">zdarma</span></div>
     </a>
