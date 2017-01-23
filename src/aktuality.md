@@ -15,7 +15,7 @@ layout: subpage.html
 ### Chytrá izolace® Icynene® se představuje na regionální výstavě v Lysé nad Labem
 #### 16. – 18.2.2017
 
-Neváhejte a navštivte náš výstavní stánek na probíhající výstavě Domov a Teplo na výstavišti v Lysé nad Labem, a to ve dnech 16.2. až 18.2.2017 od 9:00 do 17:00. Na stánku naleznete zástupce distributorských firem ICYIZOL s.r.o. (Liberecký kraj, Děčínsko, Mladoboleslavsko a Nymbursko) a KP Izol s.r.o., který je regionální zástupce Chytré izolace® Icynene® pro Královehradecký kraj a Pardubicko.
+Neváhejte a navštivte náš výstavní stánek na probíhající výstavě Stavitel na výstavišti v Lysé nad Labem, a to ve dnech 16.2. až 18.2.2017 od 9:00 do 17:00. Na stánku naleznete zástupce distributorských firem ICYIZOL s.r.o. (Liberecký kraj, Děčínsko, Mladoboleslavsko a Nymbursko) a KP Izol s.r.o., který je regionální zástupce Chytré izolace® Icynene® pro Královehradecký kraj a Pardubicko.
 
 <!--</div></div>-->
 

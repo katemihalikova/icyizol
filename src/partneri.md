@@ -5,166 +5,101 @@ layout: subpage.html
 <!--<section class="partneri no-border center"><div>-->
 
 # Partneři
-#### Partneři týmu Chytré izolace jsou k dispozici nejen po celé ČR!
+#### S našimi partnery máme jen ty nejlepší zkušenosti!
 
 ---
+
+<!--<div class="grid" style="align-items:center;"><div class="col">-->
+<!--</div><div class="minicol">-->
 
 [![LIKO-S, a.s.](/assets/likos.jpg)](http://www.chytraizolace.cz/)
 
-<!--<div class="grid"><div class="col">-->
+<!--</div><div class="minicol" style="padding:0 45px;">-->
 
-#### Václav Pěnička
-**Pardubický kraj, Olomoucký kraj, Vyškov, Blansko**
+#### LIKO-S, a.s.
 
-[+420 725 054 375](tel:+420725054375)  
-[vaclav.penicka@liko-s.cz](mailto:vaclav.penicka@liko-s.cz)
-
-<!--</div><div class="col">-->
-
-#### Luděk Rejda
-**Jižní Morava, Zlínský kraj, Moravskoslezský kraj**
-
-[+420 602 729 886](tel:+420602729886)  
-[ludek.rejda@liko-s.cz](mailto:ludek.rejda@liko-s.cz)
+[+420 544 22 11 11](tel:+420544221111)  
+[liko-s.cz](http://www.liko-s.cz/)  
+[chytraizolace.cz](http://www.chytraizolace.cz/)
 
 <!--</div><div class="col">-->
-
-#### Josef Smitka
-**Praha, Praha-západ, Beroun, Kladno, Rakovník, Chomutov, Louny, Most, Teplice**
-
-[+420 601 569 412](tel:+420601569412)  
-[josef.smitka@liko-s.cz](mailto:josef.smitka@liko-s.cz)
-
-<!--</div><div class="col">-->
-
-#### Lukáš Pojman
-**Praha, Praha-východ, Mělník, Litoměřice, Ústí nad Labem**
-
-[+420 725 569 475](tel:+420725569475)  
-[lukas.pojman@liko-s.cz](mailto:lukas.pojman@liko-s.cz)
-
 <!--</div></div>-->
+
+---
+
 <!--<div class="grid"><div class="col">-->
 
-#### Jaroslav Hrach
-**Plzeňsko, Karlovarsko**
+#### Zdeněk Melichar
+<div><strong>autorizovaný technik<br>pro pozemní stavby</strong></div>
 
-[+420 702 211 920](tel:+420702211920)  
-[jaroslav.hrach@liko-s.cz](mailto:jaroslav.hrach@liko-s.cz)
-
-<!--</div><div class="col">-->
-
-#### Josef Volf
-**Bratislavský Kraj, Skalica, Senica**
-
-[+420 702 202 544](tel:+420702202544)  
-[josef.volf@liko-s.cz](mailto:josef.volf@liko-s.cz)
+[+420 482 322 245](tel:+420482322245)  
+[meliprojekt.cz](http://www.meliprojekt.cz/)
 
 <!--</div><div class="col">-->
 
-#### Stanislav Pátik
-**Bánskobystrický kraj, Nitrianský kraj, Dunajská Streda, Galanta, Hlohovec, Piešťany**
+#### Aleš Frýda
+<div><strong>tesařské a stavební práce</strong></div>
 
-[+421 903 465 908](tel:+421903465908)  
-[stanislav.patik@liko-s.cz](mailto:stanislav.patik@liko-s.cz)
+[+420 721 867 997](tel:+420721867997)  
+[fb.me/ales.fryda](https://www.fb.me/ales.fryda)
 
 <!--</div><div class="col">-->
 
-#### Anton Bednár
-**Košický kraj, Prešovský kraj**
+#### AB trio s.r.o.
+<div><strong>lešení a mobilní zastřešení</strong></div>
 
-[+421 903 439 114](tel:+421903439114)  
-[anton.bednar@liko-s.sk](mailto:anton.bednar@liko-s.sk)
+[+420 485 100 118](tel:+420485100118)  
+[abtrio-leseni.cz](http://www.abtrio-leseni.cz/)
 
 <!--</div></div>-->
 
 ---
 
-<!--<div class="grid"><div class="col no-padding">-->
-
-[![KP IZOL, s. r. o.](/assets/kpizol.png)](http://www.kpizol.cz/)
-
 <!--<div class="grid"><div class="col">-->
 
-#### Aleš Pour
-**Jičínsko, Trutnovsko, Náchodsko, Hradec Králové severozápad**
+#### Střechy<br>Liberecký kraj
 
-[+420 601 554 515](tel:+420601554515)  
-[prodejcekpizol@email.cz](mailto:prodejcekpizol@email.cz)
-
-<!--</div><div class="col">-->
-
-#### Michal Kolář
-**Pardubicko, Hradec Králové jihovýchod, Rychnovsko**
-
-[+420 775 331 016](tel:+420775331016)  
-[kpizol@email.cz](mailto:kpizol@email.cz)
-
-<!--</div></div>-->
-<!--</div><div class="col">-->
-
-[![Musil spol. s r. o.](/assets/musil.png)](http://www.musil.cz/)
-
-<!--<div class="grid"><div class="col">-->
-
-#### Vít Beroun
-**Jižní Čechy, České Budějovice, Znojemsko**
-
-[+420 725 939 368](tel:+420725939368)  
-[izolace@musil.cz](mailto:izolace@musil.cz)
+[+420 775 967 292](tel:+420775967292)  
+[strechy-liberecky-kraj.cz](http://www.strechy-liberecky-kraj.cz/)
 
 <!--</div><div class="col">-->
 
-#### Karel Jaroš
-**Vysočina, Znojemsko**
+<h4><img alt="ABCDŮM.CZ" src="/assets/abcdum.png" style="width:150px;"></h4>
 
-[+420 606 038 834](tel:+420606038834)  
-[izolace@musil.cz](mailto:izolace@musil.cz)
+[+420 608 537 493](tel:+420608537493)  
+[abcdum.cz](http://www.abcdum.cz/)
 
-<!--</div></div>-->
+<!--</div><div class="col">-->
+
+#### Penzion<br>První Nelyžujem
+
+[+420 602 75 44 76](tel:+420602754476)  
+[prvni-nelyzujem.cz](http://www.prvni-nelyzujem.cz/)
+
 <!--</div></div>-->
 
 ---
 
-<!--<div class="grid"><div class="col no-padding">-->
+<!--<div class="grid"><div class="col">-->
 
-[![RoFiHaS](/assets/rofihas.png)](http://www.rofihas.cz/)
+#### Střechy Rovenský
 
-#### Zdeněk Havlíček
-**Střední Čechy jih**
-
-[+420 603 548 035](tel:+420603548035)  
-[izolace@rofihas.cz](mailto:izolace@rofihas.cz)
+[+420 604 784 726](tel:+420604784726)  
+[strechyrovensky.cz](http://www.strechyrovensky.cz/)
 
 <!--</div><div class="col">-->
 
-[![JK izolace s.r.o.](/assets/jk-izolace.png)](http://www.jkizolace.cz/)
+#### Stavebniny Trend
 
-#### Jakub Hlaváč
-**Hodonínsko, Slovácko**
-
-[+420 608 573 241](tel:+420608573241)  
-[jhlavac@jkizolace.cz](mailto:jhlavac@jkizolace.cz)
-
-<!--</div><div class="col" style="flex:1.1 1 0;">-->
-
-[![Dom mont. s.r.o.](/assets/dom-mont.png)](http://www.dommont.sk/)
-
-#### Patrícia Sotolárová
-**Žilinský kraj**
-
-[+421 917 885 836](tel:+421917885836)  
-[info@dommont.sk](mailto:info@dommont.sk)
+[+420 602 155 120](tel:+420602155120)  
+[stavebninytrend.cz](http://www.stavebninytrend.cz/)
 
 <!--</div><div class="col">-->
 
-[![Peter Franko, s.r.o.](/assets/peter-franko.png)](http://www.peterfranko.sk/)
+#### H.K.M. Stavby
 
-#### Peter Franko
-**Trenčiansky kraj**
-
-[+421 903 257 692](tel:+421903257692)  
-[info@peterfranko.sk](mailto:info@peterfranko.sk)
+[+420 725 497 000](tel:+420725497000)  
+[hkmstavby.cz](http://www.hkmstavby.cz/)
 
 <!--</div></div>-->
 <!--</div></section>-->

@@ -104,7 +104,7 @@ layout: subpage.html
 
 <!--</div><div class="col" gallery>-->
 
-#### Zateplení podkroví Chytrou izolací Icynene rodinného domu u Nymburku
+#### Zateplení podkroví rodinného domu u Nymburku Chytrou izolací Icynene
 
 <a href="/assets/reference/nymburk1.jpg"><img src="/assets/reference/nymburk.jpg"></a>
 <a href="/assets/reference/nymburk2.jpg" style="display:none;"><img></a>
@@ -129,3 +129,97 @@ layout: subpage.html
 <a href="/assets/reference/podkrovi6.jpg" style="display:none;"><img></a>
 
 <!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Aplikace polotvrdé pěny Liberec
+
+<a href="/assets/reference2/jednota1.jpg"><img src="/assets/reference2/jednota.jpg"></a>
+<a href="/assets/reference2/jednota2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jednota3.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+
+#### Zateplení novostavby Sychrov Žďárek
+
+<a href="/assets/reference2/sychrov1.jpg"><img src="/assets/reference2/sychrov.jpg"></a>
+<a href="/assets/reference2/sychrov2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/sychrov3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/sychrov4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/sychrov5.jpg" style="display:none;"><img></a>
+
+Zákazník po důkladném rozhodnutí zvolil Chytrou izolaci Icynene pro její ideální vlastnosti.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Po ideálním zateplení fasády přišlo v Liberci na řadu i zateplení podkroví
+
+<a href="/assets/reference2/podkrovi1.jpg"><img src="/assets/reference2/podkrovi.jpg"></a>
+<a href="/assets/reference2/podkrovi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/podkrovi3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/podkrovi4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/podkrovi5.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+
+#### Dokonale zateplená stavba pod Tanvaldským Špičákem v Albrechticích
+
+<a href="/assets/reference2/spicak1.jpg"><img src="/assets/reference2/spicak.jpg"></a>
+<a href="/assets/reference2/spicak2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/spicak3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/spicak4.jpg" style="display:none;"><img></a>
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Aplikace izolace při rekonstrukci v Pertolticích u Frýdlantu v Čechách
+
+<a href="/assets/reference2/pertoltice1.jpg"><img src="/assets/reference2/pertoltice.jpg"></a>
+<a href="/assets/reference2/pertoltice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/pertoltice3.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+
+#### Chytře provedené zateplení při rekonstrukci staršího domu u Mladé Boleslavi
+
+<a href="/assets/reference2/boleslav1.jpg"><img src="/assets/reference2/boleslav.jpg"></a>
+<a href="/assets/reference2/boleslav2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/boleslav3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/boleslav4.jpg" style="display:none;"><img></a>
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Rekonstrukce staršího domu, kde stávající izolace už dávno nesloužila
+
+<a href="/assets/reference2/starsi1.jpg"><img src="/assets/reference2/starsi.jpg"></a>
+<a href="/assets/reference2/starsi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/starsi3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/starsi4.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+
+#### Izolace stěn dřevostavby u Sychrova
+
+<a href="/assets/reference2/drevostavba1.jpg"><img src="/assets/reference2/drevostavba.jpg"></a>
+<a href="/assets/reference2/drevostavba2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/drevostavba3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/drevostavba4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/drevostavba5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/drevostavba6.jpg" style="display:none;"><img></a>
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Použití Chytré izolace při rekonstrukci statku u Hodkovic nad Mohelkou
+
+<a href="/assets/reference2/statek1.jpg"><img src="/assets/reference2/statek.jpg"></a>
+<a href="/assets/reference2/statek2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/statek3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/statek4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/statek5.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+<!--</div></div>-->
+
+<!--</div></section>-->
