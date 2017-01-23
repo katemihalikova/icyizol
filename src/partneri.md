@@ -41,7 +41,7 @@ layout: subpage.html
 <div><strong>tesařské a stavební práce</strong></div>
 
 [+420 721 867 997](tel:+420721867997)  
-[fb.me/ales.fryda](https://www.fb.me/ales.fryda)
+[tesarstvi-fryda.cz](http://www.tesarstvi-fryda.cz/)
 
 <!--</div><div class="col">-->
 
@@ -100,6 +100,52 @@ layout: subpage.html
 
 [+420 725 497 000](tel:+420725497000)  
 [hkmstavby.cz](http://www.hkmstavby.cz/)
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### Vítězslav Čihák
+<div><strong>projekty, stavby, rekonstrukce</strong></div>
+
+[+420 737 673 152](tel:+420737673152)  
+[cihys.cz](http://www.cihys.cz/)
+
+<!--</div><div class="col">-->
+
+#### Josef Zaml
+<div><strong>jeřábnické práce</strong></div>
+
+[+420 737 814 337](tel:+420737814337)  
+[autojerab-zaml.cz](http://www.autojerab-zaml.cz/)
+
+<!--</div><div class="col">-->
+
+#### Jiří Benhák
+<div><strong>projektování staveb</strong></div>
+
+[+420 483 382 586](tel:+420483382586)  
+[projekty-benhak.sluzby.cz](https://projekty-benhak.sluzby.cz/)
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### Grandax
+
+[+420 704 700 558](tel:+420704700558)  
+[grandax.cz](http://www.grandax.cz/)
+
+<!--</div><div class="col">-->
+
+#### Jizerské roubenky
+
+[+420 775 676 505](tel:+420775676505)  
+[jizerske-roubenky.cz](http://www.jizerske-roubenky.cz/)
 
 <!--</div></div>-->
 <!--</div></section>-->
