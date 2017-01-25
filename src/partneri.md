@@ -135,7 +135,7 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col">-->
 
-#### Grandax
+<h4><img alt="Grandax" src="/assets/grandax.jpg" style="width:150px;"></h4>
 
 [+420 704 700 558](tel:+420704700558)  
 [grandax.cz](http://www.grandax.cz/)
