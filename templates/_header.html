@@ -16,6 +16,12 @@
   <meta name="application-name" content="Icyizol">
   <meta name="theme-color" content="#005ca7">
   {{#if watchMode}}<script src="http://localhost:35729/livereload.js"></script>{{/if}}
+  <script analytics>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga("create", "UA-51494797-8", "auto");
+    ga("send", "pageview");
+  </script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
 </head>
 <body{{#is "/" path.href}} class="homepage" {{/is}}>
   <header>

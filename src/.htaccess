@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^idealniizolace.cz$ [NC]
+RewriteRule ^(.*)$ http://idealniizolace.cz/$1 [L,R=301]
