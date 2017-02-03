@@ -147,5 +147,23 @@ layout: subpage.html
 [+420 775 676 505](tel:+420775676505)  
 [jizerske-roubenky.cz](http://www.jizerske-roubenky.cz/)
 
+<!--</div><div class="col">-->
+
+<h4><img alt="Stavebniny Mazepa s.r.o." src="/assets/mazepa.png" style="width:150px;"></h4>
+
+[+420 725 448 455](tel:+420725448455)  
+[stavebniny-mazepa.cz](http://www.stavebniny-mazepa.cz/)
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### Tesařské práce<br>Jindřich Sekyra
+
+[+420 736 635 606](tel:+420736635606)  
+[jindrich.sekyra@email.cz](mailto:jindrich.sekyra@email.cz)
+
 <!--</div></div>-->
 <!--</div></section>-->
