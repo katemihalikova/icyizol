@@ -160,10 +160,19 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col">-->
 
-#### Tesařské práce<br>Jindřich Sekyra
+#### Jindřich Sekyra
+<div><strong>tesařské práce</strong></div>
 
 [+420 736 635 606](tel:+420736635606)  
 [jindrich.sekyra@email.cz](mailto:jindrich.sekyra@email.cz)
+
+<!--</div><div class="col">-->
+
+#### Marcel Folc
+<div><strong>projekce pozemních staveb</strong></div>
+
+[+420 606 809 811](tel:+420606809811)  
+[projektydomufolc.cz](http://www.projektydomufolc.cz/)
 
 <!--</div></div>-->
 <!--</div></section>-->
