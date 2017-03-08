@@ -8,6 +8,56 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" gallery>-->
 
+#### Zaizolovaní podlahy v Jablonci nad Nisou
+
+<a href="/assets/reference2/jablonec1.jpg"><img src="/assets/reference2/jablonec.jpg"></a>
+<a href="/assets/reference2/jablonec2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jablonec3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jablonec4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jablonec5.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col" gallery>-->
+
+#### Zateplení domu ve Frýdlantě v Čechách
+
+<a href="/assets/reference2/frydlant1.jpg"><img src="/assets/reference2/frydlant.jpg"></a>
+<a href="/assets/reference2/frydlant2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/frydlant3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/frydlant4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/frydlant5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/frydlant6.jpg" style="display:none;"><img></a>
+
+Ideální izolace provedená Chytrou izolací Icynene ve Frýdlantě v Čechách.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Zateplení hotelu ve Vysoké Lípě
+
+<a href="/assets/reference2/lipa1.jpg"><img src="/assets/reference2/lipa.jpg"></a>
+<a href="/assets/reference2/lipa2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/lipa3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/lipa4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/lipa5.jpg" style="display:none;"><img></a>
+
+Zateplení hotelu ve Vysoké Lípě, kde se izolace Icynene ukázala jako ideální izolace.
+
+<!--</div><div class="col" gallery>-->
+
+#### Zateplení 160 let staré chalupy
+
+<a href="/assets/reference2/krecany1.jpg"><img src="/assets/reference2/krecany.jpg"></a>
+<a href="/assets/reference2/krecany2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/krecany3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/krecany4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/krecany5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/krecany6.jpg" style="display:none;"><img></a>
+
+Při rekonstrukci 160 let staré chalupy ve Starých Křečanech u Rumburku se investor rozhodl použít naší chytrou izolaci Icynene, a to hlavně pro její vlastnosti, které zcela určitě zdokonalí její užívání. Navíc investor pochází z Německa a aplikaci shlédli i jeho kolegové, kteří byli více než nadšeni.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
 #### Zateplení technického podlaží panelového domu
 
 <a href="/assets/reference/panelak1.jpg"><img src="/assets/reference/panelak.jpg"></a>
