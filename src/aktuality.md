@@ -6,6 +6,39 @@ layout: subpage.html
 
 # Aktuality
 
+<!--<div class="grid"><div class="col">-->
+
+### Dobře fungující spolupráce s&nbsp;partnery je základem spokojenosti zákazníků
+#### 23.3.2017
+
+Z&nbsp;celé řady partnerů přinášíme rozhovor s&nbsp;majitelem firmy *Tesařské a&nbsp;stavební práce Frýda - Kráner*, panem *Alešem Frýdou*.
+
+**Ahoj Aleši, právě se dá říci, že slavíme první výročí naší spolupráce. Za&nbsp;tu dobu jsme už spolu realizovali hodně projektů. Jak bys tuto spolupráci zhodnotil?**
+
+> Při realizaci si vždy zakládám na&nbsp;kvalitě provedených prací a&nbsp;dokonalé kvalitě materiálů. Za&nbsp;léta strávená ve&nbsp;stavebnictví jsem se potýkal s&nbsp;nedokonalostí izolačních materiálů. Teprve díky vaší izolaci jsem zjistil, že mohu tyto nedostatky odstranit. Nyní jsem si jist, že i&nbsp;co se týče izolací jsou mé realizace předávány vždy se&nbsp;100% kvalitou.
+
+**Ano, nelze přehlédnout, že ke&nbsp;své práci volíš jen ty nejlepší materiály a&nbsp;nářadí a&nbsp;obklopuješ se výbornou partou lidí. Můžeš mi říct své dojmy z&nbsp;našeho systému zateplení?**
+
+> Při zpětné vazbě se&nbsp;zákazníky, s&nbsp;kterými jsem vždy v&nbsp;kontaktu, mohu konstatovat, že po&nbsp;letní sezoně, a&nbsp;v&nbsp;tuto chvíli i&nbsp;po&nbsp;extrémní zimě, jsou naprosto spokojeni, a&nbsp;to mě utvrzuje, že má volba spolupráce s&nbsp;vámi byla volba ta nejlepší.
+
+**To jsme rádi a&nbsp;i&nbsp;my si Tvé spolupráce moc vážíme. Velmi nás potěšilo, že prezentuješ na&nbsp;svých firemních autech a&nbsp;banerech umístění loga partner Icyizol Icynene Chytrá izolace. Jak na&nbsp;to reagují Tví zákazníci?**
+
+> Ano, díky tomu často navazuji se&nbsp;zákazníky rozhovor nad&nbsp;tématem dokonalého zateplení. A&nbsp;díky tomu vzniklo již několik společných realizací.
+
+**Na&nbsp;to reaguji otázkou, jestli byla nějaká společná realizace výzvou a&nbsp;utkvěla Ti v&nbsp;paměti víc než ostatní?**
+
+> Výzvou byla ta první společná realizace, kde jsem zjistil dokonalost Chytré izolace Icynene, a&nbsp;tudíž jsem mohl posunout své služby zákazníkům. V&nbsp;paměti mi utkvěla realizace monumentálního uměleckého díla Liko-Coral, kde autorem byl pan arch. Fránek, děkan z&nbsp;Technické univerzity v&nbsp;Liberci.
+
+**Děkuji za&nbsp;rozhovor a&nbsp;musím podotknout, že jsme se sešli při&nbsp;společné akci, aplikace izolace v&nbsp;Mladé Boleslavi, kde nám připravujete střechu. Vše probíhá k&nbsp;naprosté spokojenosti zákazníka, za&nbsp;což Ti děkuji a&nbsp;přeji mnoho dalších spokojených zákazníků.**
+
+> Taky já děkuji a&nbsp;přeji Icyizolu a&nbsp;celé Chytré izolaci Icynene jen a&nbsp;jen samé spokojené zákazníky jako doposud.
+
+<p style="text-align:right;">za&nbsp;Icyizol jednatel Martin Líbal</p>
+
+<!--</div></div>-->
+
+---
+
 <!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
 
 <a href="/assets/aktuality/2017-02-lysa.jpg"><img src="/assets/aktuality/2017-02-lysa.jpg"></a>
