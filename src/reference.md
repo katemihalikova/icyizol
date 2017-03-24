@@ -8,6 +8,54 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" gallery>-->
 
+#### Rekonstrukce izolace
+
+<a href="/assets/reference2/rekonstrukce1.jpg"><img src="/assets/reference2/rekonstrukce.jpg"></a>
+<a href="/assets/reference2/rekonstrukce2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/rekonstrukce3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/rekonstrukce4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/rekonstrukce5.jpg" style="display:none;"><img></a>
+
+Rekonstrukce izolace na cca 10 let staré stavbě, kde minerální izolace už neplnila požadavky majitelů. Zde se opět potvrdila výborná spolupráce s *Tesařské a stavební práce Frýda & Kráner*. 
+
+<!--</div><div class="col" gallery>-->
+
+#### Zaizolování novostavby u Děčína
+
+<a href="/assets/reference2/decin1.jpg"><img src="/assets/reference2/decin.jpg"></a>
+<a href="/assets/reference2/decin2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/decin3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/decin4.jpg" style="display:none;"><img></a>
+
+Zaizolování novostavby u Děčína, kde Chytrá izolace Icynene je jasnou jedničkou Ideální izolace.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Zateplení penzionu u Děčína
+
+<a href="/assets/reference2/pdecin1.jpg"><img src="/assets/reference2/pdecin.jpg"></a>
+<a href="/assets/reference2/pdecin2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/pdecin3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/pdecin4.jpg" style="display:none;"><img></a>
+
+Oprava nefunkční minerální izolace a následně dokonale zatepleno izolační pěnou Icynene na Penzionu u Děčína.
+
+<!--</div><div class="col" gallery>-->
+
+#### Použití IDEÁLNÍ IZOLACE v Jeřmanicích u Liberce
+
+<a href="/assets/reference2/jermanice1.jpg"><img src="/assets/reference2/jermanice.jpg"></a>
+<a href="/assets/reference2/jermanice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jermanice3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jermanice4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jermanice5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jermanice6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference2/jermanice7.jpg" style="display:none;"><img></a>
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
 #### Zaizolovaní podlahy v Jablonci nad Nisou
 
 <a href="/assets/reference2/jablonec1.jpg"><img src="/assets/reference2/jablonec.jpg"></a>
