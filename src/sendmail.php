@@ -18,6 +18,7 @@ $mail->Password = "WEBweb999";
 $mail->setFrom("web@icyizol.cz");
 $mail->addAddress("martin.libal@icyizol.cz");
 $mail->addAddress("jan.moler@icyizol.cz");
+$mail->addAddress("ladislav.sedlicky@icyizol.cz");
 
 // $mail->addAttachment("/var/tmp/file.tar.gz");
 // $mail->addAttachment("/tmp/image.jpg", "new.jpg");
