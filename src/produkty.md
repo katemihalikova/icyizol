@@ -15,12 +15,6 @@ layout: subpage.html
 </a><a class="col center" href="#polotvrda-pena-smartisol-200">
 <img src="/assets/original/1_Sprava_webu_10-2015-_uprava_fotografie__LIK_15023_Work_JZ.png">
 <p class="h4 flexy">Polotvrdá pěna SMARTISOL 200</p>
-</a><a class="col center" href="#tvrda-pena-smartisol-300">
-<img src="/assets/original/tvrda-pena.png">
-<p class="h4 flexy">Tvrdá pěna SMARTISOL 300</p>
-</a><a class="col center" href="#hydroizolace-polyurea">
-<img src="/assets/original/polyurea.png">
-<p class="h4 flexy">Hydroizolace POLYUREA</p>
 </a><a class="col center" href="#fasadni-systemy">
 <img src="/assets/original/fasadni-systemy.png">
 <p class="h4 flexy">Fasádní systémy</p>
@@ -123,92 +117,6 @@ Typ testu                        | Metodický test, CE Norma                    
   <a href="/assets/original/prehlasenie.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
   <a href="/assets/original/hygiena_tvrda.pdf" class="col white no-under center">Hygienický certifikát »</a>
   <a href="/assets/original/Polotvrda_pena_prospekt.pdf" class="col white no-under center">Prospekt »</a>
-</div>
-<!--</div></section>-->
-
-
-
-<!--<section><div>-->
-
-## Tvrdá pěna SMARTISOL 300
-
-Tvrdá pěna SMARTISOL 300 je vhodná především na ploché střechy, kde vytváří plně pochozí, bezespárou izolační vrstvu, která nemění tvar, ani nijak nesesedá.
-
-Plošný nástřik dokonale utěsní složité detaily kolem všech prostupů, klimatizačních jednotek apod. Plynule a bez napojování přejde i na svislé plochy atik a komínů. Objemová hustota této pěny je 60 kg/m³ a bezproblému si poradí i s vysokým zatížením například sněhu. Izolaci lze kombinovat s protipožárním nátěrem a nebo hydroizolační vrstvou Polyurea. Tato kombinace je vhodná i pro tvorbu zelených střech či teras, protože odolá i prorůstání kořenů rostlin.
-
-Aplikace je možná za suchého počasí s minimálním větrem a teplotami nad 10°C.
-
-Typ testu                        | Metodický test, CE Norma                                                    | Hodnoty
--------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------
-**Hmotnost**                     | NF EN 1602                                                                  | 42 kg/m³
-**Propustnost vody**             | Krátkodobá nasákavost vody při částečném ponoření                           | Wp ≤ 0,20 kg/m²
-**Deklarovaná tepelná vodivost** | Deklarovaná tepelná vodivost při stárnutí a +10°C<br>*dle tloušťky izolace* | *d < 80 mm:* λD = 0,030 W/mK<br>*80 ≤ d < 120 mm:* λD = 0,029 W/mK<br>*d ≥ 120 mm:* λD = 0,028 W/mK
-**Propustnost vodních par**      |                                                                             | MU70
-**Pevnost v tlaku**              | Pevnost v tlaku při 10% stlačení                                            | CS(10/Y)150
-**Reakce na oheň**               | EN 13501-1                                                                  | E
-
-### Vybrané ukázky aplikace tvrdé pěny
-
-<p class="center" gallery>
-
-[![Kucharský, Bratislava](/assets/original/likos-realizacia-BA-48-150x150.jpg)](/assets/original/likos-realizacia-BA-48-1024x683.jpg "Kucharský, Bratislava")
-[![Základy bytového domu, Rakousko](/assets/original/1427893974-150x150.jpg)](/assets/original/1427893974.jpg "Základy bytového domu, Rakousko")
-
-</p>
-
-<!--</div></section>-->
-
-<!--<section class="white bg-blue"><div>-->
-
-### Technické informace
-
-<div class="grid">
-  <a href="/assets/original/S300.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="/assets/original/S22C-115102212520.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="/assets/original/Tvrda_pena_prospekt.pdf" class="col white no-under center">Prospekt »</a>
-</div>
-<!--</div></section>-->
-
-
-
-<!--<section><div>-->
-
-## Hydroizolace POLYUREA
-
-Tento typ tekuté gumy byl vyvinut speciálně pro aplikaci na PUR pěny. Slouží jako hydroizolační vrstva a zároveň i jako UV ochrana. Její předností je jednolitá vrstva kolem 2 milimetrů, bez spojů a spár. Lze ji aplikovat na rovné i svislé plochy, kdy dokonale kopíruje povrch a dostane se i do velmi nepřístupných míst. Může mít několik typů povrchových úprav a barev. Lze ji sladit k fasádě dle vzorníku RAL pomocí dodatečného nátěru. Je odolná vůči kořenům rostlin a snese i vysoké zatížení. Má široký rozsah aplikací od základů domu až po jeho střechu. Životnost této hydroizolace je přes 20 let.
-
-Aplikace je možná při běžné vlhkosti vzduchu a teplotami nad 10°C.
-
-Typ testu                                  | Hodnoty
------------------------------------------- | ----------
-**Minimální tloušťka**                     | 1,4 mm
-**Faktor odporu proti difúzi vodních par** | μ asi 2279
-**Odolnost vůči zatížení větrem**          | > 50 kPa
-**Odolnost vůči kořenům rostlin**          | NPD
-**Odolnost vůči kluzkosti**                | NPD
-
-### Vybrané ukázky aplikace hydroizolace Polyurea
-
-<p class="center" gallery>
-
-[![Vývojové centrum](/assets/original/IMG_3664-150x150.jpg)](/assets/original/IMG_3664-1024x768.jpg "Vývojové centrum")
-[![Vývojové centrum](/assets/original/IMG_3665-150x150.jpg)](/assets/original/IMG_3665-1024x768.jpg "Vývojové centrum")
-[![aplikace, Vývojové centrum](/assets/original/IMG_3652-150x150.jpg)](/assets/original/IMG_3652-1024x768.jpg "aplikace, Vývojové centrum")
-[![střecha shora, Kucharský Bratislava](/assets/original/4-150x150.jpg)](/assets/original/4-1024x765.jpg "střecha shora, Kucharský Bratislava")
-[![střecha shora, Kucharský Bratislava](/assets/original/1-150x150.jpg)](/assets/original/1-1024x765.jpg "střecha shora, Kucharský Bratislava")
-
-</p>
-
-<!--</div></section>-->
-
-<!--<section class="white bg-blue"><div>-->
-
-### Technické informace
-
-<div class="grid">
-  <a href="/assets/original/prohlaseni_polyurea.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="/assets/original/hygiena_polyurea.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="/assets/original/Polyurea_prospekt.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
