@@ -54,10 +54,10 @@ Pro ploché střechy nebo difúzně uzavřené konstrukce (například OSB desky
 <p class="center" gallery>
 
 [![střecha shora, Dopaz Letovice](/assets/original/IMG_0009-150x150.jpg)](/assets/original/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
-[![vnitřní boční strana, Bouša Kamýk](/assets/original/Bouša-Kamýk-5-150x150.jpg)](/assets/original/Bouša-Kamýk-5-1024x768.jpg "vnitřní boční strana, Bouša Kamýk")
-[![zateplení střechy z vnitřní strany, Voldřich Čenkovice](/assets/original/Voldřich-Čenkovice-2-150x150.jpg)](/assets/original/Voldřich-Čenkovice-2-1024x768.jpg "zateplení střechy z vnitřní strany, Voldřich Čenkovice")
+[![vnitřní boční strana, Bouša Kamýk](/assets/original/Bousa-Kamyk-5-150x150.jpg)](/assets/original/Bousa-Kamyk-5-1024x768.jpg "vnitřní boční strana, Bouša Kamýk")
+[![zateplení střechy z vnitřní strany, Voldřich Čenkovice](/assets/original/Voldrich-Cenkovice-2-150x150.jpg)](/assets/original/Voldrich-Cenkovice-2-1024x768.jpg "zateplení střechy z vnitřní strany, Voldřich Čenkovice")
 [![boční stěny se střechou, Caletka](/assets/original/1376576919-150x150.jpg)](/assets/original/1376576919-1024x768.jpg "boční stěny se střechou, Caletka")
-[![boční strana, Vargová Michal na Ostrově](/assets/original/Vargová-Michal-na-Ostrově-2-150x150.jpg)](/assets/original/Vargová-Michal-na-Ostrově-2-1024x768.jpg "boční strana, Vargová Michal na Ostrově")
+[![boční strana, Vargová Michal na Ostrově](/assets/original/Vargova-Michal-na-Ostrove-2-150x150.jpg)](/assets/original/Vargova-Michal-na-Ostrove-2-1024x768.jpg "boční strana, Vargová Michal na Ostrově")
 [![](/assets/original/foto1a2-150x150.jpg)](/assets/original/foto1a2-1024x768.jpg)
 [![](/assets/original/foto1AA-150x150.jpg)](/assets/original/foto1AA-1024x768.jpg)
 
@@ -118,7 +118,7 @@ Máme velmi dobré zkušenosti se zateplováním stropů v přízemích a suter�
 
 <p class="center" gallery>
 
-[![zateplení podlahy Auš Javorná](/assets/original/Javorná-150x150.jpg)](/assets/original/Javorná-1024x768.jpg "zateplení podlahy Auš Javorná")
+[![zateplení podlahy Auš Javorná](/assets/original/Javorna-150x150.jpg)](/assets/original/Javorna-1024x768.jpg "zateplení podlahy Auš Javorná")
 [![podlaha půdy, Kovotlačitelství Konig Nesvačilka](/assets/original/IMG_2761-150x150.jpg)](/assets/original/IMG_2761-1024x768.jpg "podlaha půdy, Kovotlačitelství Konig Nesvačilka")
 [![podlaha půdy, Moravec Říčany](/assets/original/P1350179-150x150.jpg)](/assets/original/P1350179-1024x730.jpg "podlaha půdy, Moravec Říčany")
 [![](/assets/original/stropy-a-podlahy-4-150x150.jpg)](/assets/original/stropy-a-podlahy-4.jpg)
@@ -170,15 +170,15 @@ Pro vnější zateplení doporučujeme systém provětrávané fasády, který u
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
 
-![Stěna s předstěnou](/assets/original/Stěna-s-předstěnou-300x300.jpg "Stěna s předstěnou")
+![Stěna s předstěnou](/assets/original/Stena-s-predstenou-300x300.jpg "Stěna s předstěnou")
 
 <!--</div><div class="col center">-->
 
-![Stěna](/assets/original/Stěna-300x300.jpg "Stěna")
+![Stěna](/assets/original/Stena-300x300.jpg "Stěna")
 
 <!--</div><div class="col center">-->
 
-![Vnější stěna](/assets/original/Vnější-stěna-300x300.jpg "Vnější stěna")
+![Vnější stěna](/assets/original/Vnejsi-stena-300x300.jpg "Vnější stěna")
 
 <!--</div></div>-->
 
@@ -193,7 +193,7 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 [![fasáda Novamont – Jankech, Trebatice](/assets/original/IMG_0023-150x150.jpg)](/assets/original/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
 [![obvodové stěny, Pstruša-wellness](/assets/original/IMG_1095-150x150.jpg)](/assets/original/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša-wellness")
 [![vnější fasáda-boční strana, Chata Jana Mikulčin Vrch](/assets/original/IMG_0053-150x150.jpg)](/assets/original/IMG_0053-1024x768.jpg "vnější fasáda-boční strana, Chata Jana Mikulčin Vrch")
-[![příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice](/assets/original/Fabiánek-Pustá-Kamenice-2-150x150.jpg)](/assets/original/Fabiánek-Pustá-Kamenice-2-1024x768.jpg "příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice")
+[![příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice](/assets/original/Fabianek-Pusta-Kamenice-2-150x150.jpg)](/assets/original/Fabianek-Pusta-Kamenice-2-1024x768.jpg "příprava zateplení vnějších stěn, Fabiánek Pustá Kamenice")
 [![](/assets/original/foto12-150x150.jpg)](/assets/original/foto12-1024x828.jpg)
 [![](/assets/original/foto3b-150x150.jpg)](/assets/original/foto3b-1024x768.jpg)
 

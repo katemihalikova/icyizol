@@ -55,12 +55,12 @@ Typ testu                                                              | CE Norm
 <p class="center" gallery>
 
 [![Aplikace pěny ICYNENE na difúzní fólii](/assets/original/IMG_1738-150x150.jpg)](/assets/original/IMG_1738-1024x768.jpg "Aplikace pěny ICYNENE na difúzní fólii")
-[![střecha a vikýř, Bouša Kamýk](/assets/original/Bouša-Kamýk-3-150x150.jpg)](/assets/original/Bouša-Kamýk-3-1024x768.jpg "střecha a vikýř, Bouša Kamýk")
-[![střecha, Konečný Černá Hora](/assets/original/Černá-hora-150x150.jpg)](/assets/original/Černá-hora-1024x768.jpg "střecha, Konečný Černá Hora")
+[![střecha a vikýř, Bouša Kamýk](/assets/original/Bousa-Kamyk-3-150x150.jpg)](/assets/original/Bousa-Kamyk-3-1024x768.jpg "střecha a vikýř, Bouša Kamýk")
+[![střecha, Konečný Černá Hora](/assets/original/Cerna-hora-150x150.jpg)](/assets/original/Cerna-hora-1024x768.jpg "střecha, Konečný Černá Hora")
 [![střecha shora, Dopaz Letovice](/assets/original/IMG_0009-150x150.jpg)](/assets/original/IMG_0009-1024x768.jpg "střecha shora, Dopaz Letovice")
 [![zateplení střechy, Perman Litvínov](/assets/original/IMG_0011-150x150.jpg)](/assets/original/IMG_0011-1024x768.jpg "zateplení střechy, Perman Litvínov")
-[![střecha zevnitř, Vargová - Michal na Ostrově](/assets/original/Vargová-Michal-na-Ostrově-2-150x150.jpg)](/assets/original/Vargová-Michal-na-Ostrově-2-1024x768.jpg "střecha zevnitř, Vargová - Michal na Ostrově")
-[![střecha srub, Voldřich Čenkovice](/assets/original/Voldřich-Čenkovice-2-150x150.jpg)](/assets/original/Voldřich-Čenkovice-2-1024x768.jpg "střecha srub, Voldřich Čenkovice")
+[![střecha zevnitř, Vargová - Michal na Ostrově](/assets/original/Vargova-Michal-na-Ostrove-2-150x150.jpg)](/assets/original/Vargova-Michal-na-Ostrove-2-1024x768.jpg "střecha zevnitř, Vargová - Michal na Ostrově")
+[![střecha srub, Voldřich Čenkovice](/assets/original/Voldrich-Cenkovice-2-150x150.jpg)](/assets/original/Voldrich-Cenkovice-2-1024x768.jpg "střecha srub, Voldřich Čenkovice")
 
 </p>
 

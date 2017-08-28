@@ -98,12 +98,12 @@ Možnosti využití:
 
 <p class="center" gallery>
 
-[![Prospekt---Zateplení-rekonstrukce-4](/assets/original/Prospekt-Zateplení-rekonstrukce-4-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-4.jpg "Prospekt---Zateplení-rekonstrukce-4")
-[![Prospekt---Zateplení-rekonstrukce-5](/assets/original/Prospekt-Zateplení-rekonstrukce-5-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-5.jpg "Prospekt---Zateplení-rekonstrukce-5")
-[![Prospekt---Zateplení-rekonstrukce-6](/assets/original/Prospekt-Zateplení-rekonstrukce-6-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-6.jpg "Prospekt---Zateplení-rekonstrukce-6")
-[![Prospekt---Zateplení-rekonstrukce-7](/assets/original/Prospekt-Zateplení-rekonstrukce-7-150x150.jpg)](/assets/original/Prospekt-Zateplení-rekonstrukce-7.jpg "Prospekt---Zateplení-rekonstrukce-7")
-[![stěna haly, Kovofiniš Ledeč nad Sázavou](/assets/original/Ledeč-nad-Sázavou-150x150.jpg)](/assets/original/Ledeč-nad-Sázavou-1024x768.jpg "stěna haly, Kovofiniš Ledeč nad Sázavou")
-[![střecha objektu TRASIG, Jiříkovice](/assets/original/Trasig-Jiříkovice-3-150x150.jpg)](/assets/original/Trasig-Jiříkovice-3-1024x768.jpg "střecha objektu TRASIG, Jiříkovice")
+[![Prospekt---Zateplení-rekonstrukce-4](/assets/original/Prospekt-Zatepleni-rekonstrukce-4-150x150.jpg)](/assets/original/Prospekt-Zatepleni-rekonstrukce-4.jpg "Prospekt---Zateplení-rekonstrukce-4")
+[![Prospekt---Zateplení-rekonstrukce-5](/assets/original/Prospekt-Zatepleni-rekonstrukce-5-150x150.jpg)](/assets/original/Prospekt-Zatepleni-rekonstrukce-5.jpg "Prospekt---Zateplení-rekonstrukce-5")
+[![Prospekt---Zateplení-rekonstrukce-6](/assets/original/Prospekt-Zatepleni-rekonstrukce-6-150x150.jpg)](/assets/original/Prospekt-Zatepleni-rekonstrukce-6.jpg "Prospekt---Zateplení-rekonstrukce-6")
+[![Prospekt---Zateplení-rekonstrukce-7](/assets/original/Prospekt-Zatepleni-rekonstrukce-7-150x150.jpg)](/assets/original/Prospekt-Zatepleni-rekonstrukce-7.jpg "Prospekt---Zateplení-rekonstrukce-7")
+[![stěna haly, Kovofiniš Ledeč nad Sázavou](/assets/original/Ledec-nad-Sazavou-150x150.jpg)](/assets/original/Ledec-nad-Sazavou-1024x768.jpg "stěna haly, Kovofiniš Ledeč nad Sázavou")
+[![střecha objektu TRASIG, Jiříkovice](/assets/original/Trasig-Jirikovice-3-150x150.jpg)](/assets/original/Trasig-Jirikovice-3-1024x768.jpg "střecha objektu TRASIG, Jiříkovice")
 [![stěna haly, DESTRO Kladno](/assets/original/IMG_0022-150x150.jpg)](/assets/original/IMG_0022-1024x768.jpg "stěna haly, DESTRO Kladno")
 
 </p>
