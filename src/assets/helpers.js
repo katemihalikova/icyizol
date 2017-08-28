@@ -13,4 +13,8 @@
   $('[gallery] a:has(img)').swipebox({
     hideBarsDelay: 0,
   });
+  $('[more]').on('click', function(e) {
+    e.preventDefault();
+    $($(this).hide().attr('more')).show();
+  });
 }();

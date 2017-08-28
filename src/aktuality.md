@@ -6,12 +6,20 @@ layout: subpage.html
 
 # Aktuality
 
-<!--<div class="grid"><div class="col">-->
+<!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
+
+<a href="/assets/aktuality/2017-03-fryda.jpg"><img src="/assets/aktuality/2017-03-fryda.jpg"></a>
+
+<!--</div><div class="col">-->
 
 ### Dobře fungující spolupráce s&nbsp;partnery je základem spokojenosti zákazníků
 #### 23.3.2017
 
 Z&nbsp;celé řady partnerů přinášíme rozhovor s&nbsp;majitelem firmy *Tesařské a&nbsp;stavební práce Frýda - Kráner*, panem *Alešem Frýdou*.
+
+<p style="text-align:right;"><a href="#" more="#fryda">Zobrazit více &raquo;</a></p>
+
+<!--<div class="more" id="fryda">-->
 
 **Ahoj Aleši, právě se dá říci, že slavíme první výročí naší spolupráce. Za&nbsp;tu dobu jsme už spolu realizovali hodně projektů. Jak bys tuto spolupráci zhodnotil?**
 
@@ -35,7 +43,7 @@ Z&nbsp;celé řady partnerů přinášíme rozhovor s&nbsp;majitelem firmy *Tesa
 
 <p style="text-align:right;">za&nbsp;Icyizol jednatel Martin Líbal</p>
 
-<!--</div></div>-->
+<!--</div></div></div>-->
 
 ---
 

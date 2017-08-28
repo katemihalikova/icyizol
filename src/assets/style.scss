@@ -614,6 +614,10 @@ section table {
   display: block;
 }
 
+.more {
+  display: none;
+}
+
 @each $name, $color in $colors {
   .#{$name} {
     color: $color;
