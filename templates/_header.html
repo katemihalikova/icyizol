@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>{{#if title}}{{title}} - {{/if}}Icyizol - Dokonalé zateplení</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/style.css?v=2017-01-20" type="text/css">
+  <link rel="stylesheet" href="/assets/style.css?v=2017-08-28" type="text/css">
   <link rel="stylesheet" href="/assets/vendor/swipebox.min.css" type="text/css">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
@@ -34,7 +34,7 @@
       <nav class="navcontainer-right">
         <ul class="navlist-right">
           <li class="bold{{#startsWith "/partneri" path.href}} active{{/startsWith}}">
-            <a href="/partneri.html">Partneři</a>
+            <a href="/partneri.html#obsah">Partneři</a>
           </li>
         </ul>
       </nav>
@@ -46,27 +46,28 @@
         </div>
         <ul class="navlist">
           <li class="bold{{#startsWith "/o-nas" path.href}} active{{/startsWith}}">
-            <a href="/o-nas.html">O nás</a>
+            <a href="/o-nas.html#obsah">O nás</a>
           </li>
           <li class="bold{{#startsWith "/co-je-to" path.href}} active{{/startsWith}}">
-            <a href="/co-je-to-chytra-izolace.html">Chytrá izolace<span style="vertical-align:super;line-height:.8;">®</span></a>
+            <a href="/co-je-to-chytra-izolace.html#obsah">Chytrá izolace<span style="vertical-align:super;line-height:.8;">®</span></a>
           </li>
           <li class="bold{{#startsWith "/produkty" path.href}} active{{/startsWith}}">
-            <a href="/produkty.html">Produkty</a>
+            <a href="/produkty.html#obsah">Produkty</a>
           </li>
           <li class="bold{{#startsWith "/reference" path.href}} active{{/startsWith}}">
-            <a href="/reference.html">Reference</a>
+            <a href="/reference.html#obsah">Reference</a>
           </li>
           <li class="bold{{#startsWith "/aktuality" path.href}} active{{/startsWith}}">
-            <a href="/aktuality.html">Aktuality</a>
+            <a href="/aktuality.html#obsah">Aktuality</a>
           </li>
           <li class="bold">
             <a href="http://www.chytraizolace.cz/cs/knihovna-pro-architekty" target="_blank">Technický rádce</a>
           </li>
           <li class="bold{{#startsWith "/kontakt" path.href}} active{{/startsWith}}">
-            <a href="/kontakt.html">Kontakt</a>
+            <a href="/kontakt.html#obsah">Kontakt</a>
           </li>
         </ul>
+        <div id="obsah"></div>
       </nav>
     </div>
   </header>
@@ -75,7 +76,7 @@
   <div class="subheader submenu">
     <div>
       {{#each (get path.href submenus)}}
-      <a href="{{href}}" {{#is href ../path.href}} class="active" {{/is}}>{{label}}</a> {{/each}}
+      <a href="{{href}}#obsah" {{#is href ../path.href}} class="active" {{/is}}>{{label}}</a> {{/each}}
     </div>
   </div>
   {{/if}}

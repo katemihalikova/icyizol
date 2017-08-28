@@ -25,6 +25,18 @@ header {
 .navcontainer {
   display: flex;
   flex-direction: row;
+  @media all and (min-width: 600px) {
+    position: relative;
+  }
+
+  #obsah {
+    width: 0;
+    height: 0;
+    @media all and (min-width: 600px) {
+      position: absolute;
+      bottom: 0;
+    }
+  }
 }
 
 .menubutton {
@@ -96,7 +108,7 @@ header {
   display: none;
   background-color: map-get($colors, "blue");
 
-  @media all and (max-width: 599px) {
+  @media all and (max-width: 599.9px) {
     position: absolute;
     left: 80px;
     right: 0;
@@ -117,7 +129,7 @@ header {
   background-color: map-get($colors, "red");
   width: auto;
 
-  @media all and (max-width: 599px) {
+  @media all and (max-width: 599.9px) {
     float: right;
     margin: 5px 10px;
   }
@@ -161,7 +173,7 @@ main {
   &:hover {
     opacity: 1;
   }
-  @media all and (max-width: 599px) {
+  @media all and (max-width: 599.9px) {
     font-size: .8em;
     top: auto;
     bottom: 130px;
@@ -175,7 +187,7 @@ main {
   right: 2vw;
   margin-top: 65px;
   max-width: 380px;
-  @media all and (max-width: 599px) {
+  @media all and (max-width: 599.9px) {
     margin-top: 5vw;
   }
 }
@@ -214,7 +226,7 @@ main {
     display: flex;
   }
   .partneri & {
-    @media all and (max-width: 767px) {
+    @media all and (max-width: 767.9px) {
       display: block;
       & > .col {
         &, &:not(:first-child), &:not(:last-child) {
@@ -269,7 +281,7 @@ main {
 }
 
 .partneri {
-  @media all and (max-width: 767px) {
+  @media all and (max-width: 767.9px) {
     hr {
       display: none;
     }
@@ -463,7 +475,7 @@ h3, .h3 {
 h4, .h4 {
   font-size: 25px;
   &.flexy {
-    @media all and (max-width: 599px) {
+    @media all and (max-width: 599.9px) {
       font-size: 18px;
       padding: 5px 0 20px;
     }
@@ -543,7 +555,7 @@ section table {
   }
   th, td {
     padding: .5em .7em;
-    @media all and (max-width: 599px) {
+    @media all and (max-width: 599.9px) {
       font-size: .8em;
     }
   }
@@ -568,7 +580,7 @@ section table {
 }
 
 .aktuality {
-  @media all and (max-width: 599px) {
+  @media all and (max-width: 599.9px) {
     img {
       display: block;
       margin: 0 auto;
