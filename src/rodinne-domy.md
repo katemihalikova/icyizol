@@ -18,9 +18,6 @@ layout: subpage.html
 </a><a class="col center" href="#steny-a-fasady">
 <img src="/assets/original/steny.png">
 <p class="h4 flexy">Stěny a fasády</p>
-</a><a class="col center" href="#zaklady">
-<img src="/assets/original/zaklady.png">
-<p class="h4 flexy">Základy</p>
 </a></div>
 </div></section>-->
 
@@ -47,7 +44,7 @@ Druhou možností, určenou hlavně pro rekonstrukce, je aplikace izolace shora,
 
 <!--</div></div>-->
 
-Pro ploché střechy nebo difúzně uzavřené konstrukce (například OSB desky), navrhujeme izolaci tvrdou pěnou SMARTISOL 200. Tato izolace pak působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
+Pro ploché střechy nebo difúzně uzavřené konstrukce (například OSB desky), navrhujeme izolaci polotvrdou pěnou. Tato izolace pak působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 ### Prohlédněte si naše vybrané reference střech
 
@@ -74,11 +71,11 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 *Číst více »*
 
-<!--</a><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
+<!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Tvrdá pěna Smartisol
+#### Polotvrdá pěna IcyFoam
 
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
+Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 *Číst více »*
 
@@ -140,11 +137,11 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 *Číst více »*
 
-<!--</a><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
+<!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Tvrdá pěna Smartisol
+#### Polotvrdá pěna IcyFoam
 
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
+Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 *Číst více »*
 
@@ -161,7 +158,7 @@ Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí ja
 
 Naše společnost provádí vnitřní nebo vnější zateplení obvodových konstrukcí. U vnitřního zateplení se používá měkká pěna ICYNENE, díky které dochází k přirozenému odvodu vlhkého vzduchu a v domě není nutné tak často větrat. Izolace výborně přilne přímo na zdivo a díky své kompaktnosti a zvlněnému povrchu má i výborné akustické vlastnosti a účinně pohlcuje hluk dopravy.
 
-Pro difúzně uzavřené konstrukce se používá tvrdá pěna SMARTISOL 200, která nepotřebuje další parotěsné fólie, ale účinně působí jako parobrzda. Díky výborným tepelně izolačním vlastnostem se aplikuje v menších tloušťkách než měkká pěna a neubírá tak vnitřní prostor.
+Pro difúzně uzavřené konstrukce se používá polotvrdá pěna, která nepotřebuje další parotěsné fólie, ale účinně působí jako parobrzda. Díky výborným tepelně izolačním vlastnostem se aplikuje v menších tloušťkách než měkká pěna a neubírá tak vnitřní prostor.
 
 <!--</div><div class="col">-->
 
@@ -210,64 +207,11 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 *Číst více »*
 
-<!--</a><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
+<!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Tvrdá pěna Smartisol
+#### Polotvrdá pěna IcyFoam
 
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
-
-*Číst více »*
-
-<!--</a></div>-->
-<!--</div></section>-->
-
-
-
-<!--<section><div>-->
-
-## Základy
-
-<!--<div class="grid"><div class="col">-->
-
-Pro izolaci základů bytových domů je vhodná tvrdá pěna. Vždy doporučujeme kombinaci s nopovou fólií a drenáží. Jako dodatečnou hydroizolaci lze použít produkt polyurea.
-
-Finální skladbu doporučujeme konzultovat s naším technickým zástupcem.
-
-Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v horizontu 3-5 let a náklady spojené s vytápěním se sníží v závislosti na rozsahu aplikace až o 70%. Chytrá izolace zvyšuje hodnotu nemovitosti, komfort užívání a prodlužuje životnost izolované konstrukce.
-
-<!--</div><div class="minicol">-->
-
-![Základy](/assets/original/foto11-300x300.jpg "Základy")
-
-<!--</div></div>-->
-
-### Prohlédněte si naše vybrané reference základů
-
-<p class="center" gallery>
-
-[![Vývojové centrum LIKO NOE, Slavkov](/assets/original/IMG_3801-150x150.jpg)](/assets/original/IMG_3801-1024x768.jpg "Vývojové centrum LIKO NOE, Slavkov")
-[![Základy bytového domu, Rakousko](/assets/original/1427893970-150x150.jpg)](/assets/original/1427893970.jpg "Základy bytového domu, Rakousko")
-[![Základy bytového domu, Rakousko](/assets/original/1427893974-150x150.jpg)](/assets/original/1427893974.jpg "Základy bytového domu, Rakousko")
-[![zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota](/assets/original/1416471334-150x150.jpg)](/assets/original/1416471334.jpg "zateplení soklu a stěny-zadní část domu, Bednár Nová Lehota")
-
-</p>
-
-<!--</div></section>-->
-
-<!--<section class="white bg-blue"><div>-->
-<!--<div class="grid"><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
-
-#### Tvrdá pěna Smartisol
-
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
-
-*Číst více »*
-
-<!--</a><a href="/produkty.html#hydroizolace-polyurea" class="col white no-under">-->
-
-#### Hydroizolace POLYUREA
-
-Polyuera je bezespárová hydroizolace, která se díky své kompaktní struktuře, nízkému koeficientu tepelné vodivosti a vysoké trvanlivosti vůči chemickému prostředí využívá jako hydroizolační nástřik na tvrdou pěnu. Nejčastější využití je pro ploché střechy, terasy, bazény, vodní nádrže a podobně.
+Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 *Číst více »*
 

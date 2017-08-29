@@ -12,9 +12,9 @@ layout: subpage.html
 <div class="grid"><a class="col center" href="#mekka-pena-icynene">
 <img src="/assets/original/produkt-mekka1.png">
 <p class="h4 flexy">Měkká pěna ICYNENE</p>
-</a><a class="col center" href="#polotvrda-pena-smartisol-200">
+</a><a class="col center" href="#polotvrda-pena-icyfoam-basic">
 <img src="/assets/original/1_Sprava_webu_10-2015-_uprava_fotografie__LIK_15023_Work_JZ.png">
-<p class="h4 flexy">Polotvrdá pěna SMARTISOL 200</p>
+<p class="h4 flexy">Polotvrdá pěna IcyFoam Basic</p>
 </a><a class="col center" href="#fasadni-systemy">
 <img src="/assets/original/fasadni-systemy.png">
 <p class="h4 flexy">Fasádní systémy</p>
@@ -81,9 +81,9 @@ Typ testu                                                              | CE Norm
 
 <!--<section><div>-->
 
-## Polotvrdá pěna SMARTISOL 200
+## Polotvrdá pěna IcyFoam Basic
 
-Polotvrdá pěna Smartisol S200 je vhodná k zateplení difuzně uzavřených skladeb ze strany interiéru. Vzhledem k uzavřené struktuře buněk, funguje v konstrukci jako parobzda. Díky nízké tepelné vodivosti, lze aplikovat i menší tloušťky. Toho se často využívá při izolaci rozvodů tepla, nádrží, kontejnerů, vozidel, bazénů apod. Výhodou je vysoká životnost, přilnavosti takřka ke všem povrchům, nesesedání a jednolitá izolační vrstva bez tepelných mostů. Tuto pěnu lze aplikovat i pro venkovní použití v kombinaci s Polyurea, pokud není požadováno vysoké zatížení.
+Polotvrdá pěna IcyFoam Basic je vhodná k zateplení difuzně uzavřených skladeb ze strany interiéru. Vzhledem k uzavřené struktuře buněk, funguje v konstrukci jako parobrzda. Díky nízké tepelné vodivosti, lze aplikovat i menší tloušťky. Toho se často využívá při izolaci rozvodů tepla, nádrží, kontejnerů, vozidel, bazénů apod. Výhodou je vysoká životnost, přilnavosti takřka ke všem povrchům, nesesedání a jednolitá izolační vrstva bez tepelných mostů. Tuto pěnu lze aplikovat i pro venkovní použití v kombinaci s Polyurea, pokud není požadováno vysoké zatížení.
 
 Aplikace je možná při běžné vlhkosti vzduchu a teplotami nad 10°C.
 

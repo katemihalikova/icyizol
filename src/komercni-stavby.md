@@ -144,19 +144,11 @@ Naše vnitřní zateplení stříkanou pěnovou izolací ICYNENE zachová vzhled
 <!--</div></section>-->
 
 <!--<section class="white bg-blue"><div>-->
-<!--<div class="grid"><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
+<!--<div class="grid"><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Tvrdá pěna Smartisol
+#### Polotvrdá pěna IcyFoam
 
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
-
-*Číst více »*
-
-<!--</a><a href="/produkty.html#hydroizolace-polyurea" class="col white no-under">-->
-
-#### Hydroizolace POLYUREA
-
-Polyuera je bezespárová hydroizolace, která se díky své kompaktní struktuře, nízkému koeficientu tepelné vodivosti a vysoké trvanlivosti vůči chemickému prostředí využívá jako hydroizolační nástřik na tvrdou pěnu. Nejčastější využití je pro ploché střechy, terasy, bazény, vodní nádrže a podobně.
+Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 *Číst více »*
 

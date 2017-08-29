@@ -27,15 +27,30 @@ layout: subpage.html
 
 ---
 
-<!--<div class="grid"><div class="col">-->
+<!--<div class="grid" style="align-items:center;"><div class="col">-->
+<!--</div><div class="minicol">-->
 
-#### Zdeněk Melichar
-<div><strong>autorizovaný technik<br>pro pozemní stavby</strong></div>
+[![KP IZOL, s.r.o.](/assets/kpizol.png)](http://www.kpizol.cz/)
 
-[+420 482 322 245](tel:+420482322245)  
-[meliprojekt.cz](http://www.meliprojekt.cz/)
+<!--</div><div class="minicol" style="padding:0 45px;">-->
+
+#### KP IZOL, s.r.o.
+
+[+420 775 331 016](tel:+420775331016)  
+[kpizol.cz](http://www.kpizol.cz/)  
 
 <!--</div><div class="col">-->
+<!--</div></div>-->
+
+---
+
+---
+
+### Střechy
+
+---
+
+<!--<div class="grid"><div class="col">-->
 
 #### Aleš Frýda
 <div><strong>tesařské a stavební práce</strong></div>
@@ -45,18 +60,6 @@ layout: subpage.html
 
 <!--</div><div class="col">-->
 
-#### AB trio s.r.o.
-<div><strong>lešení a mobilní zastřešení</strong></div>
-
-[+420 485 100 118](tel:+420485100118)  
-[abtrio-leseni.cz](http://www.abtrio-leseni.cz/)
-
-<!--</div></div>-->
-
----
-
-<!--<div class="grid"><div class="col">-->
-
 #### Střechy<br>Liberecký kraj
 
 [+420 775 967 292](tel:+420775967292)  
@@ -64,42 +67,10 @@ layout: subpage.html
 
 <!--</div><div class="col">-->
 
-<h4><img alt="ABCDŮM.CZ" src="/assets/abcdum.png" style="width:150px;"></h4>
-
-[+420 608 537 493](tel:+420608537493)  
-[abcdum.cz](http://www.abcdum.cz/)
-
-<!--</div><div class="col">-->
-
-#### Penzion<br>První Nelyžujem
-
-[+420 602 75 44 76](tel:+420602754476)  
-[prvni-nelyzujem.cz](http://www.prvni-nelyzujem.cz/)
-
-<!--</div></div>-->
-
----
-
-<!--<div class="grid"><div class="col">-->
-
 #### Střechy Rovenský
 
 [+420 604 784 726](tel:+420604784726)  
 [strechyrovensky.cz](http://www.strechyrovensky.cz/)
-
-<!--</div><div class="col">-->
-
-#### Stavebniny Trend
-
-[+420 602 155 120](tel:+420602155120)  
-[stavebninytrend.cz](http://www.stavebninytrend.cz/)
-
-<!--</div><div class="col">-->
-
-#### H.K.M. Stavby
-
-[+420 725 497 000](tel:+420725497000)  
-[hkmstavby.cz](http://www.hkmstavby.cz/)
 
 <!--</div></div>-->
 
@@ -115,11 +86,74 @@ layout: subpage.html
 
 <!--</div><div class="col">-->
 
-#### Josef Zaml
-<div><strong>jeřábnické práce</strong></div>
+#### Jizerské roubenky
 
-[+420 737 814 337](tel:+420737814337)  
-[autojerab-zaml.cz](http://www.autojerab-zaml.cz/)
+[+420 775 676 505](tel:+420775676505)  
+[jizerske-roubenky.cz](http://www.jizerske-roubenky.cz/)
+
+<!--</div><div class="col">-->
+
+#### Jindřich Sekyra
+<div><strong>tesařské práce</strong></div>
+
+[+420 736 635 606](tel:+420736635606)  
+[jindrich.sekyra@email.cz](mailto:jindrich.sekyra@email.cz)
+
+<!--</div></div>-->
+
+---
+
+---
+
+### Stavebniny
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### Stavebniny Trend
+
+[+420 602 155 120](tel:+420602155120)  
+[stavebninytrend.cz](http://www.stavebninytrend.cz/)
+
+<!--</div><div class="col">-->
+
+<h4><img alt="Stavebniny Mazepa s.r.o." src="/assets/mazepa.png" style="width:150px;"></h4>
+
+[+420 725 448 455](tel:+420725448455)  
+[stavebniny-mazepa.cz](http://www.stavebniny-mazepa.cz/)
+
+<!--</div><div class="col">-->
+
+<h4><img alt="Grandax" src="/assets/grandax.jpg" style="width:150px;"></h4>
+
+[+420 704 700 558](tel:+420704700558)  
+[grandax.cz](http://www.grandax.cz/)
+
+<!--</div></div>-->
+
+---
+
+---
+
+### Projektanti
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### Zdeněk Melichar
+<div><strong>autorizovaný technik<br>pro pozemní stavby</strong></div>
+
+[+420 482 322 245](tel:+420482322245)  
+[meliprojekt.cz](http://www.meliprojekt.cz/)
+
+<!--</div><div class="col">-->
+
+<h4><img alt="ABCDŮM.CZ" src="/assets/abcdum.png" style="width:150px;"></h4>
+
+[+420 608 537 493](tel:+420608537493)  
+[abcdum.cz](http://www.abcdum.cz/)
 
 <!--</div><div class="col">-->
 
@@ -129,43 +163,6 @@ layout: subpage.html
 [+420 483 382 586](tel:+420483382586)  
 [projekty-benhak.sluzby.cz](https://projekty-benhak.sluzby.cz/)
 
-<!--</div></div>-->
-
----
-
-<!--<div class="grid"><div class="col">-->
-
-<h4><img alt="Grandax" src="/assets/grandax.jpg" style="width:150px;"></h4>
-
-[+420 704 700 558](tel:+420704700558)  
-[grandax.cz](http://www.grandax.cz/)
-
-<!--</div><div class="col">-->
-
-#### Jizerské roubenky
-
-[+420 775 676 505](tel:+420775676505)  
-[jizerske-roubenky.cz](http://www.jizerske-roubenky.cz/)
-
-<!--</div><div class="col">-->
-
-<h4><img alt="Stavebniny Mazepa s.r.o." src="/assets/mazepa.png" style="width:150px;"></h4>
-
-[+420 725 448 455](tel:+420725448455)  
-[stavebniny-mazepa.cz](http://www.stavebniny-mazepa.cz/)
-
-<!--</div></div>-->
-
----
-
-<!--<div class="grid"><div class="col">-->
-
-#### Jindřich Sekyra
-<div><strong>tesařské práce</strong></div>
-
-[+420 736 635 606](tel:+420736635606)  
-[jindrich.sekyra@email.cz](mailto:jindrich.sekyra@email.cz)
-
 <!--</div><div class="col">-->
 
 #### Marcel Folc
@@ -173,6 +170,51 @@ layout: subpage.html
 
 [+420 606 809 811](tel:+420606809811)  
 [projektydomufolc.cz](http://www.projektydomufolc.cz/)
+
+<!--</div></div>-->
+
+---
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+### Sádrokarton
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### H.K.M. Stavby
+
+[+420 725 497 000](tel:+420725497000)  
+[hkmstavby.cz](http://www.hkmstavby.cz/)
+
+<!--</div></div>-->
+
+<!--</div><div class="col">-->
+
+### Ostatní
+
+---
+
+<!--<div class="grid"><div class="col">-->
+
+#### AB trio s.r.o.
+<div><strong>lešení a mobilní zastřešení</strong></div>
+
+[+420 485 100 118](tel:+420485100118)  
+[abtrio-leseni.cz](http://www.abtrio-leseni.cz/)
+
+<!--</div><div class="col">-->
+
+#### Josef Zaml
+<div><strong>jeřábnické práce</strong></div>
+
+[+420 737 814 337](tel:+420737814337)  
+[autojerab-zaml.cz](http://www.autojerab-zaml.cz/)
+
+<!--</div></div>-->
 
 <!--</div></div>-->
 <!--</div></section>-->

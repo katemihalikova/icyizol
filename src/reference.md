@@ -178,7 +178,7 @@ Při rekonstrukci 160 let staré chalupy ve Starých Křečanech u Rumburku se i
 <!--</div></div>-->
 <!--<div class="grid"><div class="col" gallery>-->
 
-#### Oprava zateplení polotvrdou pěnou Smartisol 200 v Jablonci nad Nisou
+#### Oprava zateplení polotvrdou pěnou v Jablonci nad Nisou
 
 <a href="/assets/reference/jablonec1.jpg"><img src="/assets/reference/jablonec.jpg"></a>
 <a href="/assets/reference/jablonec2.jpg" style="display:none;"><img></a>

@@ -29,7 +29,7 @@ layout: subpage.html
 
 Díky zateplení bazénu si můžete prodloužit sezónu až o měsíc, protože voda bude držet konstantnější teploty a přes noc nestihne tolik vychladnout.
 
-K zateplení používáme nenasákavou tvrdou pěnu SMARTISOL 200. Obvykle zaizolujeme i veškeré příslušenství (skimmer, potrubí, atd.), kterým je bazén osazen. Na stěnu bazénu vytvoříme tepelně izolační vrstvu bez jakýchkoliv spár, spojů a tepelných mostů, které po technické stránce nelze dosáhnout žádným jiným způsobem.
+K zateplení používáme nenasákavou polotvrdou pěnu. Obvykle zaizolujeme i veškeré příslušenství (skimmer, potrubí, atd.), kterým je bazén osazen. Na stěnu bazénu vytvoříme tepelně izolační vrstvu bez jakýchkoliv spár, spojů a tepelných mostů, které po technické stránce nelze dosáhnout žádným jiným způsobem.
 
 Zateplení bazénu polyuretanovou pěnou má kromě výborných tepelně-izolačních vlastností také přednosti z konstrukčního hlediska. Takto zateplený bazén se nemusí obetonovávat, stačí jej pouze zasypat soudržnou zeminou.
 
@@ -50,26 +50,6 @@ Zateplení bazénu polyuretanovou pěnou má kromě výborných tepelně-izolač
 
 <!--</div></section>-->
 
-<!--<section class="white bg-blue"><div>-->
-<!--<div class="grid"><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
-
-#### Tvrdá pěna Smartisol
-
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
-
-*Číst více »*
-
-<!--</a><a href="/produkty.html#hydroizolace-polyurea" class="col white no-under">-->
-
-#### Hydroizolace POLYUREA
-
-Polyuera je bezespárová hydroizolace, která se díky své kompaktní struktuře, nízkému koeficientu tepelné vodivosti a vysoké trvanlivosti vůči chemickému prostředí využívá jako hydroizolační nástřik na tvrdou pěnu. Nejčastější využití je pro ploché střechy, terasy, bazény, vodní nádrže a podobně.
-
-*Číst více »*
-
-<!--</a></div>-->
-<!--</div></section>-->
-
 
 
 <!--<section><div>-->
@@ -80,7 +60,7 @@ Polyuera je bezespárová hydroizolace, která se díky své kompaktní struktu�
 
 Izolační pěna slouží u zásobníků ke konstantnějšímu udržení teplot, jako pro vychladnutí nebo ohřev. Neprodyšně izoluje i členitý povrch, kde ostatní izolační materiály nejdou 100% aplikovat. Další výhodou je zlepšení akustiky a zabránění srážení vody na povrchu.
 
-Materiál se vyznačuje odolností vůči agresivnímu prostředí a odolává degradaci až do teploty povrchu 75°C u pěny S200 nebo 90°C v případě S300. Oba typy tvrdých pěn lze použít s protipožárním nebo hydroizolačním nástřikem.
+Materiál se vyznačuje odolností vůči agresivnímu prostředí a odolává degradaci až do teploty povrchu 75°C. Lze ho použít s protipožárním nebo hydroizolačním nástřikem.
 
 Za extrémně krátkou dobu jsme schopni zajistit dokonalé izolační řešení  bez potřeby dalšího zateplení.
 
@@ -100,26 +80,6 @@ Za extrémně krátkou dobu jsme schopni zajistit dokonalé izolační řešení
 
 </p>
 
-<!--</div></section>-->
-
-<!--<section class="white bg-blue"><div>-->
-<!--<div class="grid"><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
-
-#### Tvrdá pěna Smartisol
-
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
-
-*Číst více »*
-
-<!--</a><a href="/produkty.html#hydroizolace-polyurea" class="col white no-under">-->
-
-#### Hydroizolace POLYUREA
-
-Polyuera je bezespárová hydroizolace, která se díky své kompaktní struktuře, nízkému koeficientu tepelné vodivosti a vysoké trvanlivosti vůči chemickému prostředí využívá jako hydroizolační nástřik na tvrdou pěnu. Nejčastější využití je pro ploché střechy, terasy, bazény, vodní nádrže a podobně.
-
-*Číst více »*
-
-<!--</a></div>-->
 <!--</div></section>-->
 
 
@@ -187,11 +147,11 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 *Číst více »*
 
-<!--</a><a href="/produkty.html#tvrda-pena-smartisol-300" class="col white no-under">-->
+<!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Tvrdá pěna Smartisol
+#### Polotvrdá pěna IcyFoam
 
-Tvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
+Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
 *Číst více »*
 
