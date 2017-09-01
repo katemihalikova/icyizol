@@ -8,6 +8,23 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
 
+<a href="/assets/aktuality/2017-08-auta1.jpg"><img src="/assets/aktuality/2017-08-auta1.jpg"</a>
+<a href="/assets/aktuality/2017-08-auta2.jpg" style="display:none;"><img></a>
+<a href="/assets/aktuality/2017-08-auta3.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col">-->
+
+### Obchodní flotila v akci
+#### 31.8.2017
+
+Naše obchodní flotila je připravena pro nezávazné konzultace na vašich stavbách, které provádíme zcela zdarma.
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
+
 <a href="/assets/aktuality/2017-03-fryda.jpg"><img src="/assets/aktuality/2017-03-fryda.jpg"></a>
 
 <!--</div><div class="col">-->
