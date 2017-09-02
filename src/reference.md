@@ -6,6 +6,379 @@ layout: subpage.html
 
 # Reference
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Zateplení Frýdlant v Čechách
+
+<a href="/assets/reference3/frydlant1.jpg"><img src="/assets/reference3/frydlant.jpg"></a>
+<a href="/assets/reference3/frydlant2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant7.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant8.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/frydlant9.jpg" style="display:none;"><img></a>
+
+Kompletní zateplení pro zelenou úsporám, chytrou izolací Icynene.
+
+
+<!--</div><div class="col" gallery>-->
+
+#### Hala Děčín
+
+<a href="/assets/reference3/gresik1.jpg"><img src="/assets/reference3/gresik.jpg"></a>
+<a href="/assets/reference3/gresik2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/gresik3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/gresik4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/gresik5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/gresik6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/gresik7.jpg" style="display:none;"><img></a>
+
+Na některé zkázky je i jedna technologie málo, aby se zakázka mohla zákazníkovi předat včas bylo zapotřebí použít hned dvě aplikační technologie. Aplikace pro firmu Čaje Grešík v Děčíně.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Mobilheim okres Mladá Boleslav
+
+<a href="/assets/reference3/mobilheim1.jpg"><img src="/assets/reference3/mobilheim.jpg"></a>
+<a href="/assets/reference3/mobilheim2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/mobilheim3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/mobilheim4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/mobilheim5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/mobilheim6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/mobilheim7.jpg" style="display:none;"><img></a>
+
+Kompletní zateplení mobilheimu, aby se i v něm dobře bydlelo.
+
+<!--</div><div class="col" gallery>-->
+
+#### Rekonstrukce Mnichovo Hradiště
+
+<a href="/assets/reference3/hradiste1.jpg"><img src="/assets/reference3/hradiste.jpg"></a>
+<a href="/assets/reference3/hradiste2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste7.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hradiste8.jpg" style="display:none;"><img></a>
+
+Výměna nevyhovující minerální tepelné izolace za naší Ideální izolaci Icynene, kde se opět potvrdila výborná spolupráce s Tesařstvím Frýda ze Smržovky.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Novostavba Dětřichov u Frýdlantu v Čechách
+
+<a href="/assets/reference3/detrichovice1.jpg"><img src="/assets/reference3/detrichovice.jpg"></a>
+<a href="/assets/reference3/detrichovice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/detrichovice3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/detrichovice4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/detrichovice5.jpg" style="display:none;"><img></a>
+
+Dokonalé zateplení stropu na novostavbě.
+
+<!--</div><div class="col" gallery>-->
+
+#### Izolace Chotyně u Hrádku nad Nisou
+
+<a href="/assets/reference3/chotyne1.jpg"><img src="/assets/reference3/chotyne.jpg"></a>
+<a href="/assets/reference3/chotyne2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/chotyne3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/chotyne4.jpg" style="display:none;"><img></a>
+
+Zateplení půdy, aby nedocházelo nežádoucím únikům tepla.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Roubenka Kořenov okres Jablonec nad Nisou
+
+<a href="/assets/reference3/roubenka1.jpg"><img src="/assets/reference3/roubenka.jpg"></a>
+<a href="/assets/reference3/roubenka2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/roubenka3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/roubenka4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/roubenka5.jpg" style="display:none;"><img></a>
+
+Zateplení střechy a odhlučnění příček na nové roubence v Kořenově.
+
+<!--</div><div class="col" gallery>-->
+
+#### Novostavba Šimonovice Liberec
+
+<a href="/assets/reference3/simonovice1.jpg"><img src="/assets/reference3/simonovice.jpg"></a>
+<a href="/assets/reference3/simonovice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/simonovice3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/simonovice4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/simonovice5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/simonovice6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/simonovice7.jpg" style="display:none;"><img></a>
+
+Chytré použití stříkané pěny Icynene na rozsáhlé stavbě v Liberci.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Novostavba Kamenický Šenov
+
+<a href="/assets/reference3/senov1.jpg"><img src="/assets/reference3/senov.jpg"></a>
+<a href="/assets/reference3/senov2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/senov3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/senov4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/senov5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/senov6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/senov7.jpg" style="display:none;"><img></a>
+
+Dokonale zateplená novostavba kanadskou Chytrou izolací Icynene.
+
+<!--</div><div class="col" gallery>-->
+
+#### Zaizolování novostavby Tatobity okres Semily
+
+<a href="/assets/reference3/semily1.jpg"><img src="/assets/reference3/semily.jpg"></a>
+<a href="/assets/reference3/semily2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/semily3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/semily4.jpg" style="display:none;"><img></a>
+
+Použití jediné kanadské stříkané izolace na českém trhu Icynene.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Izolace podkroví Liberec
+
+<a href="/assets/reference3/podkrovil1.jpg"><img src="/assets/reference3/podkrovil.jpg"></a>
+<a href="/assets/reference3/podkrovi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovil3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovil4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovil5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovil6.jpg" style="display:none;"><img></a>
+
+Zateplení chytrou izolací pro budoucí byt v Liberci.
+
+<!--</div><div class="col" gallery>-->
+
+#### Izolace Liberec
+
+<a href="/assets/reference3/pena1.jpg"><img src="/assets/reference3/pena.jpg"></a>
+<a href="/assets/reference3/pena2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/pena3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/pena4.jpg" style="display:none;"><img></a>
+
+Použití Ideální izolace Icynene stříkanou pěnou.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Podkroví Mšeno
+
+<a href="/assets/reference3/abcd1.jpg"><img src="/assets/reference3/abcd.jpg"></a>
+<a href="/assets/reference3/abcd2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/abcd3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/abcd4.jpg" style="display:none;"><img></a>
+
+Chytře provedené zateplení podkroví izolací Icynene.
+
+<!--</div><div class="col" gallery>-->
+
+#### Bytový dům Jablonec nad Nisou
+
+<a href="/assets/reference3/sidliste1.jpg"><img src="/assets/reference3/sidliste.jpg"></a>
+<a href="/assets/reference3/sidliste2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/sidliste3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/sidliste4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/sidliste5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/sidliste6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/sidliste7.jpg" style="display:none;"><img></a>
+
+Použtí Chytré izolace Icynene, při tvorbě půdní vestavby v Jablonci nad Nisou na sidlišti Šumava.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Izolace sřechy Jablonec nad Nisou
+
+<a href="/assets/reference3/strecha1.jpg"><img src="/assets/reference3/strecha.jpg"></a>
+<a href="/assets/reference3/strecha2.jpg" style="display:none;"><img></a>
+
+Použití polotvrdé pěny Icynene Basic na plechový trapéz.
+
+<!--</div><div class="col" gallery>-->
+
+#### Hala Heřmanice u Frýdlantu v Čechách
+
+<a href="/assets/reference3/hala1.jpg"><img src="/assets/reference3/hala.jpg"></a>
+<a href="/assets/reference3/hala2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hala3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/hala4.jpg" style="display:none;"><img></a>
+
+Zateplení haly, kde docházelo ke kondenzaci vody. Izolace Icynene zabrňuje, aby tomu docházelo i dál.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Podkroví Liberec
+
+<a href="/assets/reference3/podkrovi1.jpg"><img src="/assets/reference3/podkrovi.jpg"></a>
+<a href="/assets/reference3/podkrovi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovi3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovi4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovi5.jpg" style="display:none;"><img></a>
+
+Na rušné liberecké třídě,kde je velmi silný provoz, naše izolace splňuje nejen výborné tepelně izolačí požadavky, ale i výborné akustické vlastnosti.
+
+<!--</div><div class="col" gallery>-->
+
+#### Krásná Studánka Liberec
+
+<a href="/assets/reference3/studanka1.jpg"><img src="/assets/reference3/studanka.jpg"></a>
+<a href="/assets/reference3/studanka2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/studanka3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/studanka4.jpg" style="display:none;"><img></a>
+
+Zateplení stropu na novostabě Ideální izolací Icynene.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Speciální stavba Bílý Potok pod Smrkem
+
+<a href="/assets/reference3/potok1.jpg"><img src="/assets/reference3/potok.jpg"></a>
+<a href="/assets/reference3/potok2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/potok3.jpg" style="display:none;"><img></a>
+
+I stará vojenská maringotka si zaslouží dokonalé zateplení.
+
+<!--</div><div class="col" gallery>-->
+
+#### Půdní prostory Liberec
+
+<a href="/assets/reference3/liberec1.jpg"><img src="/assets/reference3/liberec.jpg"></a>
+<a href="/assets/reference3/liberec2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/liberec3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/liberec4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/liberec5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/liberec6.jpg" style="display:none;"><img></a>
+
+Pro půdní vestavbu, aby v zimě nebyla zima a v létě teplo, je vždy nejvhodnější naše izolace Icynene.
+
+<!--</div></div>-->
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Zateplení Smržovka
+
+<a href="/assets/reference3/pekarna1.jpg"><img src="/assets/reference3/pekarna.jpg"></a>
+<a href="/assets/reference3/pekarna2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/pekarna3.jpg" style="display:none;"><img></a>
+
+Zateplení pekárny ve Smržovce.
+
+<!--</div><div class="col" gallery>-->
+
+#### Zaizolování Rychnov u Jablonce nad Nisou
+
+<a href="/assets/reference3/rychnov1.jpg"><img src="/assets/reference3/rychnov.jpg"></a>
+<a href="/assets/reference3/rychnov2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/rychnov3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/rychnov4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/rychnov5.jpg" style="display:none;"><img></a>
+
+Pro vysoké tepelné nároky této stavby byla zvolena chytrá izolace Icynene, která je dokonale splňuje.
+
+<!--</div></div>-->
+
+
+
+
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Zateplení Třebestovice okres Nymburk
+
+<a href="/assets/reference3/trebestovice1.jpg"><img src="/assets/reference3/trebestovice.jpg"></a>
+<a href="/assets/reference3/trebestovice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/trebestovice3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/trebestovice4.jpg" style="display:none;"><img></a>
+
+Zaizolování shora stropu do vazníků. Pro zákazníka byla naše izolace Icynene více než jasná volba. 
+
+<!--</div><div class="col" gallery>-->
+
+#### Aplikace Záskalí okres Liberec
+
+<a href="/assets/reference3/zaskali1.jpg"><img src="/assets/reference3/zaskali.jpg"></a>
+<a href="/assets/reference3/zaskali2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali7.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali8.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/zaskali9.jpg" style="display:none;"><img></a>
+
+Při rosáhlé rekonstrukci staršího statku, byla použita vhodně použita naše Ideální izolace Icynene, která tak splňuje velmi náročné požadvky zákazníka na dokonalé zateplení. Navíc zákazník byl velice spokojen s celkovém provedení prací.
+
+<!--</div></div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Rekonstrukce izolace
