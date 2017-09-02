@@ -83,17 +83,15 @@ Typ testu                                                              | CE Norm
 
 ## Polotvrdá pěna IcyFoam Basic
 
-Polotvrdá pěna IcyFoam Basic je vhodná k zateplení difuzně uzavřených skladeb ze strany interiéru. Vzhledem k uzavřené struktuře buněk, funguje v konstrukci jako parobrzda. Díky nízké tepelné vodivosti, lze aplikovat i menší tloušťky. Toho se často využívá při izolaci rozvodů tepla, nádrží, kontejnerů, vozidel, bazénů apod. Výhodou je vysoká životnost, přilnavosti takřka ke všem povrchům, nesesedání a jednolitá izolační vrstva bez tepelných mostů. Tuto pěnu lze aplikovat i pro venkovní použití v kombinaci s Polyurea, pokud není požadováno vysoké zatížení.
+Polotvrdá pěna IcyFoam Basic je vhodná k zateplení difuzně uzavřených skladeb ze strany interiéru. Vzhledem k uzavřené struktuře buněk, funguje v konstrukci jako parobrzda. Díky nízké tepelné vodivosti, lze aplikovat i menší tloušťky. Toho se často využívá při izolaci rozvodů tepla, nádrží, kontejnerů, vozidel, bazénů apod. Výhodou je vysoká životnost, přilnavosti takřka ke všem povrchům, nesesedání a jednolitá izolační vrstva bez tepelných mostů.
 
 Aplikace je možná při běžné vlhkosti vzduchu a teplotami nad 10°C.
 
 Typ testu                        | Metodický test, CE Norma                                                    | Hodnoty
 -------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------
-**Hmotnost**                     | NF EN 1602                                                                  | 42 kg/m³
-**Propustnost vody**             | Krátkodobá nasákavost vody při částečném ponoření                           | Wp ≤ 0,20 kg/m²
-**Deklarovaná tepelná vodivost** | Deklarovaná tepelná vodivost při stárnutí a +10°C<br>*dle tloušťky izolace* | *d < 80 mm:* λD = 0,030 W/mK<br>*80 ≤ d < 120 mm:* λD = 0,029 W/mK<br>*d ≥ 120 mm:* λD = 0,028 W/mK
-**Propustnost vodních par**      |                                                                             | MU70
-**Pevnost v tlaku**              | Pevnost v tlaku při 10% stlačení                                            | CS(10/Y)150
+**Propustnost vody**             | Krátkodobá nasákavost vody při částečném ponoření                           | Wp ≤ 0,24 kg/m²
+**Deklarovaná tepelná vodivost** | Deklarovaná tepelná vodivost při stárnutí a +10°C<br>*dle tloušťky izolace* | *d = 50 mm:* λD = 0,027 W/mK
+**Pevnost v tlaku**              | Pevnost v tlaku při 10% stlačení                                            | CS(10/Y)200
 **Reakce na oheň**               | EN 13501-1                                                                  | E
 
 ### Vybrané ukázky aplikace polotvrdé pěny
@@ -114,9 +112,7 @@ Typ testu                        | Metodický test, CE Norma                    
 ### Technické informace
 
 <div class="grid">
-  <a href="/assets/original/prehlasenie.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
-  <a href="/assets/original/hygiena_tvrda.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="/assets/original/Polotvrda_pena_prospekt.pdf" class="col white no-under center">Prospekt »</a>
+  <a href="/assets/IcyFoam-Basic.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
 </div>
 <!--</div></section>-->
 

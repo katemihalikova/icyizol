@@ -146,7 +146,7 @@ Naše vnitřní zateplení stříkanou pěnovou izolací ICYNENE zachová vzhled
 <!--<section class="white bg-blue"><div>-->
 <!--<div class="grid"><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Polotvrdá pěna IcyFoam
+#### Polotvrdá pěna IcyFoam Basic
 
 Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
