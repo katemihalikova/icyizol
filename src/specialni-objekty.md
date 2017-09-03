@@ -31,7 +31,7 @@ Díky zateplení bazénu si můžete prodloužit sezónu až o měsíc, protože
 
 K zateplení používáme nenasákavou polotvrdou pěnu. Obvykle zaizolujeme i veškeré příslušenství (skimmer, potrubí, atd.), kterým je bazén osazen. Na stěnu bazénu vytvoříme tepelně izolační vrstvu bez jakýchkoliv spár, spojů a tepelných mostů, které po technické stránce nelze dosáhnout žádným jiným způsobem.
 
-Zateplení bazénu polyuretanovou pěnou má kromě výborných tepelně-izolačních vlastností také přednosti z konstrukčního hlediska. Takto zateplený bazén se nemusí obetonovávat, stačí jej pouze zasypat soudržnou zeminou.
+Zateplení bazénu naší pěnou má kromě výborných tepelně-izolačních vlastností také přednosti z konstrukčního hlediska. Takto zateplený bazén se nemusí obetonovávat, stačí jej pouze zasypat soudržnou zeminou.
 
 <!--</div><div class="minicol">-->
 

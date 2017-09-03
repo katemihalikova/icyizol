@@ -73,7 +73,7 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 <!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Polotvrdá pěna IcyFoam
+#### Polotvrdá pěna IcyFoam Basic
 
 Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
@@ -139,7 +139,7 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 <!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Polotvrdá pěna IcyFoam
+#### Polotvrdá pěna IcyFoam Basic
 
 Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
@@ -209,7 +209,7 @@ Měkká kanadská pěna Icynene je díky otevřené buněčné struktuře difúz
 
 <!--</a><a href="/produkty.html#polotvrda-pena-icyfoam-basic" class="col white no-under">-->
 
-#### Polotvrdá pěna IcyFoam
+#### Polotvrdá pěna IcyFoam Basic
 
 Polotvrdá pěna se vyznačuje uzavřenou buněčnou strukturou, a proto působí jako parobrzda a díky velmi nízké lambdě se může aplikovat i v malých tloušťkách. I u tvrdého typu pěn nehrozí žádné sesednutí, smrštění nebo vznik tepelných mostů.
 
