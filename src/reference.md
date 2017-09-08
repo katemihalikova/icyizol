@@ -6,20 +6,6 @@ layout: subpage.html
 
 # Reference
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Zateplení Frýdlant v Čechách
@@ -34,7 +20,7 @@ layout: subpage.html
 <a href="/assets/reference3/frydlant8.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/frydlant9.jpg" style="display:none;"><img></a>
 
-Kompletní zateplení pro zelenou úsporám, chytrou izolací Icynene.
+Kompletní zateplení chytrou izolací Icynene - pro zelenou úsporám.
 
 
 <!--</div><div class="col" gallery>-->
@@ -49,12 +35,9 @@ Kompletní zateplení pro zelenou úsporám, chytrou izolací Icynene.
 <a href="/assets/reference3/gresik6.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/gresik7.jpg" style="display:none;"><img></a>
 
-Na některé zkázky je i jedna technologie málo, aby se zakázka mohla zákazníkovi předat včas bylo zapotřebí použít hned dvě aplikační technologie. Aplikace pro firmu Čaje Grešík v Děčíně.
+Na některé zakázky je i jedna technologie málo. Aby se tato zakázka mohla zákazníkovi předat včas, bylo zapotřebí použít hned dvě aplikační technologie. Aplikace pro firmu Čaje Grešík v Děčíně.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Mobilheim okres Mladá Boleslav
@@ -82,12 +65,9 @@ Kompletní zateplení mobilheimu, aby se i v něm dobře bydlelo.
 <a href="/assets/reference3/hradiste7.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/hradiste8.jpg" style="display:none;"><img></a>
 
-Výměna nevyhovující minerální tepelné izolace za naší Ideální izolaci Icynene, kde se opět potvrdila výborná spolupráce s Tesařstvím Frýda ze Smržovky.
+Výměna nevyhovující minerální tepelné izolace za naší Ideální izolaci Icynene, kde se opět potvrdila výborná spolupráce s *Tesařstvím Frýda* ze Smržovky.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Novostavba Dětřichov u Frýdlantu v Čechách
@@ -109,13 +89,9 @@ Dokonalé zateplení stropu na novostavbě.
 <a href="/assets/reference3/chotyne3.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/chotyne4.jpg" style="display:none;"><img></a>
 
-Zateplení půdy, aby nedocházelo nežádoucím únikům tepla.
+Zateplení půdy, aby nedocházelo k nežádoucím únikům tepla.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Roubenka Kořenov okres Jablonec nad Nisou
@@ -143,10 +119,6 @@ Zateplení střechy a odhlučnění příček na nové roubence v Kořenově.
 Chytré použití stříkané pěny Icynene na rozsáhlé stavbě v Liberci.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Novostavba Kamenický Šenov
@@ -173,16 +145,12 @@ Dokonale zateplená novostavba kanadskou Chytrou izolací Icynene.
 Použití jediné kanadské stříkané izolace na českém trhu Icynene.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Izolace podkroví Liberec
 
 <a href="/assets/reference3/podkrovil1.jpg"><img src="/assets/reference3/podkrovil.jpg"></a>
-<a href="/assets/reference3/podkrovi2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference3/podkrovil2.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/podkrovil3.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/podkrovil4.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/podkrovil5.jpg" style="display:none;"><img></a>
@@ -202,9 +170,6 @@ Zateplení chytrou izolací pro budoucí byt v Liberci.
 Použití Ideální izolace Icynene stříkanou pěnou.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Podkroví Mšeno
@@ -228,12 +193,9 @@ Chytře provedené zateplení podkroví izolací Icynene.
 <a href="/assets/reference3/sidliste6.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/sidliste7.jpg" style="display:none;"><img></a>
 
-Použtí Chytré izolace Icynene, při tvorbě půdní vestavby v Jablonci nad Nisou na sidlišti Šumava.
+Použtí Chytré izolace Icynene při tvorbě půdní vestavby na sidlišti Šumava v Jablonci nad Nisou.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Izolace sřechy Jablonec nad Nisou
@@ -252,12 +214,9 @@ Použití polotvrdé pěny Icynene Basic na plechový trapéz.
 <a href="/assets/reference3/hala3.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/hala4.jpg" style="display:none;"><img></a>
 
-Zateplení haly, kde docházelo ke kondenzaci vody. Izolace Icynene zabrňuje, aby tomu docházelo i dál.
+Zateplení haly, kde docházelo ke kondenzaci vody. Izolace Icynene zabraňuje, aby tomu docházelo i nadále.
 
 <!--</div></div>-->
-
-<!--<div class="grid"><div class="col" gallery>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Podkroví Liberec
@@ -268,7 +227,7 @@ Zateplení haly, kde docházelo ke kondenzaci vody. Izolace Icynene zabrňuje, a
 <a href="/assets/reference3/podkrovi4.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/podkrovi5.jpg" style="display:none;"><img></a>
 
-Na rušné liberecké třídě,kde je velmi silný provoz, naše izolace splňuje nejen výborné tepelně izolačí požadavky, ale i výborné akustické vlastnosti.
+Na rušné liberecké třídě s velmi silným provozem splňuje naše izolace nejen všechny tepelně izolačí požadavky, ale má také výborné akustické vlastnosti.
 
 <!--</div><div class="col" gallery>-->
 
@@ -282,7 +241,6 @@ Na rušné liberecké třídě,kde je velmi silný provoz, naše izolace splňuj
 Zateplení stropu na novostabě Ideální izolací Icynene.
 
 <!--</div></div>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Speciální stavba Bílý Potok pod Smrkem
@@ -304,19 +262,16 @@ I stará vojenská maringotka si zaslouží dokonalé zateplení.
 <a href="/assets/reference3/liberec5.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/liberec6.jpg" style="display:none;"><img></a>
 
-Pro půdní vestavbu, aby v zimě nebyla zima a v létě teplo, je vždy nejvhodnější naše izolace Icynene.
+Aby v zimě nebyla zima a v létě teplo, je pro půdní vestavbu vždy nejvhodnější naše izolace Icynene.
 
 <!--</div></div>-->
-
 <!--<div class="grid"><div class="col" gallery>-->
 
-#### Zateplení Smržovka
+#### Zateplení pekárny Smržovka
 
 <a href="/assets/reference3/pekarna1.jpg"><img src="/assets/reference3/pekarna.jpg"></a>
 <a href="/assets/reference3/pekarna2.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/pekarna3.jpg" style="display:none;"><img></a>
-
-Zateplení pekárny ve Smržovce.
 
 <!--</div><div class="col" gallery>-->
 
@@ -331,10 +286,6 @@ Zateplení pekárny ve Smržovce.
 Pro vysoké tepelné nároky této stavby byla zvolena chytrá izolace Icynene, která je dokonale splňuje.
 
 <!--</div></div>-->
-
-
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Zateplení Třebestovice okres Nymburk
@@ -344,7 +295,7 @@ Pro vysoké tepelné nároky této stavby byla zvolena chytrá izolace Icynene, 
 <a href="/assets/reference3/trebestovice3.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/trebestovice4.jpg" style="display:none;"><img></a>
 
-Zaizolování shora stropu do vazníků. Pro zákazníka byla naše izolace Icynene více než jasná volba. 
+Zaizolování shora stropu do vazníků. Pro zákazníka byla naše izolace Icynene více než jasná volba.
 
 <!--</div><div class="col" gallery>-->
 
@@ -360,25 +311,9 @@ Zaizolování shora stropu do vazníků. Pro zákazníka byla naše izolace Icyn
 <a href="/assets/reference3/zaskali8.jpg" style="display:none;"><img></a>
 <a href="/assets/reference3/zaskali9.jpg" style="display:none;"><img></a>
 
-Při rosáhlé rekonstrukci staršího statku, byla použita vhodně použita naše Ideální izolace Icynene, která tak splňuje velmi náročné požadvky zákazníka na dokonalé zateplení. Navíc zákazník byl velice spokojen s celkovém provedení prací.
+Při rosáhlé rekonstrukci staršího statku byla vhodně použita naše Ideální izolace Icynene, která splňuje velmi náročné požadavky zákazníka na dokonalé zateplení, navíc zákazník byl velice spokojen s celkovým provedením prací.
 
 <!--</div></div>-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--<div class="grid"><div class="col" gallery>-->
 
 #### Rekonstrukce izolace
