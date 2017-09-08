@@ -239,13 +239,16 @@ main {
   > .col {
     flex: 1 1 0;
   }
+  > .doublecol {
+    flex: 2 1 0;
+  }
   > .autocol {
     flex: 1 1 auto;
   }
   > .minicol {
     flex: 0 1 auto;
   }
-  > .col, > .autocol, > .minicol {
+  > .col, > .doublecol, > .autocol, > .minicol {
     display: block;
     @media all and (min-width: 600px) {
       &:not(:first-child) {
@@ -442,10 +445,6 @@ footer {
   margin: 0;
 }
 
-hr {
-  border: none;
-}
-
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   @extend .nadpis;
   color: map-get($colors, "blue");
@@ -461,7 +460,7 @@ h1, .h1, h2, .h2, hr, .no-border hr {
 h3, .h3, h4, .h4 {
   text-transform: none;
   font-variant: small-caps;
-  padding: 10px 0;
+  padding: 10px 5px;
 }
 
 h1, .h1 {

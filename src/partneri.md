@@ -42,13 +42,9 @@ layout: subpage.html
 <!--</div><div class="col">-->
 <!--</div></div>-->
 
----
-
----
-
+<!--<div class="white bg-blue">-->
 ### Střechy
-
----
+<!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
 
@@ -101,13 +97,9 @@ layout: subpage.html
 
 <!--</div></div>-->
 
----
-
----
-
+<!--<div class="white bg-blue">-->
 ### Stavebniny
-
----
+<!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
 
@@ -132,13 +124,9 @@ layout: subpage.html
 
 <!--</div></div>-->
 
----
-
----
-
+<!--<div class="white bg-blue">-->
 ### Projektanti
-
----
+<!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
 
@@ -173,15 +161,11 @@ layout: subpage.html
 
 <!--</div></div>-->
 
----
-
----
-
 <!--<div class="grid"><div class="col">-->
 
+<!--<div class="white bg-blue">-->
 ### Sádrokarton
-
----
+<!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
 
@@ -192,11 +176,11 @@ layout: subpage.html
 
 <!--</div></div>-->
 
-<!--</div><div class="col">-->
+<!--</div><div class="doublecol">-->
 
+<!--<div class="white bg-blue">-->
 ### Ostatní
-
----
+<!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
 
