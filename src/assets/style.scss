@@ -363,11 +363,12 @@ footer {
 
     li {
       position: relative;
+      padding-left: 1em;
 
       &:before {
         position: absolute;
         content: "●";
-        left: -.9em;
+        left: .1em;
         color: map-get($colors, "blue");
       }
     }
