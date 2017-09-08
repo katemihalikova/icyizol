@@ -502,6 +502,9 @@ h4, .h4 {
 }
 .no-border, .no-border * {
   border: none;
+  img {
+    background-color: transparent;
+  }
 }
 
 img {
@@ -512,6 +515,7 @@ img {
     border-width: 5px;
     border-style: solid;
     border-color: map-get($colors, "blue");
+    background-color: map-get($colors, "blue");
   }
   section a & {
     @extend .rohy;
@@ -543,6 +547,7 @@ section iframe {
   border-width: 5px;
   border-style: solid;
   border-color: darken(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) darken(map-get($colors, "red"), 10%);
+  background-color: map-get($colors, "red");
 }
 
 section table {
@@ -571,6 +576,7 @@ section table {
   }
   img {
     border: 0;
+    background-color: transparent;
   }
 }
 
