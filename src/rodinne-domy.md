@@ -179,7 +179,7 @@ Pro vnější zateplení doporučujeme systém provětrávané fasády, který u
 
 <!--</div></div>-->
 
-Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v horizontu 3-5 let a náklady spojené s vytápěním se sníží v závislosti na rozsahu aplikace až o 70%. Chytrá izolace zvyšuje hodnotu nemovitosti, komfort užívání a prodlužuje životnost izolované konstrukce.
+Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v horizontu 3-5 let a náklady spojené s vytápěním se sníží v závislosti na rozsahu aplikace až o 70%. Ideální izolace zvyšuje hodnotu nemovitosti, komfort užívání a prodlužuje životnost izolované konstrukce.
 
 ### Prohlédněte si naše vybrané reference stěn a fasád
 

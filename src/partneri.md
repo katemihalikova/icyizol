@@ -68,6 +68,13 @@ layout: subpage.html
 [+420 604 784 726](tel:+420604784726)  
 [strechyrovensky.cz](http://www.strechyrovensky.cz/)
 
+<!--</div><div class="col">-->
+
+#### Střechy Hnát
+
+[+420 602 368 002](tel:+420602368002)  
+[strechy-hnat.cz](https://www.strechy-hnat.cz/)
+
 <!--</div></div>-->
 
 ---
@@ -79,21 +86,6 @@ layout: subpage.html
 
 [+420 737 673 152](tel:+420737673152)  
 [cihys.cz](http://www.cihys.cz/)
-
-<!--</div><div class="col">-->
-
-#### Jizerské roubenky
-
-[+420 775 676 505](tel:+420775676505)  
-[jizerske-roubenky.cz](http://www.jizerske-roubenky.cz/)
-
-<!--</div><div class="col">-->
-
-#### Jindřich Sekyra
-<div><strong>tesařské práce</strong></div>
-
-[+420 736 635 606](tel:+420736635606)  
-[jindrich.sekyra@email.cz](mailto:jindrich.sekyra@email.cz)
 
 <!--</div></div>-->
 
@@ -131,7 +123,7 @@ layout: subpage.html
 <!--<div class="grid"><div class="col">-->
 
 #### Zdeněk Melichar
-<div><strong>autorizovaný technik<br>pro pozemní stavby</strong></div>
+<div><strong>projektová činnost ve výstavbě</strong></div>
 
 [+420 482 322 245](tel:+420482322245)  
 [meliprojekt.cz](http://www.meliprojekt.cz/)
@@ -164,21 +156,6 @@ layout: subpage.html
 <!--<div class="grid"><div class="col">-->
 
 <!--<div class="white bg-blue">-->
-### Sádrokarton
-<!--</div>-->
-
-<!--<div class="grid"><div class="col">-->
-
-#### H.K.M. Stavby
-
-[+420 725 497 000](tel:+420725497000)  
-[hkmstavby.cz](http://www.hkmstavby.cz/)
-
-<!--</div></div>-->
-
-<!--</div><div class="doublecol">-->
-
-<!--<div class="white bg-blue">-->
 ### Ostatní
 <!--</div>-->
 
@@ -197,6 +174,22 @@ layout: subpage.html
 
 [+420 737 814 337](tel:+420737814337)  
 [autojerab-zaml.cz](http://www.autojerab-zaml.cz/)
+
+<!--</div><div class="col">-->
+
+#### František Červinka
+<div><strong>stavební práce</strong></div>
+
+[+420 739 330 700](tel:+420739330700)  
+[stavbycervinka.cz](http://www.stavbycervinka.cz/)
+
+<!--</div><div class="col">-->
+
+#### Zdeněk Kalousek
+<div><strong>příprava staveniště</strong></div>
+
+[+420 731 443 830](tel:+420731443830)  
+[profil na ifirmy.cz](https://ifirmy.cz/firma/506775-zdenek-kalousek)
 
 <!--</div></div>-->
 

@@ -73,7 +73,6 @@ Typ testu                                                              | CE Norm
 <div class="grid">
   <a href="/assets/original/prohlaseni_mekka.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
   <a href="/assets/original/Certifikat-do-20.11.2018.pdf" class="col white no-under center">Hygienický certifikát »</a>
-  <a href="/assets/original/Izolace_bez_starosti.pdf" class="col white no-under center">Prospekt »</a>
 </div>
 <!--</div></section>-->
 
@@ -122,7 +121,7 @@ Typ testu                        | Metodický test, CE Norma                    
 
 ## Fasádní systémy
 
-Provětrávaná fasáda plní podobnou funkci jako kůže na vašem těle. Chrání vaši budovu před negativními vlivy okolí, dýchá a pomáhá regulovat optimální teplotu v objektu, vytváří zdravé prostředí. Stěny jsou ošetřeny tepelnou “Chytrou izolací”, která nezadržuje vodu, ale propouští páry. Vrchní viditelnou vrstvu provětrávané fasády tvoří obkladové fasádní desky nebo panely.
+Provětrávaná fasáda plní podobnou funkci jako kůže na vašem těle. Chrání vaši budovu před negativními vlivy okolí, dýchá a pomáhá regulovat optimální teplotu v objektu, vytváří zdravé prostředí. Stěny jsou ošetřeny tepelnou “Ideální izolací”, která nezadržuje vodu, ale propouští páry. Vrchní viditelnou vrstvu provětrávané fasády tvoří obkladové fasádní desky nebo panely.
 
 Ty si můžete vybrat v nejrůznějších typech a odstínech. Desky provětrávané fasády jsou stálobarevné, mrazuvzdorné a odolné proti povětrnostním vlivům. Fasádní panely jsou přitom připevněny na rošt tak, že je dělí od tepelné izolace vzduchová mezera o šířce 4 cm. Z obou vrstev fasády se tak dobře odvádí vlhkost, v létě se vnitřní plášť domu snadněji ochlazuje.
 

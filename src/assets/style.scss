@@ -192,6 +192,12 @@ main {
   }
 }
 
+.partneri {
+  img {
+    border-radius: 0;
+  }
+}
+
 // .grid {
 //   display: flex;
 //   flex: 1;
@@ -521,7 +527,7 @@ img {
     @extend .rohy;
     border-width: 5px;
     border-style: solid;
-    border-color: lighten(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) darken(map-get($colors, "blue"), 10%) lighten(map-get($colors, "blue"), 10%);
+    border-color: map-get($colors, "blue");
   }
   section.reference a & {
     max-width: 60%;
@@ -546,7 +552,7 @@ section iframe {
   @extend .rohy;
   border-width: 5px;
   border-style: solid;
-  border-color: darken(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) lighten(map-get($colors, "red"), 10%) darken(map-get($colors, "red"), 10%);
+  border-color: map-get($colors, "red");
   background-color: map-get($colors, "red");
 }
 
@@ -622,6 +628,19 @@ section table {
 
 .more {
   display: none;
+}
+
+.main-axis-center {
+  justify-content: center;
+}
+
+.cross-axis-center {
+  align-items: center;
+}
+
+.m-lr {
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
 @each $name, $color in $colors {

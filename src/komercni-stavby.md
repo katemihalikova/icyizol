@@ -27,7 +27,7 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col">-->
 
-V poslední době tým ICYNENE Chytré izolace® stále častěji řeší poptávky spojené s rekonstrukcí či modernizací bytových domů. Obyvatelé horních pater většinou řeší vysoké účty za topení a přehřívání konstrukcí v letních měsících. Naopak majitelé bytů v přízemí mají problém s chladem, který se šíří z nevytápěných suterénů. Tyto problémy jsou mnohdy doplněny výskytem zdraví škodlivých plísní.
+V poslední době tým ICYNENE Ideální izolace stále častěji řeší poptávky spojené s rekonstrukcí či modernizací bytových domů. Obyvatelé horních pater většinou řeší vysoké účty za topení a přehřívání konstrukcí v letních měsících. Naopak majitelé bytů v přízemí mají problém s chladem, který se šíří z nevytápěných suterénů. Tyto problémy jsou mnohdy doplněny výskytem zdraví škodlivých plísní.
 
 Náš odborně vyškolený tým provádí nezávaznou konzultaci přímo v místě, zhodnocení stávajícího stavu, samozřejmostí je měření termokamerou, zhodnocení konstrukce softwarem, který vyhodnotí difúzi par v konstrukci. Poté navrhneme adekvátní řešení.
 
@@ -35,7 +35,7 @@ Náš odborně vyškolený tým provádí nezávaznou konzultaci přímo v míst
 
 U bytových domů máme velmi dobré zkušenosti se zateplováním stropů v přízemích a suterénech. Aplikace se provádí plošným nástřikem přímo na stropní konstrukci, například beton. Díky vynikající přilnavosti se nemusí používat žádné kotvení, které bývá mnohdy příčinou vzniku tepelných mostů. Nejčastější uplatnění však nacházíme u zateplení či rekonstrukcí půdních prostor a v poslední době stále častěji i pro zateplování obvodových konstrukcí.
 
-Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v horizontu 3-5 let a náklady spojené s vytápěním se sníží v závislosti na rozsahu aplikace až o 70%. Chytrá izolace zvyšuje hodnotu nemovitosti, komfort užívání a prodlužuje životnost izolované konstrukce.
+Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v horizontu 3-5 let a náklady spojené s vytápěním se sníží v závislosti na rozsahu aplikace až o 70%. Ideální izolace zvyšuje hodnotu nemovitosti, komfort užívání a prodlužuje životnost izolované konstrukce.
 
 <!--</div></div>-->
 <!--<div class="grid"><div class="col center">-->
@@ -49,7 +49,7 @@ Ze zkušeností víme, že se vynaložená investice do zateplení vrátí v hor
 <!--</div></div>-->
 
 - Zateplení půdních prostor lze rozdělit na zateplení stropů (podlah) a na zateplení střešního pláště.
-- Zateplení stropní konstrukce, a to jak lehké, kdy je střecha vytvořena z dřevěných sbíjených vazníků a podhled je tvořen sádrokartonem, nebo těžké, jako například monolit nebo betonová mazanina, provádíme nástřik přímo na stávající konstrukci. Vytvoří se tak kompaktní izolační vrstva bez spojů a netěsností. Chytrá izolace není pochozí. Pochoznost takové půdy se většinou řeší instalací pochozí lávky.
+- Zateplení stropní konstrukce, a to jak lehké, kdy je střecha vytvořena z dřevěných sbíjených vazníků a podhled je tvořen sádrokartonem, nebo těžké, jako například monolit nebo betonová mazanina, provádíme nástřik přímo na stávající konstrukci. Vytvoří se tak kompaktní izolační vrstva bez spojů a netěsností. Ideální izolace není pochozí. Pochoznost takové půdy se většinou řeší instalací pochozí lávky.
 - Zateplení střešního pláště – nástřik se provádí přímo na pojistnou střešní membránu nebo prkenný záklop. Přitom garantujeme stálé izolační vlastnosti. Nehrozí žádné sesednutí, smrštění, vznik tepelných mostů u hůře přístupných míst – například okolo střešních oken nebo za pozednicí.
 - Zateplení obvodových konstrukcí- „Živá fasáda“ – tento systém umožňuje větrání zdiva a způsobuje přirozený odvod vlhkého vzduchu z konstrukce. Hlavní princip tkví v mezeře, která je při montáži ponechána mezi izolací a finální fasádou. Ta pak komínovým efektem zajistí cirkulaci vzduchu. Eliminujeme tak nutnost větrat klasickým způsobem, tedy otevíráním oken, při kterém uniká velké množství tepla. Základem této fasády je nosná konstrukce (hliník, dřevo), která slouží k instalaci finálního krytu. Nejčastěji využíváme kombinaci se systémem Novabrik. Další alternativou jsou cementotřískové desky CETRIS či fasádní desky Fundermax (vysokotlaký laminát).
 

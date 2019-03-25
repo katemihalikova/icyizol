@@ -111,7 +111,7 @@ Jen ta vše dokonale obklopí a zapouzdří s tou největší myslitelnou tepeln
 
 <!--</div><div class="col">-->
 
-Samotná aplikace se provádí tzv. napřesno, kdy Chytrá izolace Icynene dokonale lícuje s připravenou dřevěnou konstrukcí, jejíž příprava není nikterak složitá a v tomto případě si ji dokonce zákazník zhotovil celou sám. Těm méně zručným samozřejmě dokážeme zprostředkovat kvalitní řemeslníky, kteří se o celou přípravu, včetně finálního opláštění, postarají.
+Samotná aplikace se provádí tzv. napřesno, kdy Ideální izolace Icynene dokonale lícuje s připravenou dřevěnou konstrukcí, jejíž příprava není nikterak složitá a v tomto případě si ji dokonce zákazník zhotovil celou sám. Těm méně zručným samozřejmě dokážeme zprostředkovat kvalitní řemeslníky, kteří se o celou přípravu, včetně finálního opláštění, postarají.
 
 Povrchová úprava může být z OSB desky, jako v tomto případě, ale i z prken, palubek, plechu. Fantazii se v tomto případě samozřejmě meze nekladou.
 
