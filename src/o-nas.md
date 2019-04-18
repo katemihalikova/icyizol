@@ -24,7 +24,7 @@ Chytrá izolace® je obchodní značka společnosti LIKO-S, a.s., která je výh
 
 ### Společnost Icyizol s.r.o.
 
-Jsme regionální partneři týmu ICYNENE®. Naši techničtí poradci působí v obchodním týmu již minimálně 8 let. Jsou tudíž nabití zkušenostmi, které jsou pro zákazníka zárukou odborné způsobilosti. Hlavní prioritou je kvalitní aplikace a spokojený zákazník. Toho dosahujeme díky stálému a odbornému kolektivu zaměstnanců.
+Jsme [certifikovaní](/assets/icyizol-certifikat.pdf) regionální partneři týmu ICYNENE®. Naši techničtí poradci působí v obchodním týmu již minimálně 8 let. Jsou tudíž nabití zkušenostmi, které jsou pro zákazníka zárukou odborné způsobilosti. Hlavní prioritou je kvalitní aplikace a spokojený zákazník. Toho dosahujeme díky stálému a odbornému kolektivu zaměstnanců.
 
 <!--</div></div>-->
 
