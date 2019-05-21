@@ -8,6 +8,34 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" gallery>-->
 
+#### Roubenka na západě Čech
+
+<a href="/assets/reference4/harabis1.jpg"><img src="/assets/reference4/harabis.jpg"></a>
+<a href="/assets/reference4/harabis2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/harabis3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/harabis4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/harabis5.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/harabis6.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/harabis7.jpg" style="display:none;"><img></a>
+
+Díky našemu partnerovi jsme se dostali až na samé západní hranice do Staré Knížecí Huti, kde pro majitele vyrostla roubenka. Ideálně zvolenou izolací pro dřevostavby je otevřená buněční struktura kanadské izolační pěny Icynene, díky které dům dýchá. Pěna dokonale vyplní veškeré složité detaily, které byste klasickým izolantem neměli šanci kvalitně zaizolovat. Napojení na ostatní konstrukce je beze spojů a tak nedochází k netěstnostem a úníkum tepla.
+
+
+<!--</div><div class="col" gallery>-->
+
+#### Rekonstrukce podkroví Liberec
+
+<a href="/assets/reference4/ruzek1.jpg"><img src="/assets/reference4/ruzek.jpg"></a>
+<a href="/assets/reference4/ruzek2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/ruzek3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/ruzek4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/ruzek5.jpg" style="display:none;"><img></a>
+
+Po rekonstrukci střechy majitel požadoval, aby podkroví, které začnou využívat jako ložnici, bylo komfortní jak v létě, tak v zimě. Proto zvolil kanadskou izolační pěnu Icynene. Nezůstalo jen u střechy a vhodně se zvolila izolace i na štítové stěny. Technická správnost provedení a následná spokojenost zákazníka je u nás ve firmě samozřejmostí.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
 #### Zateplení Frýdlant v Čechách
 
 <a href="/assets/reference3/frydlant1.jpg"><img src="/assets/reference3/frydlant.jpg"></a>
