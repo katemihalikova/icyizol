@@ -8,12 +8,35 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
 
+<a href="/assets/aktuality/2019-05-jelinek1.jpg"><img src="/assets/aktuality/2019-05-jelinek1.jpg"></a>
+<a href="/assets/aktuality/2019-05-jelinek2.jpg" style="display:none;"><img></a>
+<a href="/assets/aktuality/2019-05-jelinek3.jpg" style="display:none;"><img></a>
+<a href="/assets/aktuality/2019-05-jelinek4.jpg" style="display:none;"><img></a>
+<a href="/assets/aktuality/2019-05-jelinek5.jpg" style="display:none;"><img></a>
+
+<!--</div><div class="col">-->
+
+### Montáž půdních schodů
+#### 11. 5. 2019
+
+Naše firma Icyizol, která se zabývá kvalitními Izolacemi Icynene a montáží sádrokartonu Rigips, dbá na to, aby zákazník neměl jen kvalitně zatepleno, ale aby ani prostupy na půdu neunikalo v zimě drahé teplo a v létě se obytné prostory nepřehřívaly.
+
+Naši sádrokártonáři tedy prošli důkladným školením k montáži půdních schodů od Rakouského výrobce na sídle firmy [JELÍNEK interiér s.r.o.](http://www.schody-zabradli-jelinek.cz/) 👍
+
+Musíme podotknout, že takto kvalitní půdní schody v žádném hobby marketu nepořídíte. V případě zájmu se můžete obrátit buď přímo na [JELÍNEK interiér s.r.o.](http://www.schody-zabradli-jelinek.cz/), nebo na nás, a to včetně odborné montáže. 👨‍🔧👍
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
+
 <a href="/assets/aktuality/2019-05-sadrokarton.jpg"><img src="/assets/aktuality/2019-05-sadrokarton.jpg"></a>
 
 <!--</div><div class="col">-->
 
 ### Zateplení podkroví včetně realizace sádrokartonu
-#### 1.5.2019
+#### 1. 5. 2019
 
 Od května 2019 jsme schopni nabídnout celý systém zateplení podkroví včetně realizace sádrokartonu.
 
@@ -30,7 +53,7 @@ Od května 2019 jsme schopni nabídnout celý systém zateplení podkroví včet
 <!--</div><div class="col">-->
 
 ### Jsme vám k dispozici na výstavě Dům a zahrada v Lounech
-#### 18. – 21.4.2019
+#### 18. – 21. 4. 2019
 
 Navštivte náš výstavní stánek na výstavě Dům a zahrada v Lounech, která se koná ve dnech 18.4. až 21.4.2019. Na stánku naleznete zástupce distributorských firem Ideální izolace Icynene®: ICYIZOL s.r.o. (Liberecký kraj, Děčínsko, Mladoboleslavsko, Nymbursko, Ústecký kraj) a KP Izol s.r.o. (Královehradecký kraj a Pardubicko).
 
@@ -47,7 +70,7 @@ Navštivte náš výstavní stánek na výstavě Dům a zahrada v Lounech, kter�
 <!--</div><div class="col">-->
 
 ### Obchodní flotila v akci
-#### 31.8.2017
+#### 31. 8. 2017
 
 Naše obchodní flotila je připravena pro nezávazné konzultace na vašich stavbách, které provádíme zcela zdarma.
 
@@ -62,7 +85,7 @@ Naše obchodní flotila je připravena pro nezávazné konzultace na vašich sta
 <!--</div><div class="col">-->
 
 ### Dobře fungující spolupráce s&nbsp;partnery je základem spokojenosti zákazníků
-#### 23.3.2017
+#### 23. 3. 2017
 
 Z&nbsp;celé řady partnerů přinášíme rozhovor s&nbsp;majitelem firmy *Tesařské a&nbsp;stavební práce Frýda - Kráner*, panem *Alešem Frýdou*.
 
@@ -103,7 +126,7 @@ Z&nbsp;celé řady partnerů přinášíme rozhovor s&nbsp;majitelem firmy *Tesa
 <!--</div><div class="col">-->
 
 ### Ideální izolace Icynene® se představuje na regionální výstavě v Lysé nad Labem
-#### 16. – 18.2.2017
+#### 16. – 18. 2. 2017
 
 Neváhejte a navštivte náš výstavní stánek na probíhající výstavě Stavitel na výstavišti v Lysé nad Labem, a to ve dnech 16.2. až 18.2.2017 od 9:00 do 17:00. Na stánku naleznete zástupce distributorských firem ICYIZOL s.r.o. (Liberecký kraj, Děčínsko, Mladoboleslavsko a Nymbursko) a KP Izol s.r.o., který je regionální zástupce Ideální izolace Icynene® pro Královehradecký kraj a Pardubicko.
 
@@ -120,7 +143,7 @@ Neváhejte a navštivte náš výstavní stánek na probíhající výstavě Sta
 <!--</div><div class="col">-->
 
 ### Ideální izolace Icynene® splňuje požadavky pro segment dřevostaveb
-#### 14.12.2016
+#### 14. 12. 2016
 
 Ideální izolace Icynene® splňuje požadavky, které jsou určeny pro segment dřevostaveb. Jedná se o kontaktní difúzně otevřený systém s tepelnou izolací Icynene® mezi KVH hranoly a dřevovláknitou deskou, která díky své vysoké objemové hmotnosti a měrné tepelné kapacitě chrání dřevostavbu proti přehřívání v letním období. Tato skladba splní požadavek na požární odolnost REI30.
 
