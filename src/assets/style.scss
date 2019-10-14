@@ -12,6 +12,9 @@ header {
     position: relative;
     max-width: $max-width;
     margin: 0 auto;
+    > a {
+      display: block;
+    }
   }
 }
 
