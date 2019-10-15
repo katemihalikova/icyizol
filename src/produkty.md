@@ -15,9 +15,6 @@ layout: subpage.html
 </a><a class="col center" href="#polotvrda-pena-icyfoam-basic">
 <img src="/assets/original/1_Sprava_webu_10-2015-_uprava_fotografie__LIK_15023_Work_JZ.png">
 <p class="h4 flexy">Polotvrdá pěna IcyFoam Basic</p>
-</a><a class="col center" href="#fasadni-systemy">
-<img src="/assets/original/fasadni-systemy.png">
-<p class="h4 flexy">Fasádní systémy</p>
 </a></div>
 </div></section>-->
 
@@ -113,43 +110,4 @@ Typ testu                        | Metodický test, CE Norma                    
 <div class="grid">
   <a href="/assets/IcyFoam-Basic.pdf" class="col white no-under center">Prohlášení o vlastnostech »</a>
 </div>
-<!--</div></section>-->
-
-
-
-<!--<section><div>-->
-
-## Fasádní systémy
-
-Provětrávaná fasáda plní podobnou funkci jako kůže na vašem těle. Chrání vaši budovu před negativními vlivy okolí, dýchá a pomáhá regulovat optimální teplotu v objektu, vytváří zdravé prostředí. Stěny jsou ošetřeny tepelnou “Ideální izolací”, která nezadržuje vodu, ale propouští páry. Vrchní viditelnou vrstvu provětrávané fasády tvoří obkladové fasádní desky nebo panely.
-
-Ty si můžete vybrat v nejrůznějších typech a odstínech. Desky provětrávané fasády jsou stálobarevné, mrazuvzdorné a odolné proti povětrnostním vlivům. Fasádní panely jsou přitom připevněny na rošt tak, že je dělí od tepelné izolace vzduchová mezera o šířce 4 cm. Z obou vrstev fasády se tak dobře odvádí vlhkost, v létě se vnitřní plášť domu snadněji ochlazuje.
-
-### Výhody provětrávaných fasád
-
-- Stěna je po zateplení odvětrávaná, nedochází ke vzniku vlhkosti a kondenzaci vody.
-- Objekt se díky proudění vzduchu v létě rychleji ochlazuje. Nedochází k přehřívání.
-- Montáž provětrávaných fasád je snadná a rychlá. Provádí se tzv. suchou cestou.
-- Výměna fasádní desky je jednoduchá, což oceníte například v případě její poškození.
-
-<p class="center">
-
-![](/assets/original/vyhody-fasad.jpg)
-
-</p>
-
-### Vybrané ukázky aplikace fasádního systému
-
-<p class="center" gallery>
-
-[![fasáda, Trgiňa Ivanka pri Dunaji](/assets/original/IMG_3722-150x150.jpg)](/assets/original/IMG_3722-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
-[![fasáda, Vařacha Lopeník](/assets/original/IMG_0052-150x150.jpg)](/assets/original/IMG_0052-1024x768.jpg "fasáda, Vařacha Lopeník")
-[![Zateplení mobilheimu, Žítková Losiná](/assets/original/11-150x150.jpg)](/assets/original/11.jpg "Zateplení mobilheimu, Žítková Losiná")
-[![fasáda, GTW Teplice](/assets/original/GTW-Teplice-1-150x150.jpg)](/assets/original/GTW-Teplice-1.jpg "fasáda, GTW Teplice")
-[![fasáda Novamont – Jankech, Trebatice](/assets/original/IMG_0023-150x150.jpg)](/assets/original/IMG_0023-1024x768.jpg "fasáda Novamont – Jankech, Trebatice")
-[![obvodové stěny, Pstruša](/assets/original/IMG_1095-150x150.jpg)](/assets/original/IMG_1095-1024x768.jpg "obvodové stěny, Pstruša")
-[![fasáda, Trgiňa Ivanka pri Dunaji](/assets/original/IMG_4510-150x150.jpg)](/assets/original/IMG_4510-1024x768.jpg "fasáda, Trgiňa Ivanka pri Dunaji")
-
-</p>
-
 <!--</div></section>-->

@@ -1,5 +1,10 @@
 <?php
 
+if ($_SERVER["REQUEST_METHOD"] !== "POST") {
+  header("HTTP/1.0 405 Method Not Allowed");
+  die();
+}
+
 $page = $_GET["page"];
 
 include "assets/vendor/PHPMailer-5.2.22/PHPMailerAutoload.php";

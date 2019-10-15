@@ -8,6 +8,21 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
 
+<a href="/assets/aktuality/2017-02-lysa.jpg"><img src="/assets/aktuality/2017-02-lysa.jpg"></a>
+
+<!--</div><div class="col">-->
+
+### Ideální izolace Icynene® se představuje na regionální výstavě Dům a bydlení v Liberci
+#### 18. – 20. 10. 2019
+
+Neváhejte a navštivte náš výstavní stánek na výstavě _Dům a bydlení_ v HomeCredit Aréně v Liberci, a to ve dnech 18. až 20. 10. 2019 od 9:00 do 17:00. Na stánku naleznete zástupce ICYIZOL s.r.o. (Liberecký kraj, Děčínsko, Mladoboleslavsko a Nymbursko).
+
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid"><div class="col" style="flex:0 1 25%;" gallery>-->
+
 <a href="/assets/aktuality/2019-05-jelinek1.jpg"><img src="/assets/aktuality/2019-05-jelinek1.jpg"></a>
 <a href="/assets/aktuality/2019-05-jelinek2.jpg" style="display:none;"><img></a>
 <a href="/assets/aktuality/2019-05-jelinek3.jpg" style="display:none;"><img></a>

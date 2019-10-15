@@ -12,7 +12,7 @@ Ideální izolace je systém **zateplení** kanadskou izolační pěnou [Icynene
 
 Celá izolační vrstva z pěny Icynene je plně prodyšná pro vzdušnou vlhkost. Díky tomu, že sama nevlhává, si **Ideální izolace** po celou dobu životnosti zachovává vysokou efektivitu a zároveň udržuje konstrukční prvky Vaší stavby v suchu.
 
-S Ideální izolací výrazně snížíte energetickou náročnost Vašeho domu. Výdaje na instalaci Ideální izolace se Vám vrátí za relativně krátkou dobu zpět. Od roku 2006 jsme provedli izolaci více než 5 000 objektů po celé střední Evropě.
+S Ideální izolací výrazně snížíte energetickou náročnost Vašeho domu. Výdaje na instalaci Ideální izolace se Vám vrátí za relativně krátkou dobu zpět. Od roku 2006 jsme provedli izolaci více než 50 000 objektů po celé střední Evropě.
 
 <!--<div class="grid"><div class="col">-->
 
@@ -45,17 +45,10 @@ Od roku 1986 bylo pěnou Icynene zaizolováno více než milion budov po celém 
 
 Tato izolace je již přes 25 let majoritní tepelnou izolací na trhu v Kanadě a USA.
 
+
 ## Rychlost zateplení
 
-<!--<div class="grid"><div class="col">-->
-
-[![](/assets/original/kalendar.jpeg)](/assets/original/kalendar.jpeg)
-
-<!--</div><div class="col">-->
-
-Jeden dům, jeden den – takovou rychlostí instalujeme Ideální izolaci. Vlastní aplikaci izolace provádíme stříkáním, proto je zateplení běžného domu otázkou jediného dne. Montáž je navíc **bezprašná a bezhlučná** a je tak možné ji provést i v již zařízených domácnostech. Po skončení instalace zlikvidujeme veškerý odpad a poklidíme po sobě. Montáž Ideální izolace provádíme v průběhu celého roku, tedy i v zimě, kterýkoliv den v týdnu, až do teploty -38°C.
-
-<!--</div></div>-->
+Jeden dům, jeden den – takovou rychlostí instalujeme Ideální izolaci ICYNENE®. Vlastní aplikaci izolace provádíme stříkáním, proto je zateplení běžného domu otázkou jediného dne. Montáž je navíc **bezprašná a bezhlučná** a je tak možné ji provést i v již zařízených domácnostech. Po skončení instalace zlikvidujeme veškerý odpad a poklidíme po sobě. Montáž Ideální izolace provádíme v průběhu celého roku, tedy i v zimě, kterýkoliv den v týdnu, až do teploty -38°C.
 
 
 ## Nechte Váš dům dýchat
@@ -77,7 +70,7 @@ Stříkaná tepelná izolace funguje jako aktivní sportovní oblečení – nap
 
 <!--<div class="grid"><div class="col">-->
 
-<p><iframe src="https://www.youtube.com/embed/IuNQONqOrPc?feature=oembed" allowfullscreen></iframe></p>
+<p><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F325470244145093%2Fvideos%2F673582856490507%2F&show_text=0&width=560" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></p>
 
 <!--</div><div class="col">-->
 
@@ -90,7 +83,7 @@ Ideální izolace vytváří vzduchotěsnou tepelně **izolační vrstvu**, kter
 
 Ideální izolace **snižuje spotřebu energie** na vytápění v zimě, což je dáno její vzduchotěsností – kompaktní vrstvou přes kterou teplo neuteče v žádném detailu. V letním období **snižuje spotřebu energie** na chlazení a nutnost pořízení klimatizace, protože nepustí teplo dovnitř – konstrukce střechy se neprohřeje.
 
-Vytvoří souvislou nepropustnou vrstvu a **eliminuje tak tepelné ztráty**, které vznikají po chybách v zateplení klasickými izolacemi.
+Vytvoří souvislou neprůvzdušnou vrstvu a **eliminuje tak tepelné ztráty**, které vznikají po chybách v zateplení klasickými izolacemi.
 
 Ideální izolace nikdy **nemění svůj tvar a objem** – nikdy nesesedá a nevytváří spáry – je bezešvá.
 

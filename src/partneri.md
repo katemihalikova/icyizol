@@ -12,15 +12,14 @@ layout: subpage.html
 <!--<div class="grid" style="align-items:center;"><div class="col">-->
 <!--</div><div class="minicol">-->
 
-[![LIKO-S, a.s.](/assets/likos.jpg)](http://www.chytraizolace.cz/)
+[![KP IZOL, s.r.o.](/assets/kpizol.png)](http://www.kpizol.cz/)
 
 <!--</div><div class="minicol" style="padding:0 45px;">-->
 
-#### LIKO-S, a.s.
+#### KP IZOL, s.r.o.
 
-[+420 544 22 11 11](tel:+420544221111)  
-[liko-s.cz](http://www.liko-s.cz/)  
-[chytraizolace.cz](http://www.chytraizolace.cz/)
+[+420 775 331 016](tel:+420775331016)  
+[kpizol.cz](http://www.kpizol.cz/)  
 
 <!--</div><div class="col">-->
 <!--</div></div>-->
@@ -30,14 +29,31 @@ layout: subpage.html
 <!--<div class="grid" style="align-items:center;"><div class="col">-->
 <!--</div><div class="minicol">-->
 
-[![KP IZOL, s.r.o.](/assets/kpizol.png)](http://www.kpizol.cz/)
+[![KS IZOLACE CZECH s.r.o.](/assets/ksizolace.png)](http://www.ksizolace.cz/)
 
 <!--</div><div class="minicol" style="padding:0 45px;">-->
 
-#### KP IZOL, s.r.o.
+#### KS IZOLACE CZECH s.r.o.
 
 [+420 775 331 016](tel:+420775331016)  
-[kpizol.cz](http://www.kpizol.cz/)  
+[ksizolace.cz](http://www.ksizolace.cz/)  
+
+<!--</div><div class="col">-->
+<!--</div></div>-->
+
+---
+
+<!--<div class="grid" style="align-items:center;"><div class="col">-->
+<!--</div><div class="minicol">-->
+
+[![Kanadské zateplení s.r.o.](/assets/kanadske-zatepleni.png)](http://www.kanadske-zatepleni.cz/)
+
+<!--</div><div class="minicol" style="padding:0 45px;">-->
+
+#### Kanadské zateplení s.r.o.
+
+[+420 775 331 016](tel:+420775331016)  
+[kanadske-zatepleni.cz](http://www.kanadske-zatepleni.cz/)  
 
 <!--</div><div class="col">-->
 <!--</div></div>-->
@@ -87,6 +103,14 @@ layout: subpage.html
 [+420 737 673 152](tel:+420737673152)  
 [cihys.cz](http://www.cihys.cz/)
 
+<!--</div><div class="col">-->
+
+#### Vojtěch Rydval
+<div><strong>klempířské a pokrývačské práce</strong></div>
+
+[+420 604 414 742](tel:+420604414742)  
+[rydval.net](http://www.rydval.net/)
+
 <!--</div></div>-->
 
 <!--<div class="white bg-blue">-->
@@ -99,13 +123,6 @@ layout: subpage.html
 
 [+420 602 155 120](tel:+420602155120)  
 [stavebninytrend.cz](http://www.stavebninytrend.cz/)
-
-<!--</div><div class="col">-->
-
-<h4><img alt="Stavebniny Mazepa s.r.o." src="/assets/mazepa.png" style="width:150px;"></h4>
-
-[+420 725 448 455](tel:+420725448455)  
-[stavebniny-mazepa.cz](http://www.stavebniny-mazepa.cz/)
 
 <!--</div><div class="col">-->
 
@@ -153,29 +170,31 @@ layout: subpage.html
 
 <!--</div></div>-->
 
+<!--<div class="white bg-blue">-->
+### Dřevostavby
+<!--</div>-->
+
 <!--<div class="grid"><div class="col">-->
+
+#### Dřevostavby Harabiš
+
+[+420 608 750 703](tel:+420608750703)  
+[drevostavby-harabis.cz](https://www.drevostavby-harabis.cz/)
+
+<!--</div><div class="col">-->
+
+#### Marek Tmej &middot; srub.cz
+
+[+420 777 287 537](tel:+420777287537)  
+[srub.cz](https://www.srub.cz/)
+
+<!--</div></div>-->
 
 <!--<div class="white bg-blue">-->
 ### Ostatní
 <!--</div>-->
 
 <!--<div class="grid"><div class="col">-->
-
-#### AB trio s.r.o.
-<div><strong>lešení a mobilní zastřešení</strong></div>
-
-[+420 485 100 118](tel:+420485100118)  
-[abtrio-leseni.cz](http://www.abtrio-leseni.cz/)
-
-<!--</div><div class="col">-->
-
-#### Josef Zaml
-<div><strong>jeřábnické práce</strong></div>
-
-[+420 737 814 337](tel:+420737814337)  
-[autojerab-zaml.cz](http://www.autojerab-zaml.cz/)
-
-<!--</div><div class="col">-->
 
 #### František Červinka
 <div><strong>stavební práce</strong></div>
@@ -190,8 +209,6 @@ layout: subpage.html
 
 [+420 731 443 830](tel:+420731443830)  
 [profil na ifirmy.cz](https://ifirmy.cz/firma/506775-zdenek-kalousek)
-
-<!--</div></div>-->
 
 <!--</div></div>-->
 <!--</div></section>-->
