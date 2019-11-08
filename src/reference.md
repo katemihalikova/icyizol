@@ -8,6 +8,53 @@ layout: subpage.html
 
 <!--<div class="grid"><div class="col" gallery>-->
 
+#### Novostavba Šimonovice
+
+<a href="/assets/reference4/simonovice1.jpg"><img src="/assets/reference4/simonovice.jpg"></a>
+<a href="/assets/reference4/simonovice2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/simonovice3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/simonovice4.jpg" style="display:none;"><img></a>
+
+Další novostavba v Šimonovicích, majitelka zvolila naši izolaci Icynene i přes levnější konkurenční nabídku. Dostala od nás poradenství pro připravenost stavby zdarma, kvalitu, rychlost a vstřícný přístup.
+
+<!--</div><div class="col" gallery>-->
+
+#### Dvousetletá chalupa
+
+<a href="/assets/reference4/chalupa1.jpg"><img src="/assets/reference4/chalupa.jpg"></a>
+<a href="/assets/reference4/chalupa2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/chalupa3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/chalupa4.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/chalupa5.jpg" style="display:none;"><img></a>
+
+Přes 200 let stará chalupa, která se předělává a slouží k celoročnímu bydlení. Zákazník prověřoval pěnu Icynene i v zahraničí, kde se opět setkal s jejími pozitivy. Chytrá volba naší pěny Icynene.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
+#### Mirčina mýdla
+
+<a href="/assets/reference4/mydla1.jpg"><img src="/assets/reference4/mydla.jpg"></a>
+<a href="/assets/reference4/mydla2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/mydla3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/mydla4.jpg" style="display:none;"><img></a>
+
+Pří rozšiřování domu o výrobní prostory se majitel, pro zachování komfortu při výrobě jak v zimě tak i v létě, obrátil na nás. Díky naší neprovzdušnosti bude příjemné klima na práci a menší náklady na topení nebo chlazení.
+
+<!--</div><div class="col" gallery>-->
+
+#### Podkroví Lipová
+
+<a href="/assets/reference4/lipova1.jpg"><img src="/assets/reference4/lipova.jpg"></a>
+<a href="/assets/reference4/lipova2.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/lipova3.jpg" style="display:none;"><img></a>
+<a href="/assets/reference4/lipova4.jpg" style="display:none;"><img></a>
+
+Reference zákazníka z Lipové spokojeného s kvalitně odvedenou prací nám umožnila aplikovat naši pěnu Icynene také v tomto krásném a velkém podkrovním prostoru ve stejné obci, kde bude bydlet náš další spokojený zákazník.
+
+<!--</div></div>-->
+<!--<div class="grid"><div class="col" gallery>-->
+
 #### Roubenka na západě Čech
 
 <a href="/assets/reference4/harabis1.jpg"><img src="/assets/reference4/harabis.jpg"></a>
@@ -19,7 +66,6 @@ layout: subpage.html
 <a href="/assets/reference4/harabis7.jpg" style="display:none;"><img></a>
 
 Díky našemu partnerovi jsme se dostali až na samé západní hranice do Staré Knížecí Huti, kde pro majitele vyrostla roubenka. Ideálně zvolenou izolací pro dřevostavby je otevřená buněční struktura kanadské izolační pěny Icynene, díky které dům dýchá. Pěna dokonale vyplní veškeré složité detaily, které byste klasickým izolantem neměli šanci kvalitně zaizolovat. Napojení na ostatní konstrukce je beze spojů a tak nedochází k netěstnostem a úníkum tepla.
-
 
 <!--</div><div class="col" gallery>-->
 
@@ -49,7 +95,6 @@ Po rekonstrukci střechy majitel požadoval, aby podkroví, které začnou využ
 <a href="/assets/reference3/frydlant9.jpg" style="display:none;"><img></a>
 
 Kompletní zateplení Ideální izolací Icynene - pro zelenou úsporám.
-
 
 <!--</div><div class="col" gallery>-->
 
