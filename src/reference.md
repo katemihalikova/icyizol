@@ -28,7 +28,6 @@ dvou oken tak blízko od sebe, že bych si netroufl použít jiný materiál ne�
 <a href="/assets/reference4/zaskali2.jpg" style="display:none;"><img></a>
 <a href="/assets/reference4/zaskali3.jpg" style="display:none;"><img></a>
 <a href="/assets/reference4/zaskali4.jpg" style="display:none;"><img></a>
-<a href="/assets/reference4/zaskali5.jpg" style="display:none;"><img></a>
 
 Bojíte se zateplit Váš starý, či nový dům? Máme řešení!!! Se stříkanou kanadskou pěnou Icynene neměníte dýchání domu. Neváhejte zavolat a technik Vám vše vysvětlí stejně, jako to proběhlo v případě tohoto domu na Záskalí u Liberce.
 
